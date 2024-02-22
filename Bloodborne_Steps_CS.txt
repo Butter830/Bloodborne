@@ -1,0 +1,10 @@
+Christian Stahl's Steps
+1. Removed Trivia tags by searching for <trivia>(.*?)</trivia>
+Replaced with *nothing to delete it*
+
+Discussion points:
+1. Checked tags can get rid of the <locationArea> and notes tags (Will discuss)
+2. Document is missing consumables, keys, Badges, (key items),Chalice items,
+Weapon buffs, Upgrade materials
+3. Appears that all weapons and armor sets are tagged
+
