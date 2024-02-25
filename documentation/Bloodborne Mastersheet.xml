@@ -1756,7 +1756,7 @@ loses all Blood Echoes, but awakens afresh,
 as if it were all just a bad dream.
 </consumables>
 
-<weapon>Weapon Buffs:
+<weaponBuffs>Weapon Buffs:
 Bolt Paper: Coarse paper that applies bolt to weapons when rubbed.
 
 Invented by Archibald, the infamous eccentric of the Healing
@@ -1783,7 +1783,7 @@ a staple in beast hunts, and is thought to cleanse impurity.
 
 Certain types of beasts have an abnormal fear of flame.
 
-</weapon>
+</weaponBuffs>
 
 
         
