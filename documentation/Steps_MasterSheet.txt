@@ -1,0 +1,15 @@
+Steps.
+1. Searched  for _+
+Replaced with:
+
+2. Searched for Weapons\:
+Replace <weapons>\0
+
+3. Searched for Script 46
+Replaced  with \0\n</weapons>
+
+4. Searched for Upgrade Materials:
+Replaced with <upgradeMaterials>\0
+
+5. Searched for Script 49
+Replaced with \0\n</upgradeMaterials>
