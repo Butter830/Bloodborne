@@ -1108,7 +1108,7 @@ he stared straight into impurity, it drove him mad.
                                                                                    Script 60
 </armor>
 
-Key Items:
+<keyItems>Key Items:
 Cainhurst Badge: Badge of the royal guards of Cainhurst, loyal guardians of
 the Vileblood Queen Annalise.
 
@@ -1576,9 +1576,9 @@ Commonly called a Yharnam hat.
 The inhabitants of the stump appear to have an interest
 in adornment. Why not let them be happy, and revel as
 babes?
+</keyItems>
 
-
-Consumables:
+<consumables>Consumables:
 Antidote: Small medicinal tablets that counteract poison.
 
 Used to treat ashen blood, the baffling sickness that ravaged
@@ -1754,9 +1754,9 @@ Symbol of a hunter.
 By focusing one's thoughts on this rune, a hunter
 loses all Blood Echoes, but awakens afresh,
 as if it were all just a bad dream.
+</consumables>
 
-
-Weapon Buffs:
+<weapon>Weapon Buffs:
 Bolt Paper: Coarse paper that applies bolt to weapons when rubbed.
 
 Invented by Archibald, the infamous eccentric of the Healing
@@ -1783,7 +1783,7 @@ a staple in beast hunts, and is thought to cleanse impurity.
 
 Certain types of beasts have an abnormal fear of flame.
 
-
+</weapon>
 
 
         

@@ -13,3 +13,6 @@ Replaced with <upgradeMaterials>\0
 
 5. Searched for Script 49
 Replaced with \0\n</upgradeMaterials>
+
+6. Manually entered <throwableItems>,</weapon>,<keyItems>, <consumables>, <misc>, 
+<arcaneBloodtingeTools>, <caryllRunes>, <onlineItems>, <holyChalices>, <armor> tags
