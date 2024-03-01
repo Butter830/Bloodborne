@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+
+<misc>Misc
+   <miscItem>
+       <itemName consumableList="Blood_Dreg">Blood Dreg</itemName>
+       <description>The Vilebloods of Cainhurst, blood-lusting hunters,
+    see these frightful things in coldblood.
+    
+    They often appear in the blood of echo fiends, that is to say,
+    the blood of hunters. Queen Annalise partakes in these blood
+    dregs offerings, so that she may one day bear the Child of
+    Blood, the next Vileblood heir. </description>
+   </miscItem>
+    
+   <miscItem>
+       <itemName keyItemList="Gold_Pendant">Gold Pendant</itemName>
+       <description> Pendant of Vicar Amelia. 
+    <use>Use to change into a Blood Gem,</use>
+    which fortifies weapons.
+    
+    This pendant, passed down among the vicars who head the Healing Church,
+    is a reminder of the cautionary adage. To reveal the adage,
+    touch the altar skull. </description>
+       </miscItem>
+    
+    
+    
+    
+    <page n="78"></page>
+    
+    
+    <miscItem> 
+<itemName toolList="Hand_Lantern">Hand Lantern</itemName>
+ Small portable lantern.
+    
+    <description>
+    This hunting accessory provides light while leaving
+    both hands free to hold weapons. The torch, however, provides a stronger source of light.
+    </description>
+    </miscItem>
+    
+    <miscItem>
+<itemName toolList="Monocular">Monocular</itemName>
+ Monocular used to View things up close.
+    
+   <description>
+       Not a hunter's tool, but a simple antique, to be used as one sees fit.</description>
+    </miscItem>
+   
+<itemName keyItemList="Red_Jeweled_Brooch">Red Jeweled Brooch</itemName>
+ A woman's bright-red brooch, engraved with the name Viola.
+    
+    <description>Perhaps the jewel is a gift from a hunter. <use>Use to change into</use>
+    a droplet blood gem that fortifies any weapon.
+    
+    With the proper workshop tool, various weapons can be
+    fortified.</description>
+    
+<itemName toolList="Shining_Coins">Shining Coins</itemName>
+ Various coins that are particularly luminous.
+    
+    <description> There are very few uses for spare change during the hunt,
+    but these will serve as guides through the darkness.
+    
+    Or, one could save them until morning, if it ever comes.
+    </description>
+    
+    <itemName consumableList="Tear_Stone">Tear Stone</itemName>
+  <description>Silver-shining tear stone.
+    
+   <use>Use to change into a droplet blood gem that fortifies any</use>
+    weapon.
+    
+    A doll sheds neither blood nor tears, and thus its nature
+    remains unknown. </description>
+    
+<itemName toolList="Tiny_Music_Box">Tiny Music Box</itemName>
+ A small music box received from a young Yharnam girl.
+    Plays a song shared by her mother and father.
+    
+    Inside the lid is a small scrap of paper, perhaps an old
+    message. Two names can be made out, however faintly.
+    
+    Viola and Gascoigne.
+    
+    
+    
+    
+    <page n="79"></page>
+    
+    
+    <itemName consumableList="Vermin">Vermin</itemName>
+ 
+    <description>A centipede-like creature discovered on successful hunts by
+    League hunters.
+    
+    Vermin, found hidden within filth, are only seen by League
+    confederates, and are the root of man's impurity. The League
+    has assumed the task of finding and crushing all vermin.
+    
+    Perhaps there is some mercy in the madness. Those who
+    wish to see vermin can, and those who choose to are
+    provided with boundless purpose. </description>
+    
+    
+    <itemName consumableList="Coldblood">Coldblood</itemName>
+
+    <itemName consumableList="Coldblood_Dew">Coldblood Dew</itemName>
+ 
+    <description> Droplet of coldblood containing Blood Echoes.</description>
+    
+        <use>Use to gain Blood Echoes.</use>
+    
+    Hunters sustained by the dream gain strength from Blood
+    Echoes. They imbibe the blood with thoughts of reverence,
+    indeed gratitude, for their victims.
+    
+    <itemName consumableList="Thick_Coldblood">Thick Coldblood</itemName>
+ A thick droplet of coldblood containing Blood Echoes.
+    
+    <use>Use to gain a larger amount of Blood Echoes.</use>
+    
+    A strong will produces thick blood. Doubtless, the product of
+    obsession, a potent source of human strength.
+    
+    <itemName consumableList="Frenzied_Coldblood">Frenzied Coldblood</itemName>
+ A rich droplet of coldblood containing Blood Echoes.
+    
+    <use>Use to gain frenzied Blood Echoes.</use>
+    
+    This manifestation of madness comes from a mind teetering
+    on the very brink, but has a sane mind ever produced
+    anything of true significance?
+    
+    <itemName consumableList="Kin_Coldblood">Kin Coldblood</itemName>
+ Coldblood of inhuman kin of the cosmos, brethren of the
+    Great Ones.
+    
+    <use>Use to gain unspeakable Blood Echoes.</use>
+    
+    
+    <page n="80"></page>
+    
+    
+    Dare not to delve into the world beyond humanity, the
+    eldritch Truth touched upon long ago at Byrgenwerth.
+    
+    <itemName consumableList="Great_One_Coldblood">Great One Coldblood</itemName>
+ Relic containing the Blood Echoes of a Great One.
+    
+    <use>Use to gain cosmically nightmarish Blood Echoes.</use>
+    
+    Like a true revelation, this uncanny relic defies
+    understanding.
+    
+    <itemName consumableList="Old_Great_One_Coldblood">Old Great One Coldblood</itemName>
+ Relic containing the Blood Echoes of an Old Great One.
+    
+    <use>Use to gain cosmically nightmarish Blood Echoes.</use>
+    
+    Like a true revelation, this uncanny relic defies
+    understanding.
+    
+    <itemName consumableList="Revered_Great_One_Coldblood*">Revered Great One Coldblood*</itemName>
+ Relic containing the blood echoes of a revered Great One.
+    
+    <use>Use to gain cosmically nightmarish Blood Echoes.</use>
+    
+    Like a true revelation, this uncanny relic defies
+    understanding
+    *Has not been found through normal means
+    
+</misc>
+
+<arcaneBloodtingeTools>Arcane/Bloodtinge Tools
+    
+<itemName spellList="A_Call_Beyond">A Call Beyond</itemName>
+ One of the secrets of the Choir.
+    
+    Long ago, the Healing Church used phantasms to reach a
+    lofty plane of darkness, but failed to make contact with the
+    outer reaches of the cosmos.
+    
+    The rite failed to achieve its intended purpose, but instead
+    created a small exploding star, now a powerful part of the
+    Choir's arsenal.
+    At times, failure is the mother of invention.
+    
+    <itemName toolList="Augur_of_Ebrietas">Augur of Ebrietas</itemName>
+ One of the secret rites of the Choir,
+    high-ranking members of the Healing Church.
+    
+    
+    <page n="81"></page>
+    
+    
+    
+    Use spirits, the invertebrates known to be augurs of
+    the Great Ones, to partially summon abandoned Ebrietas.
+    
+    One of the few rites that allow one to directly utilize
+    the power of the Great Ones, and evidence that
+    the Choir had approached the eldritch Truth.
+    
+<itemName spellList="Beast_Roar">Beast Roar</itemName>
+ One of the forbidden hunter tools
+    made by Irreverent Izzy.
+    
+    Borrow the strength of the terrible undead darkbeasts,
+    if only for a moment, to blast surrounding foes back with
+    the force of a roaring beast.
+    
+    The indescribable sound is broadcast with the caster's
+    own vocal cords, which begs the question, what terrible
+    things lurk deep within the frames of men?
+    
+    <itemName spellList="Empty_Phantasm_Shell">Empty Phantasm Shell</itemName>
+ Empty invertebrate shell that is said to be a familiar of a
+    Great One. The Healing Church has discovered a great
+    variety of invertebrates, or phantasms, as they are called.
+    
+    Shells with slime still harbour arcane power, and can be
+    rubbed on weapons to imbue them with their strength.
+    
+<itemName spellList="Executioner's_Gloves">Executioner's Gloves</itemName>
+ One of the secret treasures hidden in Cainhurst.
+    The gloves of an executioner from a faraway land.
+    
+    Passed from executioner father to executioner son,
+    these gloves can be used to summon wrathful spirits
+    of the past by smearing them with blood.
+    
+    It is said that the nobles found in immeasurable delight
+    in the dances of these vengeful specters.
+    
+<itemName spellList="Choir_Bell">Choir Bell</itemName>
+ Special hunter tool of the Choir, high-ranking
+    member of the church. Fashioned after a bell that
+    projects an arcane sound across planes of existence.
+    
+    
+    
+    
+    <page n="82"></page>
+    
+    
+    The sound of this smaller, silver version of the bell
+    does not cross planes, but grants vigor and healing
+    to all cooperators.
+    
+<itemName spellList="Messenger’s_Gift">Messenger’s Gift</itemName>
+ A strange gift from the messengers, inhabitants of
+    the dream who revere the brave hunters.
+    
+    <use>Use to envelop oneself in a black nightmarish mist,
+        then transform into a messenger.</use> The illusion is a parlor
+    trick, and any large movement will break the spell.
+    
+    To preserve the guise, proceed very slowly.
+    
+    <itemName spellList="Old_Hunter_Bone">Old Hunter Bone</itemName>
+
+    The bone of an old hunter whose name is lost.
+    
+    It is said that he was an apprentice to old Gehrman, and a
+    practitioner of the art of Quickening, a technique particular
+    to the first hunters.
+    
+    It is most appropriate that hunters, carriers of the torch who
+    are sustained by the dream, would tease an old art from his
+    remains.
+    
+    <itemName spellList="Tiny_Tonitrus">Tiny Tonitrus</itemName>
+ Tonitrus is a unique weapon crafted by Archibald,
+    the infamous eccentric of the Healing Church workshop.
+    
+    This is a similar morning star mace that utilizes
+    Quicksilver Bullets. When struck into the ground,
+    it recreates the blue sparks that are said to surround
+    the darkbeasts.
+    
+    Like Archibald's masterpiece, this too
+    is a superb conductor of the powerful blue sparks.
+    
+    <itemName spellList="Accursed_Brew">Accursed Brew</itemName>
+ Skull of a local from the violated fishing village. The inside
+    of the skull was forcibly searched for eyes, as evidenced by
+    innumerable scratches and indentations.
+    
+    No wonder the skull became stewed in curses.
+    
+    
+    
+    <page n="83"></page>
+    
+    
+    
+    They who offer baneful chants.
+    Weep with them, as one in trance.
+    
+    <itemName spellList="Blacksky_Eye">Blacksky Eye</itemName>
+ Soft eye blessed by a phantasm. They were
+    discovered through Byrgenwerth's contact with the
+    arcane, but in the end revealed nothing.
+    
+    Deep within the eye lies a vast stretch of dark
+    sky that rumbles with an endless meteor storm.
+    The slightest rub of the tiny orb, and the rock
+    will tumble and soar.
+    
+    <itemName spellList="Madara’s_Whistle">Madara’s Whistle</itemName>
+ Whistle of the Madaras twins, denizens of the Forbidden Woods.
+    The twins grew up alongside a poisonous snake, and
+    developed a silent, inhuman kinship.
+    
+    The poisonous snake grew uncontrollably, raised on a
+    healthy diet of beast entrails. Even after their deaths, it is
+    said to respond to the call of the twins' whistle from within the Nightmare.
+    
+</arcaneBloodtingeTools>
+
+    </root>
