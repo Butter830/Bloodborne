@@ -51,8 +51,8 @@
 <itemName keyItemList="Red_Jeweled_Brooch">Red Jeweled Brooch</itemName>
  A woman's bright-red brooch, engraved with the name Viola.
     
-    <description>Perhaps the jewel is a gift from a hunter. <use>Use to change into</use>
-    a droplet blood gem that fortifies any weapon.
+    <description>Perhaps the jewel is a gift from a hunter. <use>Use to change into
+       a droplet blood gem that fortifies any weapon.</use>
     
     With the proper workshop tool, various weapons can be
     fortified.</description>
@@ -69,8 +69,8 @@
     <itemName consumableList="Tear_Stone">Tear Stone</itemName>
   <description>Silver-shining tear stone.
     
-   <use>Use to change into a droplet blood gem that fortifies any</use>
-    weapon.
+   <use>Use to change into a droplet blood gem that fortifies any
+      weapon.</use>
     
     A doll sheds neither blood nor tears, and thus its nature
     remains unknown. </description>
@@ -254,10 +254,10 @@
     the dream who revere the brave hunters.
     
     <use>Use to envelop oneself in a black nightmarish mist,
-        then transform into a messenger.</use> The illusion is a parlor
-    trick, and any large movement will break the spell.
+        then transform into a messenger. The illusion is a parlor
+        trick, and any large movement will break the spell. 
     
-    To preserve the guise, proceed very slowly.
+    To preserve the guise, proceed very slowly.</use>
     
     <itemName spellList="Old_Hunter_Bone">Old Hunter Bone</itemName>
 
