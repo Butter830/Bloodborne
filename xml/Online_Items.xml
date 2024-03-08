@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<lore>
+<onlineItems>Online Items
+    <itemName onlineItem="Beckoning_Bell">Beckoning Bell:</itemName> <description>Great Old Bell discovered in the underground labyrinth.
+    
+    
+    Its ring resonates across worlds, and the first hunter used it
+    as a special signal to call hunters from other worlds to cross
+    the gap and cooperate.
+    
+    
+    A human must use Insight to ring this uncanny bell, but the
+    benefits of cross-world cooperation are many.
+    
+    
+    Note: Online use only. Cannot use this item offline.
+    </description>
+    <itemName onlineItem="League_Staff">League Staff:</itemName> <description> The League staff is the sign of a confederate.
+    
+   
+    A directory within the hilt lists the names of fellow
+    confederates.
+    
+    
+    Members of the League brandish this staff to indicate
+    themselves to fellow members of the League.
+    
+    
+    <page n="84"></page>
+    
+    
+    There shall be no sympathy for those engaged in the bloody
+    mission of the League. No matter that an oath must be taken
+    to uphold the illusion.
+    </description>
+    
+    <itemName onlineItem="Notebook">Notebook:</itemName><description> Messengers are inhabitants of the dream who revere the
+    brave hunters. Use them to send messages to other worlds.
+        
+    Leave notes with messengers, read the notes left by
+    messengers in other worlds, and rate notes to participate
+    in the formation of a shared inter-plane intelligence.
+   
+    Note: Online use only. Cannot use this item offline.
+    </description>
+    <itemName onlineItem="Silencing_Blank">Silencing Blank:</itemName> <description> Hunters are linked by the resonance of bells with special
+    encoded timbres. This inaudible burst disrupts such
+    resonance.
+    
+    Fire to end co-operation, and prevent further co-operation.
+    Firing this does not disrupt the resonance of a sinister bell.
+    
+    Note: Online use only. Cannot use this item offline.
+    </description>
+   
+    <itemName onlineItem="Sinister_Resonant_Bell">Sinister Resonant Bell:</itemName> <description> A blood-stained bell discovered in the old underground
+    labyrinth.
+    
+    
+    One of the resonating bells that cross the gaps of worlds, but
+    this one knells for misfortune and malice.
+    
+    The Sinister Bell is an object of dark thoughts. Ring it to
+    become the enemy of a hunter in another world.
+    
+    Note: Online use only. Cannot use this item offline.
+    </description>
+    <itemName onlineItem="Small_Resonant_Bell">Small Resonant Bell:</itemName><description> Small bell discovered in the old underground labyrinth.
+    
+    
+    Its ring resonates across worlds, and the first hunter
+    used it as a special signal to call hunters from other
+    worlds to cross the gap and cooperate.
+    
+    This bell resonates with its counterpart, the Beckoning
+    
+    
+    
+    <page n="85"></page>
+    
+    
+    Bell. Ring to help hunters in other worlds.
+    
+    Note: Online use only. Cannot use this item offline.
+    </description>
+    <itemName onlineItem="Vileblood_Register">Vileblood Register:</itemName> <description>Red-leather record of the Vilebloods loyal to the covenant of
+    Annalise, Queen of the Vilebloods, at Cainhurst Castle.
+    
+    A record of the Vilebloods, blood-lusting hunters who seek
+    blood dregs of their prey, kept throughout the ages.
+    
+    Note: Online use only. Cannot use this item offline.
+    </description>
+</onlineItems>
+    
+    <chaliceRitualMaterials> Chalice Ritual Materials
+        <itemName chaliceRitualMaterial="Arcane_Haze">Arcane Haze:</itemName><description> Material used in a Holy Chalice rite.
+    
+        
+    The tiny smatterings of haze that are found in certain
+    ritual materials. Sometimes required for special rites.
+    
+    The additional rite Sinister Bell makes the bell-ringing
+    woman appear, and when she rings a sinister bell, hunters
+    from other worlds will be beckoned as adversaries.
+            </description>
+        <itemName chaliceRitualMaterial="Bloodshot_Eyeball">Bloodshot Eyeball:</itemName><description> Material used in a Holy Chalice rite.
+    
+        
+    An exquisite eyeball removed quickly after death,
+    or perhaps even before. Used to unlock the seal
+    of the old labyrinth hintertombs.
+    </description>
+    
+        <itemName chaliceRitualMaterial="Blooming_Coldbood_Flower">Blooming Coldbood Flower:</itemName> <description>Material used in a Holy Chalice ritual.
+    
+        
+    Pale vegetation that commonly grows on coldblood in a
+    place long abandoned, that has bloomed into a bright red
+    stygian flower.
+    </description>
+    
+        <itemName chaliceRitualMaterial="Coldblood_Flowerbud">Coldblood Flowerbud:</itemName> <description>Material used in a Holy Chalice ritual.
+    
+        
+    Pale vegetation that commonly grows on coldblood in a
+    place long ago abandoned.
+    </description>
+    
+    
+    <page n="86"></page>
+    
+    
+        <itemName chaliceRitualMaterial="Coldblood_Flower_Bulb">Coldblood Flower Bulb:</itemName> <description>Material used in a Holy Chalice ritual.
+    
+        
+    Pale vegetation that commonly grows on coldblood in a
+    place long abandoned, said to mature slowly in close
+    proximity to death, and eventually bloom.
+    </description>
+        
+        <itemName chaliceRitualMaterial="Pearl_Slug">Pearl Slug:</itemName><description> Material used in a Holy Chalice rite.
+    
+        
+    Of the all the strange lifeforms that reside in
+    the nooks and crannies of the old labyrinth,
+    the slugs are clear signs of the left-behind Great Ones.
+    </description>
+        
+        <itemName chaliceRitualMaterial="Red_Jelly">Red Jelly:</itemName> <description>Material used in a Holy Chalice ritual.
+    
+        
+    Stillborn infants born of a creature of unknown origin, of the
+    type found in some corners of the old labyrinth.
+            </description>
+        <itemName chaliceRitualMaterial="Ritual_Blood">Ritual Blood:</itemName> <description>Material used in a Holy Chalice rite.
+    
+        
+    One of the basic ingredients used to satiate a Holy Chalice is this
+    incoagulable blood.
+    
+    When all is melted in blood, all is reborn.
+    </description>
+        
+        <itemName chaliceRitualMaterial="Tomb_Mold">Tomb Mold:</itemName><description> Material used in a Holy Chalice ritual.
+    
+        
+    Mould that grows from rotten flesh and blood inside the old
+    labyrinth. Matures to bear giant spores.
+    </description>
+        
+        <itemName chaliceRitualMaterial="Bastard_of_Loran">Bastard of Loran:</itemName><description> Special material used in a Holy Chalice ritual.
+    
+        
+    Remains of Loran infant infected by the scourge.
+    A harbinger of curses and symbol of defilement.
+    
+    The additional rite Curse defiles dungeons in which hunters'
+    HP is greatly eroded, but what better place to seek cursed
+    blood gems but in the midst of defilement?
+    </description>
+    
+    
+    
+    
+    <page n="87"></page>
+    
+    
+        <itemName chaliceRitualMaterial="Inflicted_Organ">Inflicted Organ:</itemName> <description>Special material used in a Holy Chalice ritual.
+    
+        
+    Special body parts collected by the Healing Church.
+    What was this gruesome bait used to lure?
+    
+    The additional rite Rotted Offering beckons ungodly forces,
+    normally terrifying things, but also worthy prey for a special
+    hunt.
+    </description>
+        
+        <itemName chaliceRitualMaterial="Living_String">Living String:</itemName><description> Special material used in a holy chalice ritual.
+    
+        
+    The immense brain that Mensis retrieved from the nightmare
+    was indeed lined with eyes on the inside, but they were of
+    an evil sort, and the brain itself was terrible rotten.
+    
+    But even still, it was a legitimate Great One, and left a relic.
+    A living relic, at that, which is a precious thing indeed.
+    </description>
+    
+        <itemName chaliceRitualMaterial="Sage’s_Hair">Sage's Hair:</itemName> <description>Special material used in a Holy Chalice ritual.
+    
+        
+    A body part of a saint, sacrificed by the Healing Church in
+    their search for Truth.
+    
+    The additional rite Fetid Offering invigorates the Watchers,
+    making them more treacherous than normal, but also making
+    them worthy prey for a special hunt.
+    </description>
+    
+        <itemName chaliceRitualMaterial="Sage’s_Wrist">Sage's Wrist:</itemName> <description>Special material used in a Holy Chalice ritual.
+    
+        
+    A body part of a saint, sacrificed by the Healing Church in
+    their search for Truth.
+    
+    The additional rite Fetid Offering invigorates the Watchers,
+    making them more treacherous than normal, but also making
+    them worthy prey for a special hunt.
+    </description>
+    
+        <itemName chaliceRitualMaterial="Yellow_Backbone">Yellow Backbone:</itemName> <description>Special material used in a Holy Chalice rite.
+    
+       
+   Special body parts collected by the Healing Church.
+    What was this gruesome bait used to lure?
+    </description>
+    
+    </chaliceRitualMaterials>
+    <page n="88"></page>
+</lore>
