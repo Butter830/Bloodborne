@@ -4,6 +4,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = lore
 
+
 lore = element lore{equipment+, area+, npc+, boss+} #I added the pluses, so we can have multiple of these - ND
 equipment = element equipment{((caryllRune | attire | weapon | firearm | item )?)+}
 

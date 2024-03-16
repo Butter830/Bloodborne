@@ -16,3 +16,7 @@ Replaced with \0\n</upgradeMaterials>
 
 6. Manually entered <throwableItems>,</weapon>,<keyItems>, <consumables>, <misc>, 
 <arcaneBloodtingeTools>, <caryllRunes>, <onlineItems>, <holyChalices>, <armor> tags
+
+7. Added Self closing tags for page #s 
+Searched for Script (\d+)
+Replaced with <page n="\1"></page>

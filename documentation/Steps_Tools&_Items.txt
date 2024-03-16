@@ -1,0 +1,39 @@
+Steps for Mic Items and Arcane tools
+
+1. Searched for & <>
+
+
+2. Tag all items listed
+Searched (.+): 
+Replaced <itemName ="\1"></itemName>/\n\1\n
+*Left attribute empty to fill in as per item*
+
+
+3. Got rid of white spaces in attributes 
+Searched for "\s+ 
+Replaced with "
+
+4. Added use tag for items that describe their use 
+Searched for Use to.+
+Replaced with <use>\0</use>
+
+5. Searched for \".*\" 
+To find all attributes and add in manually _ between words
+
+6. Searched for (<itemName .*=".+">)(</itemName>)\n(.+)
+Replaced with (\1)(\3)(\2)
+* To fix issue of names being outside of tags from step 2*
+
+7. Searched for \)+ and \)+
+Replacing them with nothing 
+*Remove random () signs
+
+8.Searched for (">)\s+
+Replaced wit \1
+*Removed spaces between > and text in itemName tags*
+
+9. Manually entered attribute name to all itemName tags
+spellList
+toolList
+consumableList
+keyItemList
