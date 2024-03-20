@@ -1,0 +1,30 @@
+Steps for Holy Chalices
+Christian Stahl
+
+1. Added tags for all items
+Searched for (.+)
+Replaced with <itemName holyChalicesList="\1">\1 </itemName>
+
+2. Removed spaces in attributes for itemName tags
+Searched for ">\s+ and "\s\s+
+Replaced with "> and "
+
+3. Removed tags and added tags for notes
+Searched for <itemName holyChalicesList="Note">(Note) </itemName>
+Replaced with <note>\1
+
+4. Added end tag for note
+Searched for (note>.+\n.+)
+replaced with \1</note>
+
+5. Put description text on seperate line from itemname tag
+Searched for (</itemName>)(.+)
+Replaced with \1\n\n\2
+
+6. Added in description tags
+Searched for (</itemName>\n\n)(.+)
+Replaced with \1<description>\2
+
+7. Added end tag for description
+Searched for 
+Replaced with 
