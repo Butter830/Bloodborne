@@ -40,7 +40,12 @@ let $con := "consumable Item"
 This shows the number of of any of the items in the game (only those defined so far)
 :)
 
-return (concat ("There are a total of ", $toolItem-count, " items considered",$t," in Bloodborne.")) 
+(:
 
-(:order by $consumableItem 
-return string-join($consumableItem ,"&#xa;"):)
+return (concat ("There are a total of ", $toolItem-count, " items considered",$t," in Bloodborne.")) 
+:)
+
+order by $consumableItem 
+return string-join($consumableItem ,"&#xa;")
+
+
