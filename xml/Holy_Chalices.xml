@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<holyChalices>
+
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<lore>
 <itemName holyChalicesList="Holy Chalices">Holy Chalices </itemName>
     
 <itemName holyChalicesList="Pthumeru Chalice">Pthumeru Chalice </itemName>
@@ -40,7 +42,7 @@
     
     
     
-    <page n="94"></page>
+    
     
     
 <itemName holyChalicesList="Central Pthumeru Root Chalice">Central Pthumeru Root Chalice </itemName>
@@ -85,16 +87,16 @@
     a mad Pthumerian.
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked the
-    wisdom of the eldritch Truth.</description>
+    wisdom of the eldritch Truth.
     
-<note>Note Additional rite Sinister Bell is for online use only.
-    The bell-ringing woman does not appear offline.</note>
-    
-    
+**Note Additional rite Sinister Bell is for online use only.
+The bell-ringing woman does not appear offline.**</description>
     
     
     
-    <page n="95"></page>
+    
+    
+    
     
     
 <itemName holyChalicesList="Defiled Chalice">Defiled Chalice </itemName>
@@ -142,11 +144,11 @@
     The Pthumerian monarch was traditionally a woman
     who assumed a name with classical roots.</description>
     
+     
+    
+     
     
     
-    
-    
-    <page n="96"></page>
     
     
 <itemName holyChalicesList="Sinister Pthumeru Ihyll Root Chalice">Sinister Pthumeru Ihyll Root Chalice </itemName>
@@ -157,10 +159,10 @@
     the Sinister Resonant Bell. The bell-ringing woman appears to be a mad Pthumerian.
     
     The Pthumerian monarch was traditionally a woman
-    who assumed a name with classical roots.</description>
+    who assumed a name with classical roots.
     
-<note>Note Additional rite Sinister Bell is for online use only.
-    the bell-ringing woman does not appear offline.</note>
+**Note Additional rite Sinister Bell is for online use only.
+the bell-ringing woman does not appear offline.**</description>
     
 <itemName holyChalicesList="Hintertomb Chalice">Hintertomb Chalice </itemName>
 
@@ -201,7 +203,7 @@
     
     
     
-    <page n="97"></page>
+    
     
     
     The hintertombs are unceremonious homes to graves
@@ -215,10 +217,10 @@
     a mad Pthumerian.
     
     The hintertombs are unceremonious homes to graves and
-    death, cesspools of noxious snakes and insects.</description>
+    death, cesspools of noxious snakes and insects.
     
-<note>Note Additional rite Sinister Bell is for online use only.
-    The bell-ringing woman does not appear offline.</note>
+**Note Additional rite Sinister Bell is for online use only.
+The bell-ringing woman does not appear offline.**</description>
     
 <itemName holyChalicesList="Ailing Loran Chalice">Ailing Loran Chalice </itemName>
 
@@ -255,7 +257,7 @@
     
     
     
-    <page n="98"></page>
+    
     
     
 <itemName holyChalicesList="Sinister Lower Loran Chalice">Sinister Lower Loran Chalice </itemName>
@@ -269,10 +271,10 @@
     There are trace remains of medical procedures in parts of
     ailing Loran. Whether these were attempts to control the
     scourge of the beast, or the cause of the
-    outbreak, is unknown.</description>
+    outbreak, is unknown.
     
-<note>Note Additional rite Sinister Bell is for online use only.
-    The bell-ringing woman does not appear offline.</note>
+**Note Additional rite Sinister Bell is for online use only.
+The bell-ringing woman does not appear offline.**</description>
     
 <itemName holyChalicesList="Great Isz Chalice">Great Isz Chalice </itemName>
 
@@ -306,4 +308,4 @@
     a mad Pthumerian.
     According to the Choir, the land of Izs lies in contact
     with the cosmos, which allowed the Great Ones to function on transcendental planes of thought.</description>
-</holyChalices>
+</lore>

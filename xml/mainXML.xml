@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 
+
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
 <!-- Equipment start -->
 <equipment>

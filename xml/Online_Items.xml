@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
 <onlineItems>Online Items
     <itemName onlineItem="Beckoning_Bell">Beckoning Bell:</itemName> <description>Great Old Bell discovered in the underground labyrinth.
@@ -14,7 +15,7 @@
     benefits of cross-world cooperation are many.
     
     
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
     <itemName onlineItem="League_Staff">League Staff:</itemName> <description> The League staff is the sign of a confederate.
     
@@ -27,7 +28,7 @@
     themselves to fellow members of the League.
     
     
-    <page n="84"></page>
+    
     
     
     There shall be no sympathy for those engaged in the bloody
@@ -42,7 +43,7 @@
     messengers in other worlds, and rate notes to participate
     in the formation of a shared inter-plane intelligence.
    
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
     <itemName onlineItem="Silencing_Blank">Silencing Blank:</itemName> <description> Hunters are linked by the resonance of bells with special
     encoded timbres. This inaudible burst disrupts such
@@ -51,7 +52,7 @@
     Fire to end co-operation, and prevent further co-operation.
     Firing this does not disrupt the resonance of a sinister bell.
     
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
    
     <itemName onlineItem="Sinister_Resonant_Bell">Sinister Resonant Bell:</itemName> <description> A blood-stained bell discovered in the old underground
@@ -64,7 +65,7 @@
     The Sinister Bell is an object of dark thoughts. Ring it to
     become the enemy of a hunter in another world.
     
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
     <itemName onlineItem="Small_Resonant_Bell">Small Resonant Bell:</itemName><description> Small bell discovered in the old underground labyrinth.
     
@@ -77,12 +78,12 @@
     
     
     
-    <page n="85"></page>
+    
     
     
     Bell. Ring to help hunters in other worlds.
     
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
     <itemName onlineItem="Vileblood_Register">Vileblood Register:</itemName> <description>Red-leather record of the Vilebloods loyal to the covenant of
     Annalise, Queen of the Vilebloods, at Cainhurst Castle.
@@ -90,7 +91,7 @@
     A record of the Vilebloods, blood-lusting hunters who seek
     blood dregs of their prey, kept throughout the ages.
     
-    Note: Online use only. Cannot use this item offline.
+    **Note: Online use only. Cannot use this item offline.**
     </description>
 </onlineItems>
     
@@ -129,7 +130,7 @@
     </description>
     
     
-    <page n="86"></page>
+    
     
     
         <itemName chaliceRitualMaterial="Coldblood_Flower_Bulb">Coldblood Flower Bulb:</itemName> <description>Material used in a Holy Chalice ritual.
@@ -184,7 +185,7 @@
     
     
     
-    <page n="87"></page>
+    
     
     
         <itemName chaliceRitualMaterial="Inflicted_Organ">Inflicted Organ:</itemName> <description>Special material used in a Holy Chalice ritual.
@@ -239,5 +240,5 @@
     </description>
     
     </chaliceRitualMaterials>
-    <page n="88"></page>
+    
 </lore>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<lore>
     <caryllRunes>Caryll Runes
-    <itemName runeList="Beast_Rune">Beast Rune</itemName>
+    <itemName runeList="Beast">Beast Rune</itemName>
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     A transcription of the roar of a labyrinth beast, the bearer of
@@ -11,7 +13,7 @@
     first to be deemed forbidden. The discovery of blood entailed
     the discovery of undesirable beasts.</description>
     
-    <itemName runeList="Blood_Rapture_Rune">Blood Rapture Rune</itemName>
+    <itemName runeList="Blood_Rapture">Blood Rapture Rune</itemName>
     <description>A Caryll rune that transcribes inhuman sounds.
     "Blood Rapture" is the raw euphoria of the warmth of blood.
     Restores HP with visceral attacks, one of the darker hunter
@@ -24,7 +26,7 @@
     For them, they find solace in "Blood Rapture," that serves as
     a surrogate for their desires. </description>
     
-    <itemName runeList="Clawmark_Rune">Clawmark Rune</itemName>
+    <itemName runeList="Clawmark">Clawmark Rune</itemName>
     <description>A Caryll rune that transcribes inhuman sounds.
     
     The "Clawmark" is an impulse to seek the warmth of blood
@@ -36,7 +38,7 @@
     the hearts of men, while "Clawmark" is an alluring invitation
     to accept this very nature. </description>
     
-    <itemName runeList="Communion_Rune">Communion Rune</itemName>
+    <itemName runeList="Communion">Communion Rune</itemName>
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     Several runes relate to "blood," including "Communion,"
@@ -45,14 +47,14 @@
     
     
     
-    <page n="89"></page>
+    
     
     
     This rune represents the Healing Church and its
     ministers. Blood ministration is, of course, the pursuit
     of communion. </description>
     
-    <itemName runeList="Eye_Rune">Eye Rune</itemName>
+    <itemName runeList="Eye">Eye Rune</itemName>
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     A transcription of "eye," as spoken by left-behind Great
@@ -64,7 +66,7 @@
     guidance, and sought to line his brain with eyes in order to
     elevate his thoughts. </description>
     
-    <itemName runeList="Formless_Oedon_Rune">Formless Oedon Rune</itemName> 
+    <itemName runeList="Formless_Oedon">Formless Oedon Rune</itemName> 
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     The Great One Oedon, lacking form, exists only in voice,
@@ -76,7 +78,7 @@
     Both Oedon, and his inadvertent worshippers, surreptitiously
     seek the precious blood. </description>
     
-    <itemName runeList="Heir_Rune">Heir Rune</itemName>
+    <itemName runeList="Heir">Heir Rune</itemName>
     <description>A Caryll rune that transcribes inhuman sounds.
     
     The "Heir" sees sentimentality in the warmth of blood, and
@@ -88,14 +90,14 @@
     Perhaps the "Heir" is a hunter who bears the echoing will of
     those before him. </description>
     
-    <itemName runeList="Moon_Rune">Moon Rune</itemName>
+    <itemName runeList="Moon">Moon Rune</itemName>
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     A transcription of "moon," as spoken by the Great Ones
     
     
     
-    <page n="90"></page>
+    
     
     
     inhabiting the nightmare.
@@ -105,7 +107,7 @@
     The Great Ones that inhabit the nightmare are
     sympathetic in spirit, and often answer when called upon. </description>
     
-    <itemName runeList="Oedon_Writhe_Rune">Oedon Writhe Rune </itemName>
+    <itemName runeList="Oedon_Writhe">Oedon Writhe Rune </itemName>
     <description>A Caryll rune that transcribes inhuman sounds.
     
     "Writhe" sees a subtle mucous in the warmth of blood,
@@ -117,7 +119,7 @@
     Both Oedon, and Oedon's inadvertent worshippers,
     surreptitiously seek the precious blood. </description>
     
-    <itemName runeList="Guidance_Rune">Guidance Rune</itemName>
+    <itemName runeList="Guidance">Guidance Rune</itemName>
     <description>A Caryll rune discovered by the old hunter Ludwig along
     with the Holy Moonlight Sword.
     Boosts amount of life recovered by rallying.
@@ -128,7 +130,7 @@
     sprites offered "guidance," and emptied Ludwig of his fears
     at least in the midst of a hunt. </description>
     
-    <itemName runeList="Lake_Rune">Lake Rune</itemName> 
+    <itemName runeList="Lake">Lake Rune</itemName> 
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     This transcription of the Great Ones' inhuman voices
@@ -144,10 +146,10 @@
     
     
     
-    <page n="91"></page>
     
     
-    <itemName runeList="Anti-Clockwise_Metamorphosis_Rune">Anti-Clockwise Metamorphosis Rune</itemName>
+    
+    <itemName runeList="Anti-Clockwise_Metamorphosis">Anti-Clockwise Metamorphosis Rune</itemName>
     <description>A secret symbol left by Caryll, runesmith of
     Byrgenwerth.
     
@@ -159,7 +161,7 @@
     a reality, Metamorphosis, and the excesses and deviation
     that followed, was only the beginning. </description>
     
-    <itemName runeList="Clockwise_Metamorphosis_Rune">Clockwise Metamorphosis Rune</itemName> 
+    <itemName runeList="Clockwise_Metamorphosis">Clockwise Metamorphosis Rune</itemName> 
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     The twisted cross means "metamorphosis."
@@ -170,7 +172,7 @@
     a reality. Metamorphosis, and the excesses and deviation
     that followed. were only the beginning. </description>
     
-    <itemName runeList="Sea_Rune">Sea Rune</itemName> 
+    <itemName runeList="Sea">Sea Rune</itemName> 
     <description>A Caryll rune that transcribes inhuman sounds.
     
     This transcription of the Great Ones' inhuman voices depicts
@@ -182,7 +184,7 @@
     
     Overcome this hindrance, and seek what is yours. </description>
     
-    <itemName runeList="Corruption_Rune">Corruption Rune</itemName> 
+    <itemName runeList="Corruption">Corruption Rune</itemName> 
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     Several runes contain a nuance of "Blood," including the
@@ -194,13 +196,13 @@
     
     
     
-    <page n="92"></page>
+    
     
     
     Yet the corrupt are heretics in the eyes of the Church, and
     thus subject to the wrath of the Executioners. </description>
     
-    <itemName runeList="Hunter_Rune">Hunter Rune</itemName>
+    <itemName runeList="Hunter">Hunter Rune</itemName>
     <description>A Caryll Rune that transcribes inhuman sounds.
     
     This red-smudged rune means "Hunter," and has been
@@ -210,7 +212,7 @@
     threatened the pledgers of the "Hunter" oath surely has an
     issue with blood. </description>
     
-    <itemName runeList="Impurity_Rune">Impurity Rune</itemName> 
+    <itemName runeList="Impurity">Impurity Rune</itemName> 
     <description>A Carryl rune that transcribes inhuman sounds.
     This rune, discovered inside the forbidden beast eater, came
     to symbolize "Impurity," and the oath of the League.
@@ -220,7 +222,7 @@
     Vermin writhe within filth, and are the root of man's
     impurity. Crush all vermin without hesitation. </description>
     
-    <itemName runeList="Radiance_Rune">Radiance Rune</itemName> 
+    <itemName runeList="Radiance">Radiance Rune</itemName> 
     <description>A secret symbol left by Caryll, runesmith of Byrgenwerth.
     
     The rune for "Radiance," adopted by the sworn
@@ -231,7 +233,7 @@
     never cooperate with the bloodthirsty hunters
     who serve the undead queen, Annalise. </description>
     
-    <itemName runeList="Beast's_Embrace_Rune">Beast’s Embrace Rune</itemName>
+    <itemName runeList="Beast's_Embrace">Beast’s Embrace Rune</itemName>
     <description>After repeated experiments in controlling the scourge of
     beasts, the gentle "Embrace" rune was discovered.
     
@@ -244,10 +246,10 @@
     
     
     
-    <page n="93"></page>
     
     
-    <itemName runeList="Milkweed_Rune">Milkweed Rune</itemName> 
+    
+    <itemName runeList="Milkweed">Milkweed Rune</itemName> 
     <description>A Caryll rune envisioned by Adeline, patient of the
     research hall.
     
@@ -258,4 +260,4 @@
     Phantasms guide us and lead us to further discoveries. </description>
     
     </caryllRunes>
-</root>
+</lore>

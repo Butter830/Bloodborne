@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<root> 
+
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<lore> 
 
 <misc>Misc
    <keyItem>
@@ -28,7 +30,7 @@
     
     
     
-    <page n="78"></page>
+    
     
     
     <toolItem> 
@@ -71,7 +73,7 @@
     </description>
          </toolItem>
             
-      <consuableItem>
+      <consumableItem>
          <itemName consumableList="Tear_Stone">Tear Stone</itemName>
   <description>Silver-shining tear stone.
     
@@ -80,7 +82,7 @@
     
     A doll sheds neither blood nor tears, and thus its nature
     remains unknown. </description>
-         </consuableItem>
+         </consumableItem>
    
          <toolItem>
          <itemName toolList="Tiny_Music_Box">Tiny Music Box</itemName>
@@ -95,7 +97,7 @@
             </toolItem>
     
     
-    <page n="79"></page>
+    
     
     
             <consumableItem>
@@ -159,7 +161,7 @@
     <use>Use to gain unspeakable Blood Echoes.</use>
     
     
-    <page n="80"></page>
+    
     
     
     Dare not to delve into the world beyond humanity, the
@@ -219,7 +221,7 @@
  high-ranking members of the Healing Church.
     
     
-    <page n="81"></page>
+    
     
     
     
@@ -278,7 +280,7 @@
     
     
     
-    <page n="82"></page>
+    
     
     
     The sound of this smaller, silver version of the bell
@@ -335,7 +337,7 @@
     No wonder the skull became stewed in curses.
     
     
-    <page n="83"></page>
+    
     
     
     
@@ -367,4 +369,4 @@
                               </spellItem>
 </arcaneBloodtingeTools>
 
-    </root>
+    </lore>
