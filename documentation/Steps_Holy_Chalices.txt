@@ -2,7 +2,7 @@ Steps for Holy Chalices
 Christian Stahl
 
 1. Added tags for all items
-Searched for (.+)
+Searched for :(.+)
 Replaced with <itemName holyChalicesList="\1">\1 </itemName>
 
 2. Removed spaces in attributes for itemName tags
