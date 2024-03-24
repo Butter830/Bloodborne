@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
-<keyItems>
+<keyItem>
     
 
 <itemName keyItemList="Cainhurts_Badge">Cainhurst Badge</itemName>
@@ -611,7 +612,7 @@ The inhabitants of the stump appear to have an interest
 in adornment. Why not let them be happy, and revel as
 babes?
 </description>
-</keyItems>
+</keyItem>
 
 <consumables>
 <itemName consumableList="Antidote">Antidote</itemName>
