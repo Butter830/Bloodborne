@@ -40,8 +40,6 @@ body
 .parent {
   border: 1px; 
   color: #f2f2f2;
-  background-color: #979797;
-  margin: 1rem;
   padding: 2rem 2rem;
   text-align: center;
 }
@@ -49,8 +47,12 @@ body
 .child {
   display: inline-block;
   padding: 30px;
+  margin: auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 20px;
   vertical-align: middle;
-  background-color: #979797;
+  gap: 20px;
 }
 
 h1{
