@@ -183,7 +183,17 @@
     </description>
     
     
-    
+        <itemName chaliceRitualMaterial="Short_Ritual_Root_Chalice">Short Ritual Root Chalice</itemName>
+        <description>One of the root chalices that breaks various seals in the Old
+            Labyrinth.
+            
+            The glass chalice, when full, is used in a short ritual to
+            quickly create and join a Chalice Dungeon (not for use in a
+            ritual using standard materials).
+            
+            Short rituals are conducted at the makeshift altar.
+            
+        </description>
     
     
     
