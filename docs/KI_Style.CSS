@@ -5,6 +5,12 @@ body
     
 }
 
+.header {
+  background-color: #979797;
+  text-align: center;
+  padding: 20px;
+}
+
 table
 {
     
