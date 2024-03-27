@@ -2,7 +2,11 @@ body
 {
     
   background-color:#000000;
-    
+  background-image: url("helldivers-2-ps5-playstation.large.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
 }
 
 .header {
@@ -33,20 +37,20 @@ body
   color: black;
 }
 
-.section
-{
-    background-color: #979797;
-    margin: auto;
-    margin-right: 725px;
-    padding: 20px;
+.parent {
+  border: 1px; 
+  color: #f2f2f2;
+  background-color: #979797;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
 }
 
-.section2
-{
-    background-color: #979797;
-    margin: auto;
-    margin-left: 725px;
-    padding: 20px;
+.child {
+  display: inline-block;
+  padding: 30px;
+  vertical-align: middle;
+  background-color: #979797;
 }
 
 h1{
