@@ -19,8 +19,8 @@
    <keyItem>
        <itemName keyItemList="Gold_Pendant">Gold Pendant</itemName>
        <description> Pendant of Vicar Amelia. 
-    <use>Use to change into a Blood Gem,</use>
-    which fortifies weapons.
+    <use>Use to change into a Blood Gem,
+        which fortifies weapons.</use>
     
     This pendant, passed down among the vicars who head the Healing Church,
     is a reminder of the cautionary adage. To reveal the adage,
@@ -35,27 +35,26 @@
     
     <toolItem> 
 <itemName toolList="Hand_Lantern">Hand Lantern</itemName>
- Small portable lantern.
-    
-    <description>
+        <description>
+    Small portable lantern.
     This hunting accessory provides light while leaving
     both hands free to hold weapons. The torch, however, provides a stronger source of light.
-    </description>
+            </description>
     </toolItem>
     
     <toolItem>
 <itemName toolList="Monocular">Monocular</itemName>
- Monocular used to View things up close.
+        <description>Monocular used to View things up close.
     
-   <description>
+  
        Not a hunter's tool, but a simple antique, to be used as one sees fit.</description>
     </toolItem>
    
    <keyItem>
    <itemName keyItemList="Red_Jeweled_Brooch">Red Jeweled Brooch</itemName>
- A woman's bright-red brooch, engraved with the name Viola.
+       <description>A woman's bright-red brooch, engraved with the name Viola.
     
-    <description>Perhaps the jewel is a gift from a hunter. <use>Use to change into
+    Perhaps the jewel is a gift from a hunter. <use>Use to change into
        a droplet blood gem that fortifies any weapon.</use>
     
     With the proper workshop tool, various weapons can be
@@ -64,9 +63,9 @@
    
       <toolItem>
       <itemName toolList="Shining_Coins">Shining Coins</itemName>
- Various coins that are particularly luminous.
+          <description>Various coins that are particularly luminous.
     
-    <description> There are very few uses for spare change during the hunt,
+    There are very few uses for spare change during the hunt,
     but these will serve as guides through the darkness.
     
     Or, one could save them until morning, if it ever comes.

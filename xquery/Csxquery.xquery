@@ -4,36 +4,37 @@ declare variable $tab := "&#9;";
 let $main := collection("../xml/")
 
 (:let $attire := $main//attire[.//attireName]:)
-let $attire := $main//attire/attireName
-let $attire-count := $attire => count()
+let $attires := $main//attire/attireName
+let $attire-count := $attires => count()
 
 (:let $keyItem := $main//keyItem[.//itemName]:)
-let $keyItem := $main//keyItem/itemName
-let $keyItem-count := $keyItem => count()
+let $keyItems := $main//keyItem/itemName
+let $keyItem-count := $keyItems => count()
 
 (:let $toolItem := $main//toolItem[.//itemName]:)
-let $toolItem := $main//toolItem/itemName
-let $toolItem-count := $toolItem => count()
+let $toolItems := $main//toolItem/itemName
+let $toolItem-count := $toolItems => count()
+
 
 (:let $consumableItem := $main//consumableItem[.//itemName]:)
-let $consumableItem := $main//consumableItem/itemName
-let $consumableItem-count := $consumableItem => count()
+let $consumableItems := $main//consumableItem/itemName
+let $consumableItem-count := $consumableItems => count()
 
 (:let $spellItem := $main//spellItem[.//itemName]:)
-let $spellItem := $main//spellItem/itemName
-let $spellItem-count := $spellItem => count()
+let $spellItems := $main//spellItem/itemName
+let $spellItem-count := $spellItems => count()
 
 (:let $weapon := $main//weapon[.//weaponName]:)
-let $weapon := $main//weapon[.//weaponName]
-let $weapon-count := $weapon => count()
+let $weapons := $main//weapon[.//weaponName]
+let $weapon-count := $weapons => count()
 
 (:let $holyChalices := $main//holyChalices[.//itemName]:)
 let $holyChalices := $main//holyChalices/itemName
 let $holyChalices-count := $holyChalices => count()
 
 (:let $firearm := $main//firearm[.//firearmName]:)
-let $firearm := $main//firearm/firearmName
-let $firearm-count := $firearm => count()
+let $firearms := $main//firearm/firearmName
+let $firearm-count := $firearms => count()
 
 let $a := " Attire"
 let $c := " Caryll Rune"
@@ -53,8 +54,10 @@ This shows the number of of any of the items in the game (only those defined so 
 
 return (concat ("There are a total of ", $toolItem-count, " items considered",$t," in Bloodborne.")) 
 :)
-for $item in $toolItem
+for $item in $toolItems
+let $toolItem-description := $item//description
+
 order by $item 
-return concat($item,"&#xa;")
+return concat($item,"&#xa;",$toolItem-description)
 
 
