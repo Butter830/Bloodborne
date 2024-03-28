@@ -54,8 +54,23 @@ This shows the number of of any of the items in the game (only those defined so 
 
 return (concat ("There are a total of ", $toolItem-count, " items considered",$t," in Bloodborne.")) 
 :)
-for $item in $toolItems
+
+(:whc:
+Here's the problem. If you look above, you'll see that you defined $toolItems thusly:
+let $toolItems := $main//toolItem/itemName
+That means that the variable $item actually gets you the itemName element.
+The problem is, you then try to call for 
 let $toolItem-description := $item//description
+...which *is looking for the <description> element INSIDE $item. But $item is the <itemName>
+element, and <description> is not inside the <itemName> element. It is a following-sibling:: of 
+<itemName>.:)
+
+for $item in $toolItems
+(:  whc: this was your former return line.  :)
+let $toolItem-description := $item//description
+
+(:whc: I changed it to this, which now works  :)
+let $toolItem-description := $item/following-sibling::description
 
 order by $item 
 return concat($item,"&#xa;",$toolItem-description)
