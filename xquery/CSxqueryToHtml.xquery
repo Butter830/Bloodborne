@@ -18,13 +18,9 @@ let $toolItem-count := $toolItems => count()
         
                return (concat ("There are ", $toolItem-count, " total items considered",$t,"s at the disposal of the hunters in Bloodborne."))  
             }</u></p>
-            
-            
-            <p>
-            
-            
-            
-            </p>
+                     
+ <p>
+</p>
             
             <table>
             <tr><th></th>
@@ -39,10 +35,13 @@ let $toolItem-description := $item/following-sibling::description
            for $items in $toolItem-description
 order by $item
 return
-<tr><td><img src="Augur_of_Ebrietas.jpg" alt="Augur of Ebrietas"></img></td><td><b>{$item}</b> </td><td>{$items}</td></tr>
-            
-                }
+<tr><td><img src="C:\Users\butte\Documents\Git_Hub\Bloodborne\images\Augur_of_Ebrietas.jpg" alt="Augur of Ebrietas "/>
+</td><td><b>{$item}</b> </td><td>{$items}</td></tr>
+ }
         </table>
-            
+       
+        
+        
+        
     </body>
 </html>
