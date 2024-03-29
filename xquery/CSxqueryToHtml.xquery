@@ -35,7 +35,7 @@ let $toolItem-description := $item/following-sibling::description
            for $items in $toolItem-description
 order by $item
 return
-<tr><td><img src="C:\Users\butte\Documents\Git_Hub\Bloodborne\images\Augur_of_Ebrietas.jpg" alt="Augur of Ebrietas "/>
+<tr><td><img src="images/AoE.jpg" alt="Augur of Ebrietas"/>
 </td><td><b>{$item}</b> </td><td>{$items}</td></tr>
  }
         </table>
