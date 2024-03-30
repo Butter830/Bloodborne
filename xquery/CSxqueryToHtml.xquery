@@ -35,12 +35,12 @@ let $toolItem-description := $item/following-sibling::description
            for $items in $toolItem-description
 order by $item
 return
-<tr><td><img src="images/AoE.jpg" alt="Augur of Ebrietas"/>
-</td><td><b>{$item}</b> </td><td>{$items}</td></tr>
+<tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="Augur of Ebrietas" width="200"/>
+</td><td><b>{$item!string()}</b> </td><td>{$items!string()}</td></tr>
  }
         </table>
        
-        
+  
         
         
     </body>
