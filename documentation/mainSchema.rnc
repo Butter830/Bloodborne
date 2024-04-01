@@ -5,7 +5,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = lore
 
 
-lore = element lore{(equipment| area| npc| boss| onlineItems | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
+lore = element lore{(equipment| area| npc| boss| onlineItems | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
 weaponBuffs = element weaponBuffs {(itemName|description|text)*}
 consumables = element consumables {(itemName| description| text)*}
 equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItems )?)+}
@@ -16,6 +16,9 @@ onlineItem = attribute onlineItem {text}
 holyChalicesList = attribute holyChalicesList{text}
 chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|description|itemName|text)*}
 chaliceRitualMaterial = attribute chaliceRitualMaterial {text}
+
+holyChalices = element holyChailces {(itemName|description|text)}
+
 misc = element misc {(miscItem | text | description | use| itemName|arcaneBloodtingeTools|keyItem|toolItem|consumableItem)*}
 consumableItem = element consumableItem {(itemName|description|text|use)*}
 toolItem = element toolItem {(itemName|description|text)*}
