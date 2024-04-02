@@ -116,7 +116,7 @@
     </description>
 </keyItem>
                 
-                
+                <keyItem>
 <keyItem>
 <itemName keyItemList="Spark_Hunter_Badge">Spark Hunter Badge</itemName>
 <description>Badge crafted in secret by Archibald, the infamous eccentric
@@ -930,7 +930,7 @@ as if it were all just a bad dream.</description>
 
 </consumableItem>
 
-<weaponBuffs>Weapon Buffs
+
 <weaponBuffItem>
 <itemName keyList="Bolt Paper">Bolt Paper</itemName>
  <description>Coarse paper that applies bolt to weapons when rubbed.
@@ -966,5 +966,5 @@ a staple in beast hunts, and is thought to cleanse impurity.
 Certain types of beasts have an abnormal fear of flame.</description>
     </weaponBuffItem>
 
-</weaponBuffs>
+
 </lore>
