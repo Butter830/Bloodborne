@@ -2,9 +2,10 @@
 
 <?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
-<keyItem>
+
     
 
+<keyItem>
 <itemName keyItemList="Cainhurts_Badge">Cainhurst Badge</itemName>
 <description>Badge of the royal guards of Cainhurst, loyal guardians of
         the Vileblood Queen Annalise.
@@ -14,7 +15,9 @@
         become one of them, heart and soul.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Eye_Watcher_Badge">Cosmic Eye Watcher Badge</itemName>
 <description>Badge of a member of the Choir, elites of the
         Healing Church.
@@ -27,7 +30,11 @@
         heads?
 
     </description>
+</keyItem>
+       
+            
 
+<keyItem>
 <itemName keyItemList="Crow_Hunter_Badge">Crow Hunter Badge</itemName>
 <description>Badge of a hunter of hunters, who hunts those who
         have become intoxicated by their bloodlust.
@@ -41,7 +48,11 @@
         and gracious when taking a comrade's life.
 
     </description>
-
+</keyItem>
+        
+            
+           
+<keyItem>
 <itemName keyItemList="Old_Hunter_Badge">Old Hunter Badge</itemName>
 <description>This hunter's badge, crafted in Gehrman's time, has no
         practical purpose, except perhaps to assist in romanticising
@@ -58,7 +69,11 @@
 
 
     </description>
-
+</keyItem>
+             
+                    
+                    
+<keyItem>
 <itemName keyItemList="Powder_Keg_Hunter_Badge">Powder Keg Hunter Badge</itemName>
 <description>Badge crafted by the Powder Kegs, the heretics of the
         Workshop.
@@ -69,9 +84,10 @@
         The late Powder Kegs, bless their souls, had a motto:
 
         "If a weapon ain't got kick, it just ain't worth it."</description>
-
+</keyItem>
    
 
+<keyItem>
 <itemName keyItemList="Radiant_Sword_Hunter_Badge">Radiant Sword Hunter Badge</itemName>
 <description>One of the badges crafted by the Healing Church.
         
@@ -82,7 +98,10 @@
         age of honour and chivalry.
 
     </description>
-
+</keyItem>
+        
+       
+<keyItem>
 <itemName keyItemList="Saw_Hunter_Badge">Saw Hunter Badge</itemName>
 <description>Badge crafted long ago at the Workshop. Attests to one's
         prowess as a hunter of beasts.
@@ -95,7 +114,10 @@
         possession of this badge, or so they believe.
 
     </description>
-
+</keyItem>
+                
+                
+<keyItem>
 <itemName keyItemList="Spark_Hunter_Badge">Spark Hunter Badge</itemName>
 <description>Badge crafted in secret by Archibald, the infamous eccentric
 of the Healing Church, for his friends.
@@ -106,7 +128,9 @@ artificial reproduction, in a style of inquiry that, incidentally,
 closely followed the methodology of Byrgenwerth.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Sword_Hunter_Badge">Sword Hunter Badge</itemName>
 <description>One of the badges crafted by the Healing Church.
 The silver sword is a symbol of a Church hunter.
@@ -122,7 +146,9 @@ come, many of whom were clerics. As it was, clerics
 transformed into the most hideous beasts.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Wheel_Hunter_Badge">Wheel Hunter Badge</itemName>
 <description>Martyr Logarius led a band of Executioners, and this badge
 was crafted at their dedicated workshop. The wheel
@@ -141,7 +167,9 @@ It is clear that the philosophy of the Powder Kegs was
 already established at this time.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Cainhurst_Summons">Cainhurst Summons</itemName>
 <description>An old blood-stained summons, inviting an honored guest
 to the forsaken Castle Cainhurst.
@@ -151,7 +179,9 @@ Rather bafflingly, it is addressed to you.
 Do not hesitate; the stagecoach leaves from Hemwick crossing.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Hunter_Chief_Emblem">Hunter Chief Emblem</itemName>
 <description>A cloth emblem that belonged to the captain of the Church
 hunters long ago. Opens the main gate that leads to the
@@ -163,7 +193,9 @@ other words, the captain's return, and this
 emblem, determined the end of the hunt.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Iron_Door_Key">Iron Door Key</itemName>
 <description>Of the three great bridges that link the two cathedral
 cradles, this key opens the iron door that leads to the
@@ -179,7 +211,9 @@ There are no thieves in the nightmare. Then, why lock a
 door? Be warned, there must be a very, very good reason.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Lecture_Theatre_Key">Lecture Theatre Key</itemName>
 <description>Key to the Lecture Theatre in the Lecture Building.
 
@@ -191,7 +225,9 @@ Perhaps it still is, as the students in the lecture theatre
 appear to await the return of their professor.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Lunarium_Key">Lunarium Key</itemName>
 <description>Key to the lunarium facing the lake on the second floor of
 Byrgenwerth College.
@@ -201,7 +237,9 @@ and the rocking chair that he kept there for meditation.
 In the end, it is said, he left his secret with the lake.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Oedon_Tomb_Key">Oedon Tomb Key</itemName>
 <description>Key to the gate that blocks the Tomb of Oedon.
 
@@ -212,7 +250,9 @@ Only today the church is abandoned, and some say that the
 residents of Oedon have all gone mad.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Old_Hunter_Bell">Old Hunter Bell</itemName>
 <description>One of the resonating bells that cross the gaps of worlds.
 This bell is cracked and stained with the blood of beasts.
@@ -233,7 +273,9 @@ For the night of the hunt is long, and unchanging.
 
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Orphanage_Key">Orphanage Key</itemName>
 <description>Key to the Orphanage, birthplace of the Choir.
 
@@ -246,7 +288,9 @@ The Choir, that would later split from the Healing Church,
 was a creation of the Orphanage.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Queenly_Flesh">Queenly Flesh</itemName>
 <description>What remains of Annalise, blood queen of Cainhurst.
 
@@ -254,7 +298,9 @@ This pinkish lump of flesh remains warm, as if cursed.
 All hail the undying queen of blood!
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Ring_of_Betrothal">Ring of Betrothal</itemName>
 <description>The inhuman beings known as the Great Ones imbued this
 ring of betrothal with some special meaning.
@@ -262,8 +308,10 @@ ring of betrothal with some special meaning.
 In the age of the Great Ones, wedlock was a blood contract,
 only permitted to those slated to bear a special child.
 </description>
+</keyItem>
 
 
+<keyItem>
 <itemName keyItemList="Small_Hair_Ornament">Small Hair Ornament</itemName>
 <description>A small, very ordinary hair ornament.
 
@@ -276,7 +324,9 @@ greyish hair.
 
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Tonsil_Stone">Tonsil Stone</itemName>
 <description>A latticed, deformed rock, or perhaps a meteorite.
 
@@ -288,7 +338,9 @@ seek an ancient, shrouded church... The gift of the godhead
 will grant you strength..."
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Unopened_Summons">Unopened Summons</itemName>
 <description>An old, sealed summons.
 
@@ -296,7 +348,9 @@ Like the first of its kind, it is an invitation to Cainhurst, but
 for whom is not known, as it lacks addressee.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Upper_Cathedral_Key">Upper Cathedral Key</itemName>
 <description>The key to the Upper Cathedral Ward seal.
 
@@ -307,7 +361,9 @@ occupying the Upper Cathedral Ward.
 This key brings one a step closer to the Choir.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Yharnam_Stone">Yharnam Stone</itemName>
 <description>A sacred heirloom left by Yharnam, Pthumerian Queen.
 
@@ -315,7 +371,9 @@ The Queen lies dead, but her horrific consciousness
 is only asleep, and stirs in unsettling motions.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Astral_Clocktower_Key">Astral Clocktower Key</itemName>
 <description>Key to the Astral Clocktower at the top of the Grand
 Cathedral.
@@ -325,7 +383,9 @@ them only as Lady Maria, made her home behind the giant
 star-interpreting clock.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Balcony_Key">Balcony Key</itemName>
 <description>Key to the balcony on the first floor of the Research Hall.
 
@@ -341,8 +401,10 @@ Maria had hoped Adeline would find comfort in the faint
 
 breeze that carried the scent of flowers from the outside, but
 Adeline couldn't fathom her intentions.</description>
+</keyItem>
 
-    <itemName keyItemList="First_Brain_Fluid">First Brain Fluid</itemName> <description> Greyish amoeba-shaped brain fluid. Wobbles and bounces.
+    <keyItem>
+<itemName keyItemList="First_Brain_Fluid">First Brain Fluid</itemName> <description> Greyish amoeba-shaped brain fluid. Wobbles and bounces.
 
 Extracted from a patient whose head expanded until that
 was all that they were.
@@ -353,7 +415,9 @@ water, and listen for the howl of the sea. Brain fluid writhed
 inside the head, the initial makings of internal eyes.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Second_Brain_Fluid">Second Brain Fluid</itemName>
 <description>Greyish amoeba-shaped brain fluid. Wobbles and bounces.
 
@@ -366,7 +430,9 @@ end, this led to their encounter with the Eldritch Truth,
 for which they considered themselves blessed.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Adeline's_Brain_Fluid">Adeline’s Brain Fluid</itemName>
 <description>Greyish amoeba-shaped brain fluid. Wobbles and bounces.
 
@@ -379,7 +445,9 @@ this is the very nature of insight, like the moment one
 licks one's own blood, only to be startled by its sweetness.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Celestial_Dial">Celestial Dial</itemName>
 <description>A celestial dial that functions with the giant Astral Clock in
 the Grand Cathedral.
@@ -395,7 +463,9 @@ will come to life, and reveal a secret to its curious interloper.
 
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Eye_of_a_blood_drunk_Hunter">Eye of a blood-drunk Hunter</itemName>
 <description>The eye of a blood-drunk hunter. Its pupil is collapsed and
 turned to mush, indicating the onset of the scourge of beasts.
@@ -405,7 +475,9 @@ the Nightmare, destined to wander forever, engaged in an
 endless hunt. It is a fate that no hunter can escape.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Eye_Pendant">Eye Pendant</itemName>
 <description>An eye pendant which unlocks the surgery altar.
 
@@ -420,7 +492,9 @@ eye.
 Grant eyes to the surgery altar skull.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Laurence's_Skull">Laurence’s Skull</itemName>
 <description>Skull of Laurence, first vicar of the Healing Church.
 In reality he became the first cleric beast, and his human
@@ -431,7 +505,9 @@ to protect. He is destined to seek his skull, but even if he
 found it, it could never restore his memories.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Underground_Cell_Inner_Chamber_Key">Underground Cell Inner Chamber Key</itemName>
 <description>Key to the inner chamber of the cell below the Grand
 Cathedral.
@@ -444,7 +520,9 @@ Unending death awaits those who can hear the soundless
 bell.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Underground_Cell_Key">Underground Cell Key</itemName>
 <description>Key to the cell below the Grand Cathedral.
 
@@ -459,7 +537,9 @@ better left unseen, and knowledge better left unknown, will
 decay quietly in the fallow darkness.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Blood_Gem_Workshop_Tool">Blood Gem Workshop Tool</itemName>
 <description>A misplaced workshop tool from the Hunter's Dream.
 
@@ -470,7 +550,9 @@ Blood gems add properties to weapons when used to
 fortify them, as blood defines an organism.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Rune_Workshop_Tool">Rune Workshop Tool</itemName>
 <description>Runesmith Caryll, student of Byrgenwerth, transcribed the
 inhuman utterings of the Great Ones into what are now
@@ -483,7 +565,9 @@ Provost Willem would have been proud of Caryll's runes, as
 they do not rely upon blood in any measure.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Workshop_Haze_Extractor">Workshop Haze Extractor</itemName>
 <description>A misplace workshop tool from the Hunter's Dream.
 
@@ -493,7 +577,9 @@ from ritual materials.
 But alas, spent materials are lost.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Black_Messenger_Hat">Black Messenger Hat</itemName>
 <description>Hat that messengers are oddly fond of.
 Symbol of the preventative hunters of
@@ -504,7 +590,9 @@ interest in adornment. Why not let them be happy,
 and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Blood_Messenger_Head_Bandage">Blood Messenger Head Bandage</itemName>
 <description>Accessory adored by naive messengers imitating
 the bandages of scourge victims, unaware of their meaning.
@@ -521,7 +609,9 @@ interest in adornment. Why not let them be happy,
 and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Messenger_Head_Bandage">Messenger Head Bandage</itemName>
 <description>Accessory adored by naїve messengers imitating the
 bandages of scourge victims, unaware of their meaning.
@@ -530,7 +620,9 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Messenger_Top_Hat">Messenger Top Hat</itemName>
 <description>Hat that messengers are oddly fond of.
 
@@ -540,7 +632,9 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Messenger_Urn_Festival">Messenger Urn Festival</itemName>
 <description>Accessory adored by naїve messengers.
 
@@ -552,7 +646,9 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Red_Messenger_Ribbon">Red Messenger Ribbon</itemName>
 <description>Red ribbon that messengers are oddly fond of.
 
@@ -563,7 +659,9 @@ A strange choice indeed, but perhaps for the messengers
 wearing this accessory constitutes a form of mourning.
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="White_Messenger_Ribbon">White Messenger Ribbon</itemName>
 <description>White ribbon that messengers are oddly fond of.
 
@@ -578,7 +676,9 @@ messengers.
 
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Worn_Messenger_Top_Hat">Worn Messenger Top Hat</itemName>
 <description>A worn, rumpled top hat that messengers are oddly fond of.
 
@@ -586,7 +686,9 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+</keyItem>
 
+<keyItem>
 <itemName keyItemList="Yharnam_Messenger_Hat">Yharnam Messenger Hat</itemName>
 <description>Hat that messengers are oddly fond of.
 
@@ -598,7 +700,8 @@ babes?
 </description>
 </keyItem>
 
-<consumables>
+
+<consumableItem>
 <itemName consumableList="Antidote">Antidote</itemName>
     <description>Small medicinal tablets that counteract poison.
         
@@ -608,7 +711,9 @@ babes?
         <use>These tablets only provide short-term relief.</use> The ashen blood
         ailment eventually triggered the spread of the beastly
         scourge.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Beast_Blood_Pellet">Beast Blood Pellet</itemName>
  <description>Large medicinal pellets, supposedly formed of coagulated
 beast blood. Banned by the Healing Church due to
@@ -618,7 +723,9 @@ Ripping apart the flesh of one's enemies and being
 rained upon by their splattering blood invigorates
 one's sense of beasthood, feeding strength and
 euphoric feeling alike.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Blood_of_Adella">Blood of Adella</itemName>
     <description>Blood taken from Adella, nun of the Healing Church.
         <use>Restores an amount of HP, then continues to gradually
@@ -634,7 +741,9 @@ vessels for blood, and groomed as Blood Saints.
 
 The mere chance of being treated with their blood lends
 legitimacy to the Healing Church and communion.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Blood_of_Arianna">Blood of Arianna</itemName>
     <description> Blood taken from Arianna, Cathedral Ward woman of
         pleasure. <use>The sweet blood of Arianna restores HP, and
@@ -642,7 +751,9 @@ legitimacy to the Healing Church and communion.</description>
 
 A member of the old Healing Church would know that her
 blood is similar to precisely what was once forbidden.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Blood_Vial">Blood Vial</itemName>
         <description>Special blood used in ministration. 
             
@@ -653,7 +764,9 @@ common treatment in Yharnam, successive infusions recall
 the first, and are all the more invigorating for it.
 
 No surprise that most Yharnamites are heavy users of blood.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Great_One’s_Wisdom">Great One’s Wisdom</itemName>
             <description>Fragments of the lost wisdom of the Great Ones, beings that
 might be described as gods.
@@ -664,7 +777,9 @@ At Byrgenwerth, Master Willem had an epiphany:
 
 "We are thinking on the basest of planes. What we need, are
 more eyes." </description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Iosefka’s_Blood_Vial">Iosefka’s Blood Vial</itemName>
     <description>Blood vial acquired from Iosefka's clinic.
 
@@ -673,7 +788,9 @@ more eyes." </description>
 
 The product of a slow and careful refinement process,
 this rare blood vial appears to be a clinic original.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Madman’s_Knowledge">Madman’s Knowledge</itemName>
     <description>Skull of a madman touched by the wisdom of
 the Great Ones.
@@ -683,7 +800,9 @@ the Great Ones.
 Making contact with eldritch wisdom is a blessing,
 for even if it drives one mad,
 it allows one to serve a grander purpose, for posterity.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Sedatives">Sedatives</itemName>
     <description>Liquid medicine concocted at Byrgenwerth.
 
@@ -693,7 +812,9 @@ Those who delve into the arcane fall all-too-easily
 to madness, and thick human blood serves to calm
 the frayed nerves of these inquisitive minds. Naturally,
 this often leads to a reliance on blood ministration.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Workshop_Third_Umbilical_Cord">Workshop Third Umbilical Cord</itemName>
     <description>A great relic, also known as the Cord of the Eye. Every
 infant Great One has this precursor to the umbilical cord.
@@ -704,7 +825,9 @@ hunter's dream.
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Arianna’s_Third_Umbilical_Cord">Arianna’s Third Umbilical Cord</itemName>
     <description>A great relic, also known as the Cord of the Eye. Every
 infant Great One has this precursor to the umbilical cord.
@@ -714,7 +837,9 @@ One, is no different. To think, it was corrupted blood that began this eldritch 
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Iosefka’s_Third_Umbilical_Cord">“Iosefka’s” Third Umbilical Cord</itemName>
     <description>A great relic, also known as the Cord of the Eye. Every
 infant Great One has this precursor to the umbilical cord.
@@ -722,6 +847,7 @@ infant Great One has this precursor to the umbilical cord.
 Provost Willem sought the Cord in order to elevate his being and thoughts to those of a Great
 One, by lining his brain with eyes. The only choice, he knew, if man were to ever match Their
 greatness.</description>
+</consumableItem>
 
 
 
@@ -729,7 +855,7 @@ greatness.</description>
         
                                                                                         
 
-
+                    <consumableItem>
     <itemName consumableList="Mergo’s_Third_Umbilical_Cord">Mergo’s Third Umbilical Cord</itemName>
     <description> A great relic, also known as the Cord of the Eye. Every infant
 Great One has this precursor to the umbilical cord.
@@ -739,7 +865,9 @@ audience with Mergo, but resulted in the stillbirth of their brains.
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Blood_of_Adeline">Blood of Adeline</itemName>
     <description>Blood taken from Adeline, patient of the research hall.
         <use>Restores HP, and continues to rejuvenate HP for some time.</use>
@@ -747,7 +875,9 @@ truly entails.</description>
 Adeline was originally one of the Blood Saints who received
 treatment by the Church to cultivate worthy blood. Adeline's
 was one of the few cases that turned out favorably.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Lead_Elixir">Lead Elixir</itemName>
     <description>A heavy, syrupy liquid medicine.
         <use>Temporarily shifts weight to make deflection of attacks
@@ -757,7 +887,9 @@ was one of the few cases that turned out favorably.</description>
 Its recipe for this mysterious concoction is unknown, but
 some postulate that it materializes only within the most
 desperate nightmares.</description>
-
+</consumableItem>
+    
+                    <consumableItem>
     <itemName consumableList="Blue_Elixir">Blue Elixir</itemName>
     <description> Dubious liquid medicine used in strange experiments
 conducted by high ministers of the Healing Church.
@@ -767,7 +899,9 @@ A type of anesthetic that numbs the brain.
 Hunters, able to retain consciousness by force of will, make
 use of a secondary effect of the medicine, which dilutes their
 presence while standing still.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Bold_Hunter’s_Mark">Bold Hunter’s Mark</itemName>
     <description>Dubious liquid medicine used in strange experiments
 conducted by high ministers of the Healing Church.
@@ -783,7 +917,9 @@ Hunters, able to retain consciousness by force of will, make
 
 use of a secondary effect of the medicine, which dilutes their
 presence while standing still.</description>
+</consumableItem>
 
+                    <consumableItem>
     <itemName consumableList="Hunter’s_Mark">Hunter’s Mark</itemName>
     <description>Dangling, upside-down rune etched in one's mind.
 Symbol of a hunter.
@@ -791,10 +927,12 @@ Symbol of a hunter.
 By focusing one's thoughts on this rune, a hunter
 loses all Blood Echoes, but awakens afresh,
 as if it were all just a bad dream.</description>
-</consumables>
+
+</consumableItem>
 
 <weaponBuffs>Weapon Buffs
-<itemName buffList="Bolt Paper">Bolt Paper</itemName>
+<weaponBuffItem>
+<itemName keyList="Bolt Paper">Bolt Paper</itemName>
  <description>Coarse paper that applies bolt to weapons when rubbed.
 
 Invented by Archibald, the infamous eccentric of the Healing
@@ -804,16 +942,20 @@ are said to surround darkbeasts.
 Unlike the other strange weapons created by Archibald, this
 one was favored by many hunters, in particular those who
 had even once laid eyes on a darkbeast.</description>
+</weaponBuffItem>
 
-<itemName buffList="Bone_Marrow_Ash">Bone Marrow Ash</itemName>
+<weaponBuffItem>
+<itemName keyList="Bone_Marrow_Ash">Bone Marrow Ash</itemName>
     <description>Additional medium that strengthens Quicksilver Bullets.
 
 According to the workshop, this is a special bone marrow
 ash collected from Hemwick Charnel Lane.
 
 Invaluable to hunters with weak bloodtinge who require the use of stronger firearms.</description>
+</weaponBuffItem>
 
-<itemName buffList="Fire_Paper">Fire Paper</itemName>
+<weaponBuffItem>
+<itemName keyList="Fire_Paper">Fire Paper</itemName>
     <description>Coarse paper that applies fire to weapons when rubbed.
 
 A hunter tool found in the Healing Church workshop.
@@ -822,6 +964,7 @@ Since the tragedy that struck Old Yharnam, fire has become
 a staple in beast hunts, and is thought to cleanse impurity.
 
 Certain types of beasts have an abnormal fear of flame.</description>
+    </weaponBuffItem>
 
 </weaponBuffs>
 </lore>

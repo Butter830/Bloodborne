@@ -5,14 +5,14 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = lore
 
 
-lore = element lore{(equipment| area| npc| boss| onlineItems | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
+lore = element lore{(equipment| area| npc| boss| onlineItemList | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
 weaponBuffs = element weaponBuffs {(itemName|description|text)*}
 consumables = element consumables {(itemName| description| text)*}
 equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItems )?)+}
-onlineItems = element onlineItems {(itemName | chaliceRitualMaterials | text |onlineItem |description)*}
-itemName = element itemName {(chaliceRitualMaterial |text| onlineItem|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList)*}
+onlineItems = element onlineItems {(itemName | chaliceRitualMaterials | text |onlineItemList |description)*}
+itemName = element itemName {(chaliceRitualMaterial |text| onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList)*}
 buffList = attribute buffList {text}
-onlineItem = attribute onlineItem {text}
+onlineItemList = attribute onlineItem {text}
 holyChalicesList = attribute holyChalicesList{text}
 chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|description|itemName|text)*}
 chaliceRitualMaterial = attribute chaliceRitualMaterial {text}

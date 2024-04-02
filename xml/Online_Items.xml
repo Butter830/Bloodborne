@@ -2,8 +2,8 @@
 
 <?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
-<onlineItems>
-    <itemName onlineItem="Beckoning_Bell">Beckoning Bell</itemName> <description>Great Old Bell discovered in the underground labyrinth.
+<onlineItem>
+    <itemName onlineItemList="Beckoning_Bell">Beckoning Bell</itemName> <description>Great Old Bell discovered in the underground labyrinth.
     
     
     Its ring resonates across worlds, and the first hunter used it
@@ -17,7 +17,10 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
-    <itemName onlineItem="League_Staff">League Staff</itemName> <description> The League staff is the sign of a confederate.
+    </onlineItem>
+    
+    <onlineItem>
+    <itemName onlineItemList="League_Staff">League Staff</itemName> <description> The League staff is the sign of a confederate.
     
    
     A directory within the hilt lists the names of fellow
@@ -35,8 +38,10 @@
     mission of the League. No matter that an oath must be taken
     to uphold the illusion.
     </description>
+    </onlineItem>
     
-    <itemName onlineItem="Notebook">Notebook</itemName><description> Messengers are inhabitants of the dream who revere the
+    <onlineItem>
+    <itemName onlineItemList="Notebook">Notebook</itemName><description> Messengers are inhabitants of the dream who revere the
     brave hunters. Use them to send messages to other worlds.
         
     Leave notes with messengers, read the notes left by
@@ -45,7 +50,10 @@
    
     **Note Online use only. Cannot use this item offline.**
     </description>
-    <itemName onlineItem="Silencing_Blank">Silencing Blank</itemName> <description> Hunters are linked by the resonance of bells with special
+    </onlineItem>
+    
+    <onlineItem>
+    <itemName onlineItemList="Silencing_Blank">Silencing Blank</itemName> <description> Hunters are linked by the resonance of bells with special
     encoded timbres. This inaudible burst disrupts such
     resonance.
     
@@ -54,8 +62,10 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
-   
-    <itemName onlineItem="Sinister_Resonant_Bell">Sinister Resonant Bell</itemName> <description> A blood-stained bell discovered in the old underground
+    </onlineItem>
+    
+    <onlineItem>
+    <itemName onlineItemList="Sinister_Resonant_Bell">Sinister Resonant Bell</itemName> <description> A blood-stained bell discovered in the old underground
     labyrinth.
     
     
@@ -67,7 +77,10 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
-    <itemName onlineItem="Small_Resonant_Bell">Small Resonant Bell</itemName><description> Small bell discovered in the old underground labyrinth.
+    </onlineItem>
+    
+    <onlineItem>
+    <itemName onlineItemList="Small_Resonant_Bell">Small Resonant Bell</itemName><description> Small bell discovered in the old underground labyrinth.
     
     
     Its ring resonates across worlds, and the first hunter
@@ -85,7 +98,10 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
-    <itemName onlineItem="Vileblood_Register">Vileblood Register</itemName> <description>Red-leather record of the Vilebloods loyal to the covenant of
+    </onlineItem>
+        
+    <onlineItem>
+    <itemName onlineItemList="Vileblood_Register">Vileblood Register</itemName> <description>Red-leather record of the Vilebloods loyal to the covenant of
     Annalise, Queen of the Vilebloods, at Cainhurst Castle.
     
     A record of the Vilebloods, blood-lusting hunters who seek
@@ -93,9 +109,9 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
-</onlineItems>
+</onlineItem>
     
-    <chaliceRitualMaterials> Chalice Ritual Materials
+    <chaliceRitualMaterials> 
         <itemName chaliceRitualMaterial="Arcane_Haze">Arcane Haze</itemName><description> Material used in a Holy Chalice rite.
     
         
@@ -106,6 +122,9 @@
     woman appear, and when she rings a sinister bell, hunters
     from other worlds will be beckoned as adversaries.
             </description>
+        </chaliceRitualMaterials>
+        
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Bloodshot_Eyeball">Bloodshot Eyeball</itemName><description> Material used in a Holy Chalice rite.
     
         
@@ -113,7 +132,9 @@
     or perhaps even before. Used to unlock the seal
     of the old labyrinth hintertombs.
     </description>
+        </chaliceRitualMaterials>
     
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Blooming_Coldbood_Flower">Blooming Coldbood Flower</itemName> <description>Material used in a Holy Chalice ritual.
     
         
@@ -121,18 +142,20 @@
     place long abandoned, that has bloomed into a bright red
     stygian flower.
     </description>
+        </chaliceRitualMaterials>
     
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Coldblood_Flowerbud">Coldblood Flowerbud</itemName> <description>Material used in a Holy Chalice ritual.
     
         
     Pale vegetation that commonly grows on coldblood in a
     place long ago abandoned.
     </description>
+        </chaliceRitualMaterials>
     
     
     
-    
-    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Coldblood_Flower_Bulb">Coldblood Flower Bulb</itemName> <description>Material used in a Holy Chalice ritual.
     
         
@@ -140,7 +163,9 @@
     place long abandoned, said to mature slowly in close
     proximity to death, and eventually bloom.
     </description>
-        
+        </chaliceRitualMaterials>
+            
+            <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Pearl_Slug">Pearl Slug</itemName><description> Material used in a Holy Chalice rite.
     
         
@@ -148,13 +173,19 @@
     the nooks and crannies of the old labyrinth,
     the slugs are clear signs of the left-behind Great Ones.
     </description>
-        
+                </chaliceRitualMaterials>
+                    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Red_Jelly">Red Jelly</itemName> <description>Material used in a Holy Chalice ritual.
     
         
     Stillborn infants born of a creature of unknown origin, of the
     type found in some corners of the old labyrinth.
             </description>
+        
+        </chaliceRitualMaterials>
+    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Ritual_Blood">Ritual Blood</itemName> <description>Material used in a Holy Chalice rite.
     
         
@@ -163,14 +194,18 @@
     
     When all is melted in blood, all is reborn.
     </description>
-        
+        </chaliceRitualMaterials>
+    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Tomb_Mold">Tomb Mold</itemName><description> Material used in a Holy Chalice ritual.
     
         
     Mould that grows from rotten flesh and blood inside the old
     labyrinth. Matures to bear giant spores.
     </description>
-        
+        </chaliceRitualMaterials>
+    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Bastard_of_Loran">Bastard of Loran</itemName><description> Special material used in a Holy Chalice ritual.
     
         
@@ -181,8 +216,9 @@
     HP is greatly eroded, but what better place to seek cursed
     blood gems but in the midst of defilement?
     </description>
+        </chaliceRitualMaterials>
     
-    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Short_Ritual_Root_Chalice">Short Ritual Root Chalice</itemName>
         <description>One of the root chalices that breaks various seals in the Old
             Labyrinth.
@@ -194,10 +230,10 @@
             Short rituals are conducted at the makeshift altar.
             
         </description>
+        </chaliceRitualMaterials>
     
     
-    
-    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Inflicted_Organ">Inflicted Organ</itemName> <description>Special material used in a Holy Chalice ritual.
     
         
@@ -208,7 +244,9 @@
     normally terrifying things, but also worthy prey for a special
     hunt.
     </description>
-        
+        </chaliceRitualMaterials>
+    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Living_String">Living String</itemName><description> Special material used in a holy chalice ritual.
     
         
@@ -219,7 +257,9 @@
     But even still, it was a legitimate Great One, and left a relic.
     A living relic, at that, which is a precious thing indeed.
     </description>
-    
+        </chaliceRitualMaterials>
+            
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Sage’s_Hair">Sage's Hair</itemName> <description>Special material used in a Holy Chalice ritual.
     
         
@@ -230,7 +270,9 @@
     making them more treacherous than normal, but also making
     them worthy prey for a special hunt.
     </description>
-    
+        </chaliceRitualMaterials>
+            
+            <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Sage’s_Wrist">Sage's Wrist</itemName> <description>Special material used in a Holy Chalice ritual.
     
         
@@ -241,7 +283,9 @@
     making them more treacherous than normal, but also making
     them worthy prey for a special hunt.
     </description>
-    
+                </chaliceRitualMaterials>
+                    
+    <chaliceRitualMaterials>
         <itemName chaliceRitualMaterial="Yellow_Backbone">Yellow Backbone</itemName> <description>Special material used in a Holy Chalice rite.
     
        
