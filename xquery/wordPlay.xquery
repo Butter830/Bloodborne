@@ -3,7 +3,7 @@ declare variable $linefeed := "&#10;";
 declare variable $tab := "&#9;"; 
 let $main := collection("../xml/")
 
-(:let $attire := $main//attire[.//attireName]:)
+let $attire := $main//attire[.//attireName]
 let $attires := $main//attire/attireName
 let $attire-count := $attires => count()
 
@@ -11,8 +11,8 @@ let $attire-count := $attires => count()
 let $keyItems := $main//keyItem/itemName
 let $keyItem-count := $keyItems => count()
 
-(:let $toolItem := $main//toolItem[.//itemName]:)
-let $toolItems := $main//toolItem/itemName
+let $toolItem := $main//toolItem[.//itemName]
+let $toolItems := $main//toolItem/itemName 
 let $toolItem-count := $toolItems => count()
 
 
@@ -45,13 +45,13 @@ let $k := " Key Item"
 let $t := " Tool"
 let $con := "consumable Item"
 
-(:return (concat ("There are a total of ", $attire-count, " items considered",$a," in Bloodborne."))
+return (concat ("There are a total of ", $attire-count, " items considered",$a," in Bloodborne."))
 
-This shows the number of of any of the items in the game (only those defined so far)
-:)
+(:This shows the number of of any of the items in the game (only those defined so far):)
+
+
 
 (:
-
 return (concat ("There are a total of ", $toolItem-count, " items considered",$t," in Bloodborne.")) 
 :)
 
@@ -65,14 +65,14 @@ let $toolItem-description := $item//description
 element, and <description> is not inside the <itemName> element. It is a following-sibling:: of 
 <itemName>.:)
 
-for $item in $toolItems
+(:for $item in $toolItem:)
 (:  whc: this was your former return line.  :)
-let $toolItem-description := $item//description
+(:let $toolItem-description := $item//description:)
 
 (:whc: I changed it to this, which now works  :)
-let $toolItem-description := $item/following-sibling::description
+(:let $toolItem-description := $item/following-sibling::description:)
 
-order by $item 
-return concat($item,"&#xa;",$toolItem-description)
+
+(:return concat($item,"&#xa;",$toolItem-description):)
 
 

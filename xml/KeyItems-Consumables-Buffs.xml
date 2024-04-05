@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>-->
 <lore>
 
     
@@ -116,7 +116,7 @@
     </description>
 </keyItem>
                 
-                <keyItem>
+                
 <keyItem>
 <itemName keyItemList="Spark_Hunter_Badge">Spark Hunter Badge</itemName>
 <description>Badge crafted in secret by Archibald, the infamous eccentric

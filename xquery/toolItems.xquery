@@ -5,7 +5,7 @@ declare option saxon:output "method=html";
     <head>
        <title>The Items of Bloodborne</title>
     </head>
-    
+
     <body>
     <h1>The Items of Bloodborne</h1>
         <h2>Tool items found in Yharnam</h2>
