@@ -3,7 +3,7 @@
 <!--<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>-->
 <lore>
     
-    <holyChaliceList>
+    <holyChaliceItem>
         
 <itemName holyChalicesList="Pthumeru Chalice">Pthumeru Chalice </itemName>
 
@@ -16,7 +16,7 @@
     be the hunter's nourishment.
     
     ...And let ye partake in communion...</description>
-        </holyChaliceList>
+        </holyChaliceItem>
             
     <holyChailceItem>
 <itemName holyChalicesList="Pthumeru Root Chalice">Pthumeru Root Chalice </itemName>
