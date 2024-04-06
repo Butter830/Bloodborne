@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
 <onlineItem>
     <itemName onlineItemList="Beckoning_Bell">Beckoning Bell</itemName> <description>Great Old Bell discovered in the underground labyrinth.

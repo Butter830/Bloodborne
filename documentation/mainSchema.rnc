@@ -5,16 +5,20 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = lore
 
 
-lore = element lore{(equipment| area| npc| boss| onlineItemList | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
+lore = element lore{(equipment| area| npc| boss| onlineItemList | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices|consumableItem|weaponBuffItem|onlineItem|holyChaliceItem)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
 weaponBuffs = element weaponBuffs {(itemName|description|text)*}
+weaponBuffItem = element weaponBuffItem {(itemName|text|description|keyList)*}
 consumables = element consumables {(itemName| description| text)*}
-equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItems )?)+}
-onlineItems = element onlineItems {(itemName | chaliceRitualMaterials | text |onlineItemList |description)*}
-itemName = element itemName {(chaliceRitualMaterial |text| onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList)*}
-buffList = attribute buffList {text}
-onlineItemList = attribute onlineItem {text}
-holyChalicesList = attribute holyChalicesList{text}
+equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItem )?)+}
+onlineItem = element onlineItem {(itemName | chaliceRitualMaterials | text |onlineItemList |description)*}
+itemName = element itemName {(chaliceRitualMaterial |text| 
+onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList)*}
 chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|description|itemName|text)*}
+holyChaliceItem = element holyChaliceItem {(itemName|description|text)*}
+
+buffList = attribute buffList {text}
+holyChalicesList = attribute holyChalicesList{text}
+keyList = attribute keyList {text}
 chaliceRitualMaterial = attribute chaliceRitualMaterial {text}
 
 holyChalices = element holyChailces {(itemName|description|text)}
@@ -72,6 +76,7 @@ firearmList = attribute firearmList { "Cannon" | "Church_Cannon" | "Evelyn" | "F
 consumableList = attribute consumableList { "Antidote" |"Arianna’s_Third_Umbilical_Cord"| "Beast_Blood_Pellet" | "Blood_Dreg" | "Blood_of_Adella" | "Blood_of_Arianna" |"Blood_of_Adeline"| "Blood_Vial" | "Blue_Elixir" | "Bold_Hunter’s_Mark" | "Bolt_Paper" | "Bone_Marrow_Ash" |"Coldblood"| "Coldblood_Dew" | "Delayed_Molotov" | "Delayed_Rope_Molotov" | "Fire_Paper" | "Frenzied_Coldblood" | "Gold_Pendant" | "Great_One’s_Wisdom" | "Great_One_Coldblood" | "Hand_Lantern" | "Hunter’s_Mark"|"Iosefka’s_Blood_Vial" |"Iosefka’s_Third_Umbilical_Cord"| "Kin_Coldblood" | "Lead_Elixir" | "Madman’s_Knowledge" |"Mergo’s_Third_Umbilical_Cord"| "Quicksilver_Bullets" | "Red_Jewled_Brooch" |"Revered_Great_One_Coldblood*"| "Sedatives" | "Shaman_Bone_Blade" | "Shining_Coins" | "Thick_Coldblood" | "One_Third_Of_Umbilical_Cord" |"Old_Great_One_Coldblood"| "Tear_Stone" | "Vermin"|"Workshop_Third_Umbilical_Cord"}
 projectileList = attribute projectileList { "Molotov_Cocktail" | "Numbing_Mist" | "Oil_Urn" | "Pebble" | "Poison_Knife" | "Pungent_Blood_Cocktail" | "Rope_Molotov_Cocktail" | "Throwing_Knife" }
 chaliceList = attribute chaliceList { "Pthumeru_Chalice" | "Pthumeru_Root_Chalice" | "Central_Pthumeru_Chalice" | "Central_Pthumeru_Root_Chalice" | "Lower_Pthumeru_Chalice" | "Lower_Pthumeru_Root_Chalice" | "Sinister_Lower_Pthumeru_Root_Chalice" | "Defiled_Chalice" | "Cursed_and_Defiled_Root_Chalice" | "Great_Pthumeru_Ihyll_Chalice" | "Pthumeru_Ihyll_Root_Chalice" | "Sinister_Pthumeru_Ihyll_Root_Chalice" | "Hintertomb_Chalice" | "Hintertomb_Root_Chalice" | "Lower_Hintertomb_Chalice" | "Lower_Hintertomb_Root_Chalice" | "Sinister_Hintertomb_Root_Chalice" | "Ailing_Loran_Chalice" | "Ailing_Loran_Root_Chalice" | "Lower_Loran_Chalice" | "Lower_Ailing_Loran_Root_Chalice" | "Sinister_Lower_Loran_Root_Chalice" | "Great_Isz_Chalice" | "Isz_Root_Chalice" | "Sinister_Isz_Root_Chalice" | "Short_Ritual_Root_Chalice" }
+onlineItemList = attribute onlineItemList {"Vileblood_Register"|"Arcane_Haze"|"Beckoning_Bell"|"League_Staff"|"Notebook"|"Silencing_Blank"|"Sinister_Resonant_Bell"|text}
 keyItemList = attribute keyItemList { "Adeline's_Brain_Fluid"|"Astral_Clocktower_Key" | "Balcony_Key" |"Black_Messenger_Hat"|"Blood_Messenger_Head_Bandage"|"Blood_Gem_Workshop_Tool"| "Cainhurst_Summons"|"Cainhurts_Badge" |"Crow_Hunter_Badge"| "Celestial_Dial" |"Eye_of_a_blood_drunk_Hunter"| "Eye_Pendant" |"Eye_Watcher_Badge"|"First_Brain_Fluid"|"Gold_Pendant"| "Hunter_Chief_Emblem" | "Iron_Door_Key" | "Laurence's_Skull" | "Lecture_Theatre_Key" | "Lunarium_Key" |"Messenger_Head_Bandage"|"Messenger_Top_Hat"|"Messenger_Urn_Festival"| "Oedon_Tomb_Key" |"Old_Hunter_Badge"| "Old_Hunter_Bell" | "Orphanage_Key" |"Powder_Keg_Hunter_Badge"| "Queenly_Flesh"|"Radiant_Sword_Hunter_Badge"|"Red_Messenger_Ribbon"|"Ring_of_Betrothal"|"Rune_Workshop_Tool"|"Saw_Hunter_Badge"|"Second_Brain_Fluid"|"Short_Ritual_Root_Chalice"| "Small_Hair_Ornament" | "Spark_Hunter_Badge"|"Sword_Hunter_Badge"|"Tonsil_Stone" | "Underground_Cell_Key" | "Underground_Cell_Inner_Chamber_Key" | "Unopened_Summons" | "Upper_Cathedral_Key" | "Yharnam_Stone"|"Yharnam_Messenger_Hat" | "Ring_Of_Betrothal"|"Red_Jeweled_Brooch"|"Wheel_Hunter_Badge"|"White_Messenger_Ribbon"|"Workshop_Haze_Extractor"|
 "Worn_Messenger_Top_Hat"}
 toolList = attribute toolList { "Blacksky_Eye" | "Blood_Gem_Workshop_Tool" | "Empty_Phantasm_Shell" | "Executioner's_Gloves" | "Messenger's_Gift" | "Monocular" | "Old_Hunter_Bone" | "Rune_Workshop_Tool" |"Shining_Coins"|"Tiny_Music_Box"| "Tiny_Tonitrus" | "A_Call_Beyond" | "Workshop_Haze_Extractor" | "Beast_Roar" | "Choir_Bell" | "Madaras_Whistle" | "Hand_Lantern"|"Augur_of_Ebrietas"}

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
 
     
@@ -932,7 +932,7 @@ as if it were all just a bad dream.</description>
 
 
 <weaponBuffItem>
-<itemName keyList="Bolt Paper">Bolt Paper</itemName>
+<itemName keyList="Bolt_Paper">Bolt Paper</itemName>
  <description>Coarse paper that applies bolt to weapons when rubbed.
 
 Invented by Archibald, the infamous eccentric of the Healing

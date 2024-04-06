@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="../documentation/mainSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <lore>
     
     <holyChaliceItem>
@@ -18,7 +18,7 @@
     ...And let ye partake in communion...</description>
         </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Pthumeru Root Chalice">Pthumeru Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -29,9 +29,9 @@
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked
     the wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Central Pthumeru Chalice">Central Pthumeru Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -42,14 +42,14 @@
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked
     the wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
     
     
     
     
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Central Pthumeru Root Chalice">Central Pthumeru Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -60,9 +60,9 @@
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked
     the wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Lower Pthumeru Chalice">Lower Pthumeru Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -73,9 +73,9 @@
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked
     the wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Lower Pthumeru Root Chalice">Lower Pthumeru Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -86,9 +86,9 @@
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked
     the wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Sinister Lower Pthumeru Root Chalice">Sinister Lower Pthumeru Root Chalice </itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
@@ -103,13 +103,13 @@
 **Note Additional rite Sinister Bell is for online use only.
 The bell-ringing woman does not appear offline.**</description>
     
-        </holyChailceItem>
+        </holyChaliceItem>
     
     
     
     
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Defiled Chalice">Defiled Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -120,9 +120,9 @@ The bell-ringing woman does not appear offline.**</description>
     and used to hex others. Special materials are required to
     complete the ritual.
     To try one's hand at curses, first seek the Bastard of Loran.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Cursed and Defiled Root Chalice">Cursed and Defiled Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -134,9 +134,9 @@ The bell-ringing woman does not appear offline.**</description>
     The old labyrinth was carved out by the Pthumerians,
     superhuman beings that are said to have unlocked the
     wisdom of the eldritch Truth.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Great Pthumeru Ihyll Chalice">Great Pthumeru Ihyll Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -148,9 +148,9 @@ The bell-ringing woman does not appear offline.**</description>
     This reveals that while early Pthumerians were mere
     humble guardians of the slumbering Great Ones, their
     descendants felt entitled to name themselves a leader.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
            
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Pthumeru Ihyll Root Chalice">Pthumeru Ihyll Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -160,14 +160,14 @@ The bell-ringing woman does not appear offline.**</description>
     
     The Pthumerian monarch was traditionally a woman
     who assumed a name with classical roots.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
      
     
      
     
     
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Sinister Pthumeru Ihyll Root Chalice">Sinister Pthumeru Ihyll Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -180,9 +180,9 @@ The bell-ringing woman does not appear offline.**</description>
     
 **Note Additional rite Sinister Bell is for online use only.
 the bell-ringing woman does not appear offline.**</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Hintertomb Chalice">Hintertomb Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -192,9 +192,9 @@ the bell-ringing woman does not appear offline.**</description>
     To this day, the Watcher continue to expand the
     hintertombs, unceremonious catacombs filled with
     graves and death.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Hintertomb Root Chalice">Hintertomb Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -204,9 +204,9 @@ the bell-ringing woman does not appear offline.**</description>
     
     The hintertombs are unceremonious homes to graves
     and death, cesspools of noxious snakes and insects.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Lower Hintertomb Chalice">Lower Hintertomb Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -216,9 +216,9 @@ the bell-ringing woman does not appear offline.**</description>
     To this day, the Watchers continue to expand the
     hintertombs, unceremonious catacombs filled with
     graves and death.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Lower Hintertomb Root Chalice">Lower Hintertomb Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -227,9 +227,9 @@ the bell-ringing woman does not appear offline.**</description>
     seals, are said to change the labyrinth's form each time.
     The hintertombs are unceremonious homes to graves
     and death, cesspools of noxious snakes and insects.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Sinister Hintertomb Root Chalice">Sinister Hintertomb Root Chalice </itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
@@ -242,10 +242,10 @@ the bell-ringing woman does not appear offline.**</description>
     
 **Note Additional rite Sinister Bell is for online use only.
 The bell-ringing woman does not appear offline.**</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Ailing Loran Chalice">Ailing Loran Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -256,9 +256,9 @@ The bell-ringing woman does not appear offline.**</description>
     
     Some have made the dreaded extrapolation that
     Yharnam may be next.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Ailing Loran Root Chalice">Ailing Loran Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -270,9 +270,9 @@ The bell-ringing woman does not appear offline.**</description>
     parts of ailing Loran. Whether these were attempts to
     control the scourge of the beast, or the cause of the
     outbreak, is unknown.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
             
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Lower Ailing Loran Chalice">Lower Ailing Loran Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -282,12 +282,12 @@ The bell-ringing woman does not appear offline.**</description>
     There are trace remains of medical procedures in
     parts of ailing Loran. Whether these were attempts to
     control the scourge of the beast, or the cause of the outbreak, is unknown.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
     
     
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Sinister Lower Loran Chalice">Sinister Lower Loran Chalice </itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
@@ -303,9 +303,9 @@ The bell-ringing woman does not appear offline.**</description>
     
 **Note Additional rite Sinister Bell is for online use only.
 The bell-ringing woman does not appear offline.**</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Great Isz Chalice">Great Isz Chalice </itemName>
 
 <description> A chalice that breaks a labyrinth seal.
@@ -317,9 +317,9 @@ The bell-ringing woman does not appear offline.**</description>
     It was also the first Great Chalice brought back to the
     surface since the time of Byrgenwerth, and allowed the
     Choir to have audience with Ebrietas.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Isz Root Chalice">Isz Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -330,9 +330,9 @@ The bell-ringing woman does not appear offline.**</description>
     According to the Choir, the land of Izs lies in contact
     with the cosmos, which allowed the Great Ones to
     function on transcendental planes of thought.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
     
-    <holyChailceItem>
+    <holyChaliceItem>
 <itemName holyChalicesList="Sinister Isz Root Chalice">Sinister Isz Root Chalice </itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
@@ -342,5 +342,5 @@ The bell-ringing woman does not appear offline.**</description>
     a mad Pthumerian.
     According to the Choir, the land of Izs lies in contact
     with the cosmos, which allowed the Great Ones to function on transcendental planes of thought.</description>
-        </holyChailceItem>
+        </holyChaliceItem>
 </lore>
