@@ -51,6 +51,7 @@ declare variable $yspacer := 25;
         {
             let $a := " Attires"
             for $keyItems at $pos in $keyItem-count
+            let $all-items:= $main/lore/*
             return
                 <g>
                 <text x="-75" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="black">{$k}</text>
