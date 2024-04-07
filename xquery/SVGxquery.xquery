@@ -30,11 +30,11 @@ declare variable $yspacer := 25;
 
 <html>
     <head>
-        <title>Speech Count</title>
+        <title>Item Count</title>
     </head>
     
     <body>
-        <h1>Item Count in Bloodborne</h1>
+        <h1><u>Item Count in Bloodborne</u></h1>
         <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid!</p>
         <p></p>
             <table>
