@@ -1847,7 +1847,7 @@ But when he stared straight into impurity, it drove him mad."</description>
 </attire>    <!-- Attire end -->
     <!-- Weapon start -->
     <weapon>
-        <weaponName weaponList="Amygdalan_Arm">Amygdalan Arm</weaponName>
+        <itemName weaponList="Amygdalan_Arm">Amygdalan Arm</itemName>
         
         <description>
         The arm of a small Amygdala Great One. 
@@ -1867,7 +1867,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Beast_Claw">Beast Claw</weaponName>
+        <itemName weaponList="Beast_Claw">Beast Claw</itemName>
         
         <description>
         Beastly weapon wielded by Irreverent Izzy.
@@ -1890,7 +1890,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Beasthunter_Saif">Beasthunter Saif</weaponName>
+        <itemName weaponList="Beasthunter_Saif">Beasthunter Saif</itemName>
         
         <description>
         A trick weapon used by the old hunters. 
@@ -1908,7 +1908,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Beast_Cutter">Beast Cutter</weaponName>
+        <itemName weaponList="Beast_Cutter">Beast Cutter</itemName>
         
         <description>
         A trick weapon used by Old Hunters. 
@@ -1927,7 +1927,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Blade_Of_Mercy">Blade of mercy</weaponName>
+        <itemName weaponList="Blade_Of_Mercy">Blade of mercy</itemName>
         
         <description>
         A special trick weapon passed down among hunters of hunters. One of the oldest weapons of the workshop. 
@@ -1948,7 +1948,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Bloodletter">Bloodletter</weaponName>
+        <itemName weaponList="Bloodletter">Bloodletter</itemName>
         
         <description>
         The demented hunter weapon brandished by Brador, the Healing Church assassin. 
@@ -1968,7 +1968,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Boom_Hammer">Boom Hammer</weaponName>
+        <itemName weaponList="Boom_Hammer">Boom Hammer</itemName>
         
         <description>
         A trick weapon used by the old hunters, and crafted by the workshop heretics, the Powder Kegs. 
@@ -1986,7 +1986,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Burial_Blade">Burial Blade</weaponName>
+        <itemName weaponList="Burial_Blade">Burial Blade</itemName>
         
         <description>
         Trick weapon wielded by Gehrman, the first hunter." 
@@ -2016,7 +2016,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Chikage">Chikage</weaponName>
+        <itemName weaponList="Chikage">Chikage</itemName>
         
         <description>
         Foreign-made weapon wielded by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle. 
@@ -2039,7 +2039,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Church_Pike">Church Pike</weaponName>
+        <itemName weaponList="Church_Pike">Church Pike</itemName>
         
         <description>
         One of the old trick weapons of the Healing Church, a hunting weapon formed from one of the giant picks that appear in old beast tales. 
@@ -2058,7 +2058,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Holy_Moonlight_Sword">Holy Moonlight Sword</weaponName>
+        <itemName weaponList="Holy_Moonlight_Sword">Holy Moonlight Sword</itemName>
         
         <description>
         An arcane sword discovered long ago by Ludwig. 
@@ -2081,7 +2081,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Hunter_Axe">Hunter Axe</weaponName>
+        <itemName weaponList="Hunter_Axe">Hunter Axe</itemName>
         
         <description>
         One of the trick weapons of the workshop, commonly used on the hunt. Retains the qualities of an axe, but offers a wider palette of attacks by transforming. Boasts a heavy blunt attack, leading to high rally potential. No matter their pasts, beasts are no more than beasts. Some choose this axe to play the part of executioner."
@@ -2106,7 +2106,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Kirkhammer">Kirkhammer</weaponName>
+        <itemName weaponList="Kirkhammer">Kirkhammer</itemName>
         
         <description>
         A trick weapon typically used by Healing Church hunters. On the one side, an easily handled silver sword. On the other, a giant obtuse stone weapon, characterized by a blunt strike and extreme force of impact. The Church takes a heavy-handed, merciless stance toward the plague of beasts, an irony not lost upon the wielders of this most symbolic weapon."
@@ -2136,7 +2136,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Kos_Parasite">Kos Parasite</weaponName>
+        <itemName weaponList="Kos_Parasite">Kos Parasite</itemName>
         
         <description>
         When the carcass of Kos washed up on the coast, its insides were teeming with tiny parasites, unlike any found in humans. 
@@ -2153,7 +2153,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Logarius's_Wheel">Logarius's Wheel</weaponName>
+        <itemName weaponList="Logarius's_Wheel">Logarius's Wheel</itemName>
         
         <description>
         "Weapon wielded by martyr Logarius' band of executioners. 
@@ -2180,7 +2180,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Ludwig's_Holy_Blade">Ludwig's Holy Blade</weaponName>
+        <itemName weaponList="Ludwig's_Holy_Blade">Ludwig's Holy Blade</itemName>
         
         <description>
         A trick weapon typically used by Healing Church hunters. It is said that the silver sword was employed by Ludwig, the first hunter of the church. When transformed, it combines with its sheath to form a greatsword. 
@@ -2208,7 +2208,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Rakuyo">Rakuyo</weaponName>
+        <itemName weaponList="Rakuyo">Rakuyo</itemName>
         
         <description>
         Hunter weapon wielded by Lady Maria of the Astral Clocktower. 
@@ -2235,7 +2235,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Reiterpallasch">Reiterpallasch</weaponName>
+        <itemName weaponList="Reiterpallasch">Reiterpallasch</itemName>
         
         <description>
         Weapon wielded by the Knights of Cainhurst. 
@@ -2256,7 +2256,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Rifle_Spear">Rifle Spear</weaponName>
+        <itemName weaponList="Rifle_Spear">Rifle Spear</itemName>
         
         <description>
         A trick weapon crafted by the workshop heretics, the Powder Kegs. A prototype weapon serving as a simple firearm and spear, possibly created in imitation of a lost Cainhurst weapon. Lacks any notable functions, saving that it is the only trick weapon with an attached gun. "
@@ -2279,7 +2279,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Saw_Cleaver">Saw Cleaver</weaponName>
+        <itemName weaponList="Saw_Cleaver">Saw Cleaver</itemName>
         
         <description>
         One of the trick weapons of the workshop, commonly used in the hunting business. 
@@ -2311,7 +2311,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Saw_Spear">Saw Spear</weaponName>
+        <itemName weaponList="Saw_Spear">Saw Spear</itemName>
         
         <description>
         One of the trick weapons of the workshop, commonly used by those who dedicate themselves to the hunt. This saw, effective at drawing the blood of beasts, transforms into a medium-range spear. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast."
@@ -2328,7 +2328,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Simon's_Bowblade">Simon's Bowblade</weaponName>
+        <itemName weaponList="Simon's_Bowblade">Simon's Bowblade</itemName>
         
         <description>
         Choice weapon of Simon, one of the first Healing Church hunters.
@@ -2347,7 +2347,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Stake_Driver">Stake Driver</weaponName>
+        <itemName weaponList="Stake_Driver">Stake Driver</itemName>
         
         <description>
         A trick weapon fashioned by the workshop heretics, the Powder Kegs. Favored by the retired hunter Djura. 
@@ -2371,7 +2371,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Threaded_Cane">Threaded Cane</weaponName>
+        <itemName weaponList="Threaded_Cane">Threaded Cane</itemName>
         
         <description>
         One of the trick weapons of the workshop, commonly used by hunters on their duties. Sufficiently deadly as a rigid bladed cane, but also serves as a whip when its blade is split into many. Concealing the weapon inside the cane and flogging the beasts with the whip is partly an act of ceremony, an attempt to demonstrate to oneself that the bloodlust of the hunt will never encroach upon the soul."
@@ -2390,7 +2390,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Tonitrus">Tonitrus</weaponName>
+        <itemName weaponList="Tonitrus">Tonitrus</itemName>
         
         <description>
         "A unique trick weapon contrived by Archibald, the infamous eccentric of the Healing Church workshop. 
@@ -2416,7 +2416,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Whirligig_Saw">Whirligig Saw</weaponName>
+        <itemName weaponList="Whirligig_Saw">Whirligig Saw</itemName>
         
         <description>
         A trick weapon crafted by the workshop heretics, the Powder Kegs, and weapon of choice of the Old Hunter Valtr, the Beast Eater. 
