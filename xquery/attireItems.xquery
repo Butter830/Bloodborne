@@ -14,8 +14,8 @@ declare option saxon:output "method=html";
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
-                     let $attire:= $main//attire[.//attireName]
-            let $attires := $main//attire/attireName
+                     let $attire:= $main//attire[.//itemName]
+            let $attires := $main//attire/itemName
 
              for $item in $attires
 let $attire-description := $item/following-sibling::description

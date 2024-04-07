@@ -14,12 +14,12 @@ declare option saxon:output "method=html";
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
-                     let $caryllRune:= $main//caryllRunes[.//itemName]
-            let $caryllRunes := $main//caryllRunes/itemName
+                     let $onlineItem:= $main//onlineItem[.//itemName]
+            let $onlineItems := $main//onlineItem/itemName
 
-             for $item in $caryllRunes
-let $caryllRunes-description := $item/following-sibling::description
-           for $items in $caryllRunes-description
+             for $item in $onlineItems
+let $onlineItem-description := $item/following-sibling::description
+           for $items in $onlineItem-description
 order by $item
 return
 <tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="THE" width="200"/>
@@ -28,7 +28,6 @@ return
         </table>
        
   
-        
-        
+          
     </body>
 </html>
