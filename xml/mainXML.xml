@@ -1847,7 +1847,7 @@ But when he stared straight into impurity, it drove him mad."</description>
 </attire>    <!-- Attire end -->
     <!-- Weapon start -->
     <weapon>
-        <weaponName weaponList="Amygdalan_Arm ">Amygdalan Arm </weaponName>
+        <weaponName weaponList="Amygdalan_Arm">Amygdalan Arm</weaponName>
         
         <description>
         The arm of a small Amygdala Great One. 
@@ -2039,7 +2039,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </weapon>
     <weapon>
-        <weaponName weaponList="Church_Pick">Church Pick</weaponName>
+        <weaponName weaponList="Church_Pike">Church Pike</weaponName>
         
         <description>
         One of the old trick weapons of the Healing Church, a hunting weapon formed from one of the giant picks that appear in old beast tales. 
