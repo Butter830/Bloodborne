@@ -12,7 +12,7 @@ consumables = element consumables {(itemName| description| text)*}
 equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItem )?)+}
 onlineItem = element onlineItem {(itemName | chaliceRitualMaterials | text |onlineItemList |description)*}
 itemName = element itemName {(chaliceRitualMaterial |text| 
-onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList)*}
+onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList|attireList|attireSet)*}
 chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|description|itemName|text)*}
 holyChaliceItem = element holyChaliceItem {(itemName|description|text)*}
 
@@ -34,7 +34,7 @@ runeName = element runeName{runeList, text}
 arcaneBloodtingeTools = element arcaneBloodtingeTools {(spellItem|itemName|spellList|toolList|toolItem|text)*}
 spellItem = element spellItem {(itemName|description|text)*}
 caryllRunes = element caryllRunes {(runeList|text|itemName|description)*}
-attire = element attire{attireName, ((description | locationArea | effect | notes | trivia)?)+}
+attire = element attire{itemName, ((description | locationArea | effect | notes | trivia)?)+}
 attireName = element attireName{attireList, attireSet?, text}
 
 weapon = element weapon{weaponName, ((description | locationArea | notes | trivia)?)+}
