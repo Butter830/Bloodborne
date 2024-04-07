@@ -4,7 +4,7 @@ body
   background-color:#000000;
   background-image: url("images/yharnam_wallpaper.jpg");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-size: contain;
   background-position: center;
   
@@ -13,13 +13,17 @@ body
 .header {
   background-color: #979797;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
+  margin: 25px 50px 75px;
+  border-radius: 5px;
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #333;
+  margin: 25px 50px 75px;
+  border-radius: 5px;
 }
 
 /* Style the topnav links */
