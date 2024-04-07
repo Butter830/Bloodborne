@@ -42,22 +42,22 @@ body
   color: black;
 }
 
-.parent {
-  border: 1px; 
-  color: #f2f2f2;
-  padding: 2rem 2rem;
-  text-align: center;
+.parent
+{
+    background-color: #979797;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
 }
 
-.child {
-  display: inline-block;
-  padding: 30px;
-  margin: auto;
-  margin-left: 200px;
-  margin-right: 200px;
-  padding: 20px;
-  vertical-align: middle;
-  gap: 20px;
+.child
+{
+    background-color: #979797;
+    margin: auto;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
 }
 
 h1{
