@@ -17,6 +17,7 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
+    <location lamp="Hunter's_Dream">Hunter's Dream</location>
     </onlineItem>
     
     <onlineItem>
@@ -50,6 +51,7 @@
    
     **Note Online use only. Cannot use this item offline.**
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
     </onlineItem>
     
     <onlineItem>
@@ -62,6 +64,7 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
     </onlineItem>
     
     <onlineItem>
@@ -77,6 +80,7 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
     </onlineItem>
     
     <onlineItem>
@@ -98,6 +102,7 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
     </onlineItem>
         
     <onlineItem>
@@ -109,6 +114,7 @@
     
     **Note Online use only. Cannot use this item offline.**
     </description>
+        <location lamp="Vileblood_Queen's_Chamber">Vileblood Queen's Chamber</location>
 </onlineItem>
     
     <chaliceRitualMaterials> 
@@ -122,6 +128,7 @@
     woman appear, and when she rings a sinister bell, hunters
     from other worlds will be beckoned as adversaries.
             </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
         
     <chaliceRitualMaterials>
@@ -132,16 +139,18 @@
     or perhaps even before. Used to unlock the seal
     of the old labyrinth hintertombs.
     </description>
+        <location lamp="Cathedral_Ward">Cathedral Ward</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
-        <itemName chaliceRitualMaterial="Blooming_Coldbood_Flower">Blooming Coldbood Flower</itemName> <description>Material used in a Holy Chalice ritual.
+        <itemName chaliceRitualMaterial="Blooming_Coldblood_Flower">Blooming Coldblood Flower</itemName> <description>Material used in a Holy Chalice ritual.
     
         
     Pale vegetation that commonly grows on coldblood in a
     place long abandoned, that has bloomed into a bright red
     stygian flower.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -151,6 +160,7 @@
     Pale vegetation that commonly grows on coldblood in a
     place long ago abandoned.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     
@@ -163,6 +173,7 @@
     place long abandoned, said to mature slowly in close
     proximity to death, and eventually bloom.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
             
             <chaliceRitualMaterials>
@@ -173,6 +184,7 @@
     the nooks and crannies of the old labyrinth,
     the slugs are clear signs of the left-behind Great Ones.
     </description>
+                <location lamp="Upper_Cathedral_Ward">Upper Cathedral Ward</location>
                 </chaliceRitualMaterials>
                     
     <chaliceRitualMaterials>
@@ -182,7 +194,7 @@
     Stillborn infants born of a creature of unknown origin, of the
     type found in some corners of the old labyrinth.
             </description>
-        
+        <location lamp="Lecture_Building">Lecture Building</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -194,6 +206,7 @@
     
     When all is melted in blood, all is reborn.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -203,6 +216,7 @@
     Mould that grows from rotten flesh and blood inside the old
     labyrinth. Matures to bear giant spores.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -216,6 +230,7 @@
     HP is greatly eroded, but what better place to seek cursed
     blood gems but in the midst of defilement?
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -230,6 +245,7 @@
             Short rituals are conducted at the makeshift altar.
             
         </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
     
     
@@ -244,6 +260,7 @@
     normally terrifying things, but also worthy prey for a special
     hunt.
     </description>
+        <location lamp="Nightmare_Of_Mensis">Nightmare Of Mensis</location>
         </chaliceRitualMaterials>
     
     <chaliceRitualMaterials>
@@ -257,6 +274,7 @@
     But even still, it was a legitimate Great One, and left a relic.
     A living relic, at that, which is a precious thing indeed.
     </description>
+        <location lamp="Nightmare_Of_Mensis">Nightmare Of Mensis</location>
         </chaliceRitualMaterials>
             
     <chaliceRitualMaterials>
@@ -270,6 +288,7 @@
     making them more treacherous than normal, but also making
     them worthy prey for a special hunt.
     </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </chaliceRitualMaterials>
             
             <chaliceRitualMaterials>
@@ -283,6 +302,7 @@
     making them more treacherous than normal, but also making
     them worthy prey for a special hunt.
     </description>
+                <location lamp="Hunter's_Dream">Hunter's Dream</location>
                 </chaliceRitualMaterials>
                     
     <chaliceRitualMaterials>
@@ -292,6 +312,7 @@
    Special body parts collected by the Healing Church.
     What was this gruesome bait used to lure?
     </description>
+        <location lamp="Mergo's_Loft_Base">Mergo's Loft Base</location>
     
     </chaliceRitualMaterials>
     
