@@ -38,7 +38,8 @@ declare option saxon:output "method=html";
                         <td><label
                                 class="container">
                                 <input
-                                    type="checkbox"/>
+                                    type="checkbox"
+                                    />
                                 <span
                                     class="checkmark"></span>
                             </label><font
