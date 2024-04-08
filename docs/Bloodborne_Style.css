@@ -64,6 +64,40 @@ body
 
 h1{
     color:#8B0000;
+    background-image: url(
+"flames.jpg");
+            background-repeat: repeat;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-top: 200px;
+            font-size: 120px;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: 'Steelfish Rg', 'helvetica neue', 
+                            helvetica, arial, sans-serif;
+            font-weight: 800;
+       
+ 
+ 
+  background-position: center;
+  font-size: 50px;
+  
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+          
+    text-decoration-style:double;
+    text-decoration-thickness: 10px;  
+  text-transform: uppercase; 
+  letter-spacing: 20px;
+  text-align:center;
+  -webkit-text-stroke: 2px black;
+       
 }
 
 h4{
