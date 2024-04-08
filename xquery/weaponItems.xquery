@@ -14,8 +14,8 @@ declare option saxon:output "method=html";
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
-                     let $weapon:= $main//weapon[.//weaponName]
-            let $weapons := $main//weapon/weaponName
+                     let $weapon:= $main//weapon[.//itemName]
+            let $weapons := $main//weapon/itemName
 
              for $item in $weapons
 let $weapon-description := $item/following-sibling::description

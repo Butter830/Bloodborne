@@ -12,6 +12,7 @@
             "Beast" is one of the early Caryll Runes, as well as one of the
             first to be deemed forbidden. The discovery of blood entailed
             the discovery of undesirable beasts.</description>
+        <location lamp="Forbidden_Woods">Forbidden Woods</location>
     </caryllRunes>
     
     <caryllRunes>
@@ -27,6 +28,7 @@
             
             For them, they find solace in "Blood Rapture," that serves as
             a surrogate for their desires. </description>
+        <location lamp="Grand_Cathedral">Grand Cathedral</location>
     </caryllRunes>
     
     <caryllRunes>
@@ -41,6 +43,7 @@
             the "Beast" as a horrific and unwelcome instinct deep within
             the hearts of men, while "Clawmark" is an alluring invitation
             to accept this very nature. </description>
+        <location lamp="Yahar'gul_Chapel">Yahar'gul Chapel</location>
     </caryllRunes>
     
     <caryllRunes>
@@ -59,6 +62,7 @@
             This rune represents the Healing Church and its
             ministers. Blood ministration is, of course, the pursuit
             of communion. </description>
+        <location lamp="Lecture_Building">Lecture Building</location>
     </caryllRunes>
     
     <caryllRunes>      
@@ -73,6 +77,7 @@
             Master Willem looked to beings from higher planes for
             guidance, and sought to line his brain with eyes in order to
             elevate his thoughts. </description>
+        <location lamp="Nightmare_Of_Mensis">Nightmare Of Mensis</location>
     </caryllRunes>
     
     <caryllRunes>
@@ -87,6 +92,7 @@
             grade, and the essence of the formless Great One, Oedon.
             Both Oedon, and his inadvertent worshippers, surreptitiously
             seek the precious blood. </description>
+        <location lamp="Tomb_Of_Oedon">Tomb Of Oedon</location>
     </caryllRunes>
     
     <caryllRunes>
@@ -101,6 +107,7 @@
         
         Perhaps the "Heir" is a hunter who bears the echoing will of
         those before him. </description>
+        <location lamp="Yahar'gul_Chapel">Yahar'Gul Chapel</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -114,6 +121,7 @@
         
         The Great Ones that inhabit the nightmare are
         sympathetic in spirit, and often answer when called upon. </description>
+        <location lamp="Yahar'gul_Chapel">Yahar'Gul Chapel</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -128,6 +136,7 @@
         grade, and the essence of the formless Great One, Oedon.
         Both Oedon, and Oedon's inadvertent worshippers,
         surreptitiously seek the precious blood. </description>
+        <location lamp="Hunter's_Dream">Hunter's Dream</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -141,6 +150,7 @@
         of light. Ludwig was certain that these playful dancing
         sprites offered "guidance," and emptied Ludwig of his fears
         at least in the midst of a hunt. </description>
+        <location lamp="Grand_Cathedral">Grand Cathedral</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -155,6 +165,7 @@
         and an augur of the eldritch Truth.
         
         Overcome this hindrance, and seek what is yours. </description>
+        <location lamp="Hemwick_Charnel_Lane">Hemwich Charnel Lane</location>
         </caryllRunes>
     
     
@@ -174,6 +185,7 @@
         The discovery of blood made their dream of evolution
         a reality, Metamorphosis, and the excesses and deviation
         that followed, was only the beginning. </description>
+        <location lamp="Forbidden_Woods">Forbidden Woods</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -187,6 +199,7 @@
         The discovery of blood made their dream of evolution
         a reality. Metamorphosis, and the excesses and deviation
         that followed. were only the beginning. </description>
+        <location lamp="Forbidden_Woods">Forbidden Woods</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -201,6 +214,7 @@
         and an augur of the eldritch Truth.
         
         Overcome this hindrance, and seek what is yours. </description>
+        <location lamp="Forbidden_Woods">Forbidden Woods</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -221,6 +235,7 @@
         
         Yet the corrupt are heretics in the eyes of the Church, and
         thus subject to the wrath of the Executioners. </description>
+        <location lamp="Vileblood_Queen's_Chamber">Vileblood Queen's Chamber</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -233,6 +248,7 @@
         with blood. Be they men or beasts, anyone who has
         threatened the pledgers of the "Hunter" oath surely has an
         issue with blood. </description>
+        <location lamp="Cathedral Ward">Cathedral Ward</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -245,6 +261,7 @@
         other worlds, and hunt to discover vermin.
         Vermin writhe within filth, and are the root of man's
         impurity. Crush all vermin without hesitation. </description>
+        <location lamp="Forbidden Woods">Forbidden Woods</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -258,6 +275,7 @@
         and no matter what the circumstances, would
         never cooperate with the bloodthirsty hunters
         who serve the undead queen, Annalise. </description>
+        <location lamp="Cathedral Ward">Cathedral Ward</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -271,6 +289,7 @@
         
         Those who swear this oath take on a ghastly form, and enjoy
         accentuated transformation effects, especially while wielding a beast weapon. </description>
+        <location lamp="Nightmare_Grand_Cathedral">Nightmare Grand Cathedral</location>
         </caryllRunes>
     
     
@@ -286,6 +305,7 @@
             Those who take this oath become a lumenwood that peers
             towards the sky, feeding phantasms in its luscious bed.
             Phantasms guide us and lead us to further discoveries. </description>
+        <location lamp="Astral_Clocktower">Astral Clocktower</location>
         
     </caryllRunes>
 </lore>
