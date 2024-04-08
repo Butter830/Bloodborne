@@ -15,6 +15,7 @@
         become one of them, heart and soul.
 
     </description>
+    <location lamp="Forsaken_Castle_Cainhurst">Forsaken Castle Cainhurst</location>
 </keyItem>
 
 <keyItem>
@@ -30,6 +31,7 @@
         heads?
 
     </description>
+    <location lamp="Upper_Cathedral_Ward">Upper Cathedral Ward</location>
 </keyItem>
        
             
@@ -84,6 +86,7 @@
         The late Powder Kegs, bless their souls, had a motto:
 
         "If a weapon ain't got kick, it just ain't worth it."</description>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
 </keyItem>
    
 
@@ -98,6 +101,7 @@
         age of honour and chivalry.
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
         
        
@@ -114,6 +118,7 @@
         possession of this badge, or so they believe.
 
     </description>
+    <location lamp="Central_Yharnam">Central Yharnam</location>
 </keyItem>
                 
                 
@@ -128,6 +133,7 @@ artificial reproduction, in a style of inquiry that, incidentally,
 closely followed the methodology of Byrgenwerth.
 
     </description>
+    <location lamp="Yahar'gul_Chapel">Yahar'gul Chapel</location>
 </keyItem>
 
 <keyItem>
@@ -146,6 +152,7 @@ come, many of whom were clerics. As it was, clerics
 transformed into the most hideous beasts.
 
     </description>
+    <location lamp="Central_Yharnam">Central Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -167,6 +174,7 @@ It is clear that the philosophy of the Powder Kegs was
 already established at this time.
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -179,6 +187,7 @@ Rather bafflingly, it is addressed to you.
 Do not hesitate; the stagecoach leaves from Hemwick crossing.
 
     </description>
+    <location lamp="1st_Floor_Sickroom">1st Floor Sickroom</location>
 </keyItem>
 
 <keyItem>
@@ -193,6 +202,7 @@ other words, the captain's return, and this
 emblem, determined the end of the hunt.
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -211,6 +221,7 @@ There are no thieves in the nightmare. Then, why lock a
 door? Be warned, there must be a very, very good reason.
 
     </description>
+    <location lamp="Nightmare_Of_Mensis">Nightmare of Mensis</location>
 </keyItem>
 
 <keyItem>
@@ -225,6 +236,7 @@ Perhaps it still is, as the students in the lecture theatre
 appear to await the return of their professor.
 
     </description>
+    <location lamp="Lecture_Building">Lecture Building</location>
 </keyItem>
 
 <keyItem>
@@ -237,6 +249,7 @@ and the rocking chair that he kept there for meditation.
 In the end, it is said, he left his secret with the lake.
 
     </description>
+    <location lamp="Byrgenwerth">Byrgenwerth</location>
 </keyItem>
 
 <keyItem>
@@ -250,6 +263,7 @@ Only today the church is abandoned, and some say that the
 residents of Oedon have all gone mad.
 
     </description>
+    <location lamp="Central_Yharnam">Central Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -273,6 +287,7 @@ For the night of the hunt is long, and unchanging.
 
 
     </description>
+    <location lamp="Hunter's_Dream">Hunter's Dream</location>
 </keyItem>
 
 <keyItem>
@@ -288,6 +303,7 @@ The Choir, that would later split from the Healing Church,
 was a creation of the Orphanage.
 
     </description>
+    <location lamp="Upper_Cathedral_Ward">Upper Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -298,6 +314,7 @@ This pinkish lump of flesh remains warm, as if cursed.
 All hail the undying queen of blood!
 
     </description>
+    <location lamp="Vileblood_Queen's_Chamber">Vileblood Queen's Chamber</location>
 </keyItem>
 
 <keyItem>
@@ -308,6 +325,8 @@ ring of betrothal with some special meaning.
 In the age of the Great Ones, wedlock was a blood contract,
 only permitted to those slated to bear a special child.
 </description>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
+        
 </keyItem>
 
 
@@ -324,6 +343,7 @@ greyish hair.
 
 
     </description>
+    <location lamp="Abandonded_Old_Workshop">Abandoned Old Workshop</location>
 </keyItem>
 
 <keyItem>
@@ -338,6 +358,7 @@ seek an ancient, shrouded church... The gift of the godhead
 will grant you strength..."
 
     </description>
+    <location lamp="Forbidden_Woods">Forbidden Woods</location>
 </keyItem>
 
 <keyItem>
@@ -348,6 +369,7 @@ Like the first of its kind, it is an invitation to Cainhurst, but
 for whom is not known, as it lacks addressee.
 
     </description>
+    <location lamp="Vileblood_Queen's_Chamber">Vileblood Queen's Chamber</location>
 </keyItem>
 
 <keyItem>
@@ -361,6 +383,7 @@ occupying the Upper Cathedral Ward.
 This key brings one a step closer to the Choir.
 
     </description>
+    <location lamp="Upper_Cathedral_Ward">Upper Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -371,6 +394,7 @@ The Queen lies dead, but her horrific consciousness
 is only asleep, and stirs in unsettling motions.
 
     </description>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -383,6 +407,7 @@ them only as Lady Maria, made her home behind the giant
 star-interpreting clock.
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -401,6 +426,7 @@ Maria had hoped Adeline would find comfort in the faint
 
 breeze that carried the scent of flowers from the outside, but
 Adeline couldn't fathom her intentions.</description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
     <keyItem>
@@ -415,6 +441,7 @@ water, and listen for the howl of the sea. Brain fluid writhed
 inside the head, the initial makings of internal eyes.
 
     </description>
+        <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -430,6 +457,7 @@ end, this led to their encounter with the Eldritch Truth,
 for which they considered themselves blessed.
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -445,6 +473,7 @@ this is the very nature of insight, like the moment one
 licks one's own blood, only to be startled by its sweetness.
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -463,6 +492,7 @@ will come to life, and reveal a secret to its curious interloper.
 
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -475,6 +505,7 @@ the Nightmare, destined to wander forever, engaged in an
 endless hunt. It is a fate that no hunter can escape.
 
     </description>
+    <location lamp="Hunter's_Dream">Hunter's Dream</location>
 </keyItem>
 
 <keyItem>
@@ -492,6 +523,7 @@ eye.
 Grant eyes to the surgery altar skull.
 
     </description>
+    <location lamp="Hunter's_Nightmare">Hunter's Nightmare</location>
 </keyItem>
 
 <keyItem>
@@ -505,6 +537,7 @@ to protect. He is destined to seek his skull, but even if he
 found it, it could never restore his memories.
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -520,6 +553,7 @@ Unending death awaits those who can hear the soundless
 bell.
 
     </description>
+    <location lamp="Fishing Hamlet">Fishing Hamlet</location>
 </keyItem>
 
 <keyItem>
@@ -537,6 +571,7 @@ better left unseen, and knowledge better left unknown, will
 decay quietly in the fallow darkness.
 
     </description>
+    <location lamp="Grand_Cathedral">Grand Cathedral</location>
 </keyItem>
 
 <keyItem>
@@ -550,6 +585,7 @@ Blood gems add properties to weapons when used to
 fortify them, as blood defines an organism.
 
     </description>
+    <location lamp="Tomb_Of_Oedon">Tomb Of Oedon</location>
 </keyItem>
 
 <keyItem>
@@ -565,6 +601,7 @@ Provost Willem would have been proud of Caryll's runes, as
 they do not rely upon blood in any measure.
 
     </description>
+    <location lamp="Witch's_Abode">Witch's Abode</location>
 </keyItem>
 
 <keyItem>
@@ -577,6 +614,7 @@ from ritual materials.
 But alas, spent materials are lost.
 
     </description>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -590,6 +628,7 @@ interest in adornment. Why not let them be happy,
 and revel as babes?
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -609,6 +648,7 @@ interest in adornment. Why not let them be happy,
 and revel as babes?
 
     </description>
+    <location lamp="Old Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -620,6 +660,7 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+    <location lamp="Old Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -632,6 +673,7 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -646,6 +688,7 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+    <location lamp="Tomb_Of_Oedon">Tomb Of Oedon</location>
 </keyItem>
 
 <keyItem>
@@ -659,6 +702,7 @@ A strange choice indeed, but perhaps for the messengers
 wearing this accessory constitutes a form of mourning.
 
     </description>
+    <location lamp="Central_Yharnam">Central Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -676,6 +720,7 @@ messengers.
 
 
     </description>
+    <location lamp="Central_Yharnam">Central Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -686,6 +731,7 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </keyItem>
 
 <keyItem>
@@ -698,6 +744,7 @@ The inhabitants of the stump appear to have an interest
 in adornment. Why not let them be happy, and revel as
 babes?
 </description>
+    <location lamp="Hunter's_Dream">Hunter's Dream</location>
 </keyItem>
 
 
@@ -711,6 +758,7 @@ babes?
         <use>These tablets only provide short-term relief.</use> The ashen blood
         ailment eventually triggered the spread of the beastly
         scourge.</description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </consumableItem>
 
                     <consumableItem>
@@ -723,6 +771,7 @@ Ripping apart the flesh of one's enemies and being
 rained upon by their splattering blood invigorates
 one's sense of beasthood, feeding strength and
 euphoric feeling alike.</description>
+     <location lamp="Forbidden_Woods">Forbidden Woods</location>                   
 </consumableItem>
 
                     <consumableItem>
@@ -741,6 +790,7 @@ vessels for blood, and groomed as Blood Saints.
 
 The mere chance of being treated with their blood lends
 legitimacy to the Healing Church and communion.</description>
+       <location lamp="Cathedral_Ward">Cathedral Ward</location>                 
 </consumableItem>
 
                     <consumableItem>
@@ -751,6 +801,7 @@ legitimacy to the Healing Church and communion.</description>
 
 A member of the old Healing Church would know that her
 blood is similar to precisely what was once forbidden.</description>
+           <location lamp="Cathedral_Ward">Cathedral Ward</location>                
 </consumableItem>
 
                     <consumableItem>
@@ -764,6 +815,7 @@ common treatment in Yharnam, successive infusions recall
 the first, and are all the more invigorating for it.
 
 No surprise that most Yharnamites are heavy users of blood.</description>
+         <location lamp="Central_Yharnam">Central Yharnam</location>               
 </consumableItem>
 
                     <consumableItem>
@@ -777,6 +829,7 @@ At Byrgenwerth, Master Willem had an epiphany:
 
 "We are thinking on the basest of planes. What we need, are
 more eyes." </description>
+          <location lamp="Hunter's_Nightmare">Hunter's Nightmare</location>
 </consumableItem>
 
                     <consumableItem>
@@ -788,6 +841,7 @@ more eyes." </description>
 
 The product of a slow and careful refinement process,
 this rare blood vial appears to be a clinic original.</description>
+               <location lamp="Hunter's_Dream">Hunter's Dream</location>
 </consumableItem>
 
                     <consumableItem>
@@ -800,6 +854,7 @@ the Great Ones.
 Making contact with eldritch wisdom is a blessing,
 for even if it drives one mad,
 it allows one to serve a grander purpose, for posterity.</description>
+             <location lamp="Central_Yharnam">Central Yharnam</location>           
 </consumableItem>
 
                     <consumableItem>
@@ -812,6 +867,7 @@ Those who delve into the arcane fall all-too-easily
 to madness, and thick human blood serves to calm
 the frayed nerves of these inquisitive minds. Naturally,
 this often leads to a reliance on blood ministration.</description>
+        <location lamp="Cathedral_Ward">Cathedral Ward</location>                
 </consumableItem>
 
                     <consumableItem>
@@ -825,6 +881,7 @@ hunter's dream.
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+                        <location lamp="Cathedral_Ward">Cathedral Ward</location> 
 </consumableItem>
 
                     <consumableItem>
@@ -837,6 +894,7 @@ One, is no different. To think, it was corrupted blood that began this eldritch 
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+                        <location lamp="Cathedral_Ward">Cathedral Ward</location> 
 </consumableItem>
 
                     <consumableItem>
@@ -847,6 +905,7 @@ infant Great One has this precursor to the umbilical cord.
 Provost Willem sought the Cord in order to elevate his being and thoughts to those of a Great
 One, by lining his brain with eyes. The only choice, he knew, if man were to ever match Their
 greatness.</description>
+                        <location lamp="Cathedral_Ward">Cathedral Ward</location> 
 </consumableItem>
 
 
@@ -865,6 +924,7 @@ audience with Mergo, but resulted in the stillbirth of their brains.
 
         <use>Use to gain Insight and, so they say, eyes on the inside,</use> although no one remembers what that
 truly entails.</description>
+                        <location lamp="Cathedral_Ward">Cathedral Ward</location> 
 </consumableItem>
 
                     <consumableItem>
@@ -875,6 +935,7 @@ truly entails.</description>
 Adeline was originally one of the Blood Saints who received
 treatment by the Church to cultivate worthy blood. Adeline's
 was one of the few cases that turned out favorably.</description>
+             <location lamp="Great_Cathedral">Great Cathedral</location>
 </consumableItem>
 
                     <consumableItem>
@@ -887,6 +948,7 @@ was one of the few cases that turned out favorably.</description>
 Its recipe for this mysterious concoction is unknown, but
 some postulate that it materializes only within the most
 desperate nightmares.</description>
+                        <location lamp="Cathedral_Ward">Cathedral Ward</location>
 </consumableItem>
     
                     <consumableItem>
@@ -899,6 +961,7 @@ A type of anesthetic that numbs the brain.
 Hunters, able to retain consciousness by force of will, make
 use of a secondary effect of the medicine, which dilutes their
 presence while standing still.</description>
+         <location lamp="Forbidden_Woods">Forbidden Woods</location>               
 </consumableItem>
 
                     <consumableItem>
@@ -917,6 +980,7 @@ Hunters, able to retain consciousness by force of will, make
 
 use of a secondary effect of the medicine, which dilutes their
 presence while standing still.</description>
+        <location lamp="Old_Yharnam">Old Yharnam</location>                
 </consumableItem>
 
                     <consumableItem>
@@ -927,6 +991,7 @@ Symbol of a hunter.
 By focusing one's thoughts on this rune, a hunter
 loses all Blood Echoes, but awakens afresh,
 as if it were all just a bad dream.</description>
+       <location lamp="Central_Yharnam">Central Yharnam</location>                 
 
 </consumableItem>
 
@@ -942,6 +1007,7 @@ are said to surround darkbeasts.
 Unlike the other strange weapons created by Archibald, this
 one was favored by many hunters, in particular those who
 had even once laid eyes on a darkbeast.</description>
+    <location lamp="Yahar'gul_Chapel">Yahar'gul Chapel</location>
 </weaponBuffItem>
 
 <weaponBuffItem>
@@ -952,6 +1018,7 @@ According to the workshop, this is a special bone marrow
 ash collected from Hemwick Charnel Lane.
 
 Invaluable to hunters with weak bloodtinge who require the use of stronger firearms.</description>
+    <location lamp="Hemwick_Charnel_Lane">Hemwick_Charnel_Lane</location>
 </weaponBuffItem>
 
 <weaponBuffItem>
@@ -964,6 +1031,7 @@ Since the tragedy that struck Old Yharnam, fire has become
 a staple in beast hunts, and is thought to cleanse impurity.
 
 Certain types of beasts have an abnormal fear of flame.</description>
+    <location lamp="Cathedral_Ward">Cathedral Ward</location>
     </weaponBuffItem>
 
 
