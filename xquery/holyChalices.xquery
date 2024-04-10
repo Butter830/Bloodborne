@@ -12,10 +12,11 @@ declare option saxon:output "method=html";
          <div class="header"><h1>Bloodborne Mastersheet</h1>
          <h4>Ultimate Cheat Sheet</h4></div>
          
-         <div class="topnav">
+       <div class="topnav">
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
          <h4><a href="consumableItems.html">Consumables</a></h4>
+         <h4><a href="holyChalices.html">Holy Chalices</a></h4>
          <h4><a href="keyItems(NEW).html">Key Items</a></h4> 
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
