@@ -37,8 +37,20 @@ declare variable $yspacer := 25;
         <h1><u>Item Count in Bloodborne</u></h1>
         <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid!</p>
         <p></p>
-            <table>
+ <!--whc: introducing new FLWOR-->  
+ 
+{
+let $items := $main//lore//*[name()="caryllRune" or name()="weapon"] <!--whc: extend thsi to include whatever elements you do want, leave out the ones you don't-->
+let $itemTypes := $item=>distinct-values()
+for $itemType at $pos in $itemTypes
+let $itemCount := count($items[./name() = $itemType])
+let $itemName := $itemType!name()
 
+
+
+
+}
+<!--whc: old FLWOR statements-->
             {
             
 
@@ -131,7 +143,7 @@ declare variable $yspacer := 25;
 
 
 
-        </table>
+    
          
     </body>
 </html>
