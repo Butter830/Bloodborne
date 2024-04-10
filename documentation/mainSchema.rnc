@@ -5,42 +5,42 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = lore
 
 
-lore = element lore{(equipment| area| npc| boss| onlineItemList | description| chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices|consumableItem|weaponBuffItem|onlineItem|holyChaliceItem)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
-weaponBuffs = element weaponBuffs {(itemName|description|text)*}
-weaponBuffItem = element weaponBuffItem {(itemName|text|description|keyList)*}
-consumables = element consumables {(itemName| description| text)*}
-equipment = element equipment{((caryllRune | attire | weapon | firearm | item | onlineItem )?)+}
-onlineItem = element onlineItem {(itemName | chaliceRitualMaterials | text |onlineItemList |description)*}
-itemName = element itemName {(chaliceRitualMaterial |text| 
+lore = element lore{(equipment| area| npc| boss| onlineItemList | description| location|chaliceRitualMaterials|itemName|misc|miscItem|arcaneBloodtingeTools|caryllRunes|keyItem|consumables|weaponBuffs|holyChalices|consumableItem|weaponBuffItem|onlineItem|holyChaliceItem)*}  #I added a * so that the schema will allow any amount of these, and not force parental relations. - KVC
+weaponBuffs = element weaponBuffs {(itemName|location|description|text)*}
+weaponBuffItem = element weaponBuffItem {(itemName|location|text|description|keyList)*}
+consumables = element consumables {(itemName| location|description| text)*}
+equipment = element equipment{((caryllRune | location|attire | weapon | firearm | item | onlineItem )?)+}
+onlineItem = element onlineItem {(itemName | location|chaliceRitualMaterials | text |onlineItemList |description)*}
+itemName = element itemName {(chaliceRitualMaterial |location|text| 
 onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList|attireList|attireSet|weaponList)*}
-chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|description|itemName|text)*}
-holyChaliceItem = element holyChaliceItem {(itemName|description|text)*}
+chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|location|description|itemName|text)*}
+holyChaliceItem = element holyChaliceItem {(itemName|location|description|text)*}
 
 buffList = attribute buffList {text}
 holyChalicesList = attribute holyChalicesList{text}
 keyList = attribute keyList {text}
 chaliceRitualMaterial = attribute chaliceRitualMaterial {text}
 
-holyChalices = element holyChailces {(itemName|description|text)}
+holyChalices = element holyChailces {(itemName|location|description|text)}
 
 misc = element misc {(miscItem | text | description | use| itemName|arcaneBloodtingeTools|keyItem|toolItem|consumableItem)*}
-consumableItem = element consumableItem {(itemName|description|text|use)*}
-toolItem = element toolItem {(itemName|description|text)*}
+consumableItem = element consumableItem {(itemName|location|description|text|use)*}
+toolItem = element toolItem {(itemName|location|description|text)*}
 use = element use {text}
-miscItem = element miscItem {(itemName | description | text| use|keyItem)*}
-keyItem = element keyItem {(text|itemName|description)*}
-caryllRune = element caryllRune{runeName, ((description | locationArea | effect | notes | trivia)?)+}
+miscItem = element miscItem {(itemName |location|description | text| use|keyItem)*}
+keyItem = element keyItem {(text|itemName|location|description)*}
+caryllRune = element caryllRune{runeName, ((description |  location| effect | notes | trivia)?)+}
 runeName = element runeName{runeList, text}
-arcaneBloodtingeTools = element arcaneBloodtingeTools {(spellItem|itemName|spellList|toolList|toolItem|text)*}
-spellItem = element spellItem {(itemName|description|text)*}
-caryllRunes = element caryllRunes {(runeList|text|itemName|description)*}
-attire = element attire{itemName, ((description | locationArea | effect | notes | trivia)?)+}
+arcaneBloodtingeTools = element arcaneBloodtingeTools {(spellItem|itemName|location|spellList|toolList|toolItem|text)*}
+spellItem = element spellItem {(itemName|location|description|text)*}
+caryllRunes = element caryllRunes {(runeList|location|text|itemName|description)*}
+attire = element attire{itemName, ((description | location|  effect | notes | trivia)?)+}
 attireName = element attireName{attireList, attireSet?, text}
 
-weapon = element weapon{((description | locationArea | notes | trivia|itemName)?)+}
+weapon = element weapon{((description | location|  notes | trivia|itemName)?)+}
 weaponName = element weaponName{weaponList, text}
 
-firearm = element firearm{firearmName, ((description | locationArea | notes | trivia)?)+}
+firearm = element firearm{firearmName, ((description | location| notes | trivia)?)+}
 firearmName = element firearmName{firearmList, text}
 item = element item{text}
 #item specific elements
@@ -48,12 +48,12 @@ area = element area{text}
 #area specific elements
 
 
-npc = element npc{npcName, description, notes, locationArea, dialogue?, trivia?}
+npc = element npc{npcName, description, notes, dialogue?, trivia?}
 npcName = element npcName{npcList, text}
 dialogue = element dialogue{line+} # the whole dialogue section
 line = element line{text} # each individual discourse
 #npc specific elements
-boss = element boss{bossName, description, notes?, locationArea, dialogue?, trivia?}
+boss = element boss{bossName, description, notes?,  dialogue?, trivia?}
 bossName = element bossName{bossList, text}
 #boss specific elements
 
@@ -61,7 +61,7 @@ bossName = element bossName{bossList, text}
 
 #universal(ish) elements
 description= element description {(text|use)*}
-locationArea  = element locationArea{((location | npc | text)?)+}
+
 location = element location{((place | lamp | text)?)+}
 effect = element effect{text}
 notes = element notes{text}

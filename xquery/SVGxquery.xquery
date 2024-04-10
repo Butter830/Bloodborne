@@ -39,19 +39,32 @@ declare variable $yspacer := 25;
         <p></p>
  <!--whc: introducing new FLWOR-->  
  
-{
-let $items := $main//lore//*[name()="caryllRune" or name()="weapon"] <!--whc: extend thsi to include whatever elements you do want, leave out the ones you don't-->
-let $itemTypes := $item=>distinct-values()
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g transform="translate(150,100)">
+    <g>
+    <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="black">Item Frequency in Bloodborne</text>
+    </g>
+{let $items := $main//lore//*[name()="holyChalices" or name()="weapon"or name()="attire"or name()="caryllRunes"or name()="caryllRunes"] 
 for $itemType at $pos in $itemTypes
 let $itemCount := count($items[./name() = $itemType])
 let $itemName := $itemType!name()
+return
+ <g>
+                <text x="-75" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="black">{$k}</text>
+                <line x1="0" y1="{$pos * $yspacer}" x2="{$keyItem-count * $xspacer}" y2="{$pos * $yspacer}" stroke="Red" stroke-width="15"/>
+                <text x="{$keyItem-count * $xspacer + 10}" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="black">{}</text>
+                <line x1="0" y1="0" x2="0" y2="{max($pos +1) * $yspacer}" stroke="black" stroke-width="2"/>
+                </g>
+        }
+        </g>
+   
+</svg>
 
 
 
 
-}
-<!--whc: old FLWOR statements-->
-            {
+
+
             
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
@@ -76,7 +89,7 @@ let $itemName := $itemType!name()
     </g>
 </svg>
 
-}                    {
+                  {
             
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">

@@ -248,7 +248,7 @@
         with blood. Be they men or beasts, anyone who has
         threatened the pledgers of the "Hunter" oath surely has an
         issue with blood. </description>
-        <location lamp="Cathedral Ward">Cathedral Ward</location>
+        <location lamp="Cathedral_Ward">Cathedral Ward</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -261,7 +261,7 @@
         other worlds, and hunt to discover vermin.
         Vermin writhe within filth, and are the root of man's
         impurity. Crush all vermin without hesitation. </description>
-        <location lamp="Forbidden Woods">Forbidden Woods</location>
+        <location lamp="Forbidden_Woods">Forbidden Woods</location>
         </caryllRunes>
     
     <caryllRunes>
@@ -275,7 +275,7 @@
         and no matter what the circumstances, would
         never cooperate with the bloodthirsty hunters
         who serve the undead queen, Annalise. </description>
-        <location lamp="Cathedral Ward">Cathedral Ward</location>
+        <location lamp="Cathedral_Ward">Cathedral Ward</location>
         </caryllRunes>
     
     <caryllRunes>

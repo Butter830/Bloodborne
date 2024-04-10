@@ -6,7 +6,7 @@ declare option saxon:output "method=html";
       
     <marquee> Check off what you found and discover what else there is!</marquee>
     <marquee direction="right" behavior="alternate"
-             style="border:BLACK 2px SOLID">
+           >
         Let Blood Flow the Streets and Collect all the Items in the Game!
     </marquee>
         <font

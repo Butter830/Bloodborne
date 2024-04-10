@@ -10,7 +10,7 @@ declare variable $yspacer := 25;
     
     <body>
         <h1><u>Item Count in Bloodborne</u></h1>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
     <g transform="translate(150,100)">
    
     {
