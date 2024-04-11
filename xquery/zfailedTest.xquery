@@ -6,6 +6,7 @@ declare variable $yspacer := 25;
 <html>
     <head>
         <title>Item Count</title>
+        <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
     </head>
     
     <body>

@@ -3,11 +3,15 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
-      
-    <marquee> Check off what you found and discover what else there is!</marquee>
-    <marquee direction="right" behavior="alternate"
-           >
-        Let Blood Flow the Streets and Collect all the Items in the Game!
+      <title>Item List</title>
+      <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
+    <marquee SCROLLAMOUNT="100"> 
+<img src="Lightning_McQueen.jpg" width="40" height="20" alt="Swimming fish" />
+
+</marquee>
+    <marquee direction="right" behavior="alternate" speed="100%" BGCOLOR="Red" SCROLLDELAY="0"
+          SCROLLAMOUNT="10" >
+        Let the Blood Flow in the Streets and Collect all the Items in the Game!
     </marquee>
         <font
             size="+10"><b><u>Item Checklist</u></b></font>

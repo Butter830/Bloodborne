@@ -3,7 +3,8 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
-        <title>Weapon Count</title><link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
+        <title>Weapons</title>
+        <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
     </head>
     
     <body>

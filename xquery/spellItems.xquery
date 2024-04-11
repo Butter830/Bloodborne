@@ -3,7 +3,8 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
-      
+      <title>Spell Items</title>
+      <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
     </head>
     
     <body>
