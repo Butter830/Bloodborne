@@ -31,16 +31,19 @@ declare variable $yspacer := 50;
         <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
     <g transform="translate(-120,10)">
    
-    {
-    let $items := $main//Q{}lore//*[name()="holyChaliceItem" or name()="weapon"or name()="attire"or name()="caryllRunes"or name()="onlineItem" or name()="keyItem"or name()="chaliceRitualMaterials"or name()="toolItem"or name()="consumableItem"or name()="spellItem"or name()="weaponBuffItem"] 
+    {let $locations:= $main/Q{}location/data(@lamp)=>distinct-values()
+    for $location at $pos in $locations
+    let $itemCount:= $locations[./data(@lamp)=$location]=>count()
+    
+    (:let $items := $main//Q{}lore//*[name()="Forbidden_Woods" or name()="Vileblood_Queen's_Chamber"or name()="attire"or name()="caryllRunes"or name()="onlineItem" or name()="keyItem"or name()="chaliceRitualMaterials"or name()="toolItem"or name()="consumableItem"or name()="spellItem"or name()="weaponBuffItem"] 
  
 let $itemTypes := $items/name()=>distinct-values()
 for $itemType at $pos in $itemTypes
 let $itemCount := count($items[./name() = $itemType])
-let $itemName := $itemType
+let $itemName := $itemType:)
         return
                 <g>
-                <text x="-320" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="30px" fill="black">{$itemName}</text>
+                <text x="-320" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="30px" fill="black">{$location}</text>
                 <line x1="-25" y1="{$pos * $yspacer}" x2="{$itemCount * $xspacer}" y2="{$pos * $yspacer}" stroke="orange" stroke-width="35"/>
                 <text x="{$itemCount * $xspacer + 10}" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="30px" fill="black">{$itemCount}</text>
 

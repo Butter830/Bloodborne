@@ -23,7 +23,7 @@ declare option saxon:output "method=html";
    </head>
 
     <body>
-    <h1>The Items of Bloodborne</h1>
+    
         <h2>Tool items found in Yharnam</h2>
         <p>The Beasts of the night flood the streets of Yharnam, spilling the blood of its citzens. As the moon hangs high above the city what tools will use to set the Beasts to rest, good hunter? </p>
         <p><u>{let $main := collection("../xml/")
