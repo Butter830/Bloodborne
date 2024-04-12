@@ -13,8 +13,8 @@ body
 .header {
   background-color: #979797;
   text-align: center;
-  padding: 10px;
-  margin: 25px 50px 75px;
+  padding: 50px;
+  margin: 50px;
   border-radius: 5px;
 }
 
@@ -22,7 +22,7 @@ body
 .topnav {
   overflow: hidden;
   background-color: #333;
-  margin: 25px 50px 75px;
+  margin: 50px;
   border-radius: 5px;
 }
 
@@ -75,9 +75,6 @@ h1{
             font-family: 'Steelfish Rg', 'helvetica neue', 
                             helvetica, arial, sans-serif;
             font-weight: 800;
-       
- 
- 
   background-position: center;
   font-size: 45px;
   
