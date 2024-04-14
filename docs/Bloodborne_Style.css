@@ -42,24 +42,16 @@ body
   color: black;
 }
 
-.parent
+.content
 {
     background-color: #979797;
-    margin: auto;
-    padding: 20px;
+    margin: 50px;
+    padding: 100px;
     text-align: center;
-    border-radius: 15px;
-}
-
-.child
-{
-    background-color: #979797;
-    margin: auto;
-    padding: 20px;
+    border-radius: 5px;
     display: inline-block;
     vertical-align: middle;
     box-sizing: border-box;
-    border-radius: 15px;
 }
 
 h1{

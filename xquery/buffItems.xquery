@@ -11,6 +11,7 @@ declare option saxon:output "method=html";
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
          <h4><a href="consumableItems.html">Consumables</a></h4>
+         <h4><a href="holyChalices.html">Holy Chalices</a></h4>
          <h4><a href="keyItems(NEW).html">Key Items</a></h4> 
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
@@ -43,7 +44,7 @@ return
  }
         </table>
        
-  
+  <h4><a href="Bloodborne_Mastersheet.html">Bloodborne Mastersheet</a></h4>
           
     </body>
 </html>
