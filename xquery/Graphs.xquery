@@ -21,6 +21,7 @@ declare variable $yspacer := 50;
          <h4><a href="#">Item Checklist</a></h4>
          <h4><a href="#">General Trivia</a></h4>
          <h4><a href="#">About</a></h4>
+          <h4><a href="#">Holy Chalices</a></h4> 
       </div>
     </head>
     

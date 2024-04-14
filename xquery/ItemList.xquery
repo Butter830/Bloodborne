@@ -20,11 +20,11 @@ declare option saxon:output "method=html";
          <h4><a href="#">General Trivia</a></h4>
          <h4><a href="#">About</a></h4>
       </div>
-    <marquee SCROLLAMOUNT="100"> 
-<img src="Lightning_McQueen.jpg" width="40" height="20" alt="Swimming fish" />
+    <marquee direction="right" SCROLLAMOUNT="25"> 
+<img src="images/walking.gif" width="80" height="80" alt="Walking Guy" />
 
 </marquee>
-    <marquee direction="right" behavior="alternate" speed="100%" BGCOLOR="Red" SCROLLDELAY="0"
+    <marquee direction="left" behavior="alternate" speed="100%" BGCOLOR="Red" SCROLLDELAY="0"
           SCROLLAMOUNT="10" >
         Let the Blood Flow in the Streets and Collect all the Items in the Game!
     </marquee>

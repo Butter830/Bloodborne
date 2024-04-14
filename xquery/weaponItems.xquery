@@ -8,6 +8,7 @@ declare option saxon:output "method=html";
     
     <div class="header"><h1>Bloodborne Mastersheet</h1>
          <h4>Ultimate Cheat Sheet</h4>
+         <h4><a href="Bloodborne_Mastersheet.html">Home</a></h4>
         </div><div class="topnav">
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
@@ -21,6 +22,7 @@ declare option saxon:output "method=html";
          <h4><a href="#">Item Checklist</a></h4>
          <h4><a href="#">General Trivia</a></h4>
          <h4><a href="#">About</a></h4>
+         <h4><a href="#">Holy Chalices</a></h4> 
       </div></head>
     
     <body>
@@ -44,8 +46,9 @@ return
  }
         </table>
        
-  <h4><a href="Bloodborne_Mastersheet.html">Bloodborne Mastersheet</a></h4>
+  
         
         
     </body>
+    <h4><a href="Bloodborne_Mastersheet.html">Return Home</a></h4>
 </html>
