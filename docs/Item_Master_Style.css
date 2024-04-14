@@ -25,3 +25,24 @@
   background-color: #ddd;
   color: black;
 }
+
+table, tr, td
+{
+    
+    border: 1px solid;
+    border-color: #fcba03;
+    
+    
+}
+
+body
+{
+    
+    background-color: #000000;
+    background-image: url("images/fog.gif");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: right;
+    
+}
