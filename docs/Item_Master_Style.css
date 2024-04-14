@@ -25,3 +25,13 @@
   background-color: #ddd;
   color: black;
 }
+
+table, tr, td
+{
+    
+    background-color: #979797;
+    border: 1px solid;
+    border-color: #fcba03;
+    
+    
+}
