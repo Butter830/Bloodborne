@@ -31,18 +31,23 @@ table, tr, td
     
     border: 1px solid;
     border-color: #fcba03;
-    
-    
+    -webkit-text-stroke: 0.4px #fcba03;
+    color: #FFFFFF;
+    font-size: 25px;
+   
 }
 
 body
 {
     
     background-color: #000000;
-    background-image: url("images/fog.gif");
+   background-image: url("images/fog.gif");
+    
     background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
-  background-position: right;
+  background-position: center;
+  margin-left: 75px;
+  margin-right: 75px;
     
 }
