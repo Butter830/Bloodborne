@@ -25,7 +25,7 @@
    <p>
 This project was commissioned by our professor Dr. William Campbell in our Data, Coding, and Visualization course during the 2024 spring semester.
    </p> 
-   <p>Our group consisted of Kadien; the Schema Master, Julia; Resident CSS expert, Cameron, the Grunt of Grunt, and Christian Stahl, Overall XML expert. </p>
+   <p>Our group consisted of Kadien; the Schema Master, Julia; Resident CSS expert, Cameron, the Grunt of Grunt, and Christian Stahl, Overall XML master. </p>
             
  
        
