@@ -8,7 +8,7 @@ declare option saxon:output "method=html";
     
     <div class="header"><h1>Bloodborne Mastersheet</h1>
          <h4>Ultimate Cheat Sheet</h4>
-         <h4><a href="Bloodborne_Mastersheet.html">Home</a></h4>
+         <h4><a href="index.html">Home</a></h4>
         </div><div class="topnav">
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
