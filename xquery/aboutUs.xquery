@@ -1,7 +1,7 @@
 <html>
     <head>
        <title>About Us</title>
-      <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
+      <link type="text/css" href="About_Us_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>
          <h4>About Us</h4>
         </div><div class="topnav">
