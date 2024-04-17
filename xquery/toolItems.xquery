@@ -22,8 +22,9 @@ declare option saxon:output "method=html";
          <h4><a href="itemCount.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
+      
    </head>
-
+<h4><a id="top"></a></h4>
     <body>
     
         <p><u>{let $main := collection("../xml/")
@@ -55,9 +56,8 @@ return
 </td><td><b>{$item!string()}</b> </td><td>{$items!string()}</td></tr>
  }
         </table>
-       
-  
-        <h4><a href="">Top of Page</a></h4>
+
         
     </body>
+    <h4><a href="#top">Back to top</a></h4>
 </html>

@@ -24,6 +24,7 @@ declare variable $yspacer := 50;
          <h4><a href="itemCount.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
+      <h4><a id="top"></a></h4>
    </head>
     
     <body>
@@ -51,4 +52,5 @@ let $itemName := $itemType
         }
         </g></svg>
         <p> Analysis of Item numbers</p>
-        </body></html>
+        </body>
+        <h4><a href="#top">Back to top</a></h4></html>

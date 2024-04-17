@@ -35,7 +35,7 @@ declare option saxon:output "method=html";
             size="+10"><b><u>Item Checklist</u></b></font>
         <p> Keep track of all the items you have and find the <i>items you need!</i> </p>
     </head>
-    
+    <h4><a id="top"></a></h4>
     <body>
         
         <table>
@@ -72,4 +72,5 @@ declare option saxon:output "method=html";
             }
         </table>
     </body>
+    <h4><a href="#top">Back to top</a></h4>
 </html>

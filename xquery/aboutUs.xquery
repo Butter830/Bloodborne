@@ -19,6 +19,7 @@
          <h4><a href="itemCount.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
+      <h4><a id="top"></a></h4>
    </head>
     
     <body>
@@ -35,5 +36,5 @@ This project was commissioned by our professor Dr. William Campbell in our Data,
         
         
     </body>
-    <h4><a href="Bloodborne_Mastersheet.html">Return Home</a></h4>
+    <h4><a href="#top">Back to top</a></h4>
 </html>
