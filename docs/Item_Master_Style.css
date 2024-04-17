@@ -42,12 +42,29 @@ body
     
     background-color: #000000;
    background-image: url("images/fog.gif");
-    
+    background-size: 100% 100%;
     background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: contain;
   background-position: center;
   margin-left: 75px;
   margin-right: 75px;
     
+}
+
+b
+{
+    
+    color: #FFFFFF;
+    border-color: #fcba03;
+    -webkit-text-stroke: 0.4px #fcba03;
+    
+}
+
+p
+{
+    
+    color: #FFFFFF;
+    border-color: #fcba03;
+    -webkit-text-stroke: 0.4px #fcba03;
+    font-size: 25px;
 }

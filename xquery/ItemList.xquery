@@ -3,23 +3,26 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
-      <title>Item List</title>
+       <title>Item List</title>
       <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
-      <div class="header"><h1>Bloodborne Mastersheet</h1>
-         <h4>Ultimate Cheat Sheet</h4>
+   <div class="header"><h1>Bloodborne Item Finder</h1>
+         <h4>Item List</h4>
         </div><div class="topnav">
+        <h4><a href="index.html">Home</a></h4>
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
          <h4><a href="consumableItems.html">Consumables</a></h4>
-         <h4><a href="keyItems(NEW).html">Key Items</a></h4> 
+         <h4><a href="holyChalices.html">Holy Chalices</a></h4>
+         <h4><a href="keyItems.html">Key Items</a></h4> 
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
-         <h4><a href="#">Item Checklist</a></h4>
-         <h4><a href="#">General Trivia</a></h4>
-         <h4><a href="#">About</a></h4>
+         <h4><a href="itemList.html">Item Checklist</a></h4>
+         <h4><a href="itemCount.html">Graphs</a></h4>
+         <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
+   
     <marquee direction="right" SCROLLAMOUNT="25"> 
 <img src="images/walking.gif" width="80" height="80" alt="Walking Guy" />
 
@@ -32,7 +35,7 @@ declare option saxon:output "method=html";
             size="+10"><b><u>Item Checklist</u></b></font>
         <p> Keep track of all the items you have and find the <i>items you need!</i> </p>
     </head>
-    
+    <h4><a id="top"></a></h4>
     <body>
         
         <table>
@@ -69,4 +72,5 @@ declare option saxon:output "method=html";
             }
         </table>
     </body>
+    <h4><a href="#top">Back to top</a></h4>
 </html>

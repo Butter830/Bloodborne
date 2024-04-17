@@ -1116,7 +1116,7 @@ flames and stench of singed blood."</description>
 <location place="Old_Yharnam">Old Yharnam</location>
 
 </attire><attire>
-<itemName attireList="Choir_Garb" attireSet="Choir_Set"> Choir Garb</itemName>
+<itemName attireList="Choir_Garb" attireSet="Choir_Set">Choir Garb</itemName>
 
 <description> Attire of the Choir, high-ranking members of the Healing Church. 
 Members of the Choir are both the highest-ranking clerics of the Healing Church, and scholars who continue the work that began at Byrgenwerth. 
@@ -1125,7 +1125,7 @@ Together with the left behind Great One, they look to the skies, in search of as
 <location place="Upper_Cathedral_Ward"> Upper Cathedral Ward</location>
 
 </attire><attire>
-<itemName attireList="Constable's_Garb" attireSet="Constable_Set"> Constable's Garb is part of the Constable Set.</itemName>
+<itemName attireList="Constable's_Garb" attireSet="Constable_Set">Constable's Garb is part of the Constable Set.</itemName>
 
 <description> Once upon a time a troupe of foreign constables chased a beast all the way to Yahrnam, and this is what they wore. 
 The constables became victims of the beast, except for one survivor, who in turn devoured the creature whole, all by himself. 
@@ -1134,7 +1134,7 @@ The fable is a favorite among Yahrnamites, who are partial to any stories of pom
 <notes>The set, minus the helmet, is reminiscent of a Civil War Union general's outfit.</notes>
 
 </attire><attire>
-<itemName attireList="Crowfeather_Garb" attireSet="Crowfeather_Set"> Crowfeather Garb is a part of the Crowfeather Set.</itemName>
+<itemName attireList="Crowfeather_Garb" attireSet="Crowfeather_Set">Crowfeather Garb is a part of the Crowfeather Set.</itemName>
 
 <description> Wood-carved mask/Attire of Eileen the Crow, Hunter of Hunters. The beak contains incense to mask scents of blood and beast. 
 Hunters of Hunters dress as crows to suggest sky burial. The first Hunter of Hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them. with the hope that former compatriots might be returned to the skies, and find rest in the Hunter's Dream"</description>
@@ -1146,7 +1146,7 @@ This set's headpiece Beak Mask notably has the highest frenzy resistance, the re
 Prior to patch 1.04, the male version of the chest piece had a bug causing the right side of the cape to be abnormally stretchy. This bug was not present on the female set.</notes>
 
 </attire><attire>
-<itemName attireList="Decorative_Old_Hunter_Garb" attireSet="Decorative_Old_Hunter_Set"> Decorative Old Hunter Garb</itemName>
+<itemName attireList="Decorative_Old_Hunter_Garb" attireSet="Decorative_Old_Hunter_Set">Decorative Old Hunter Garb</itemName>
 
 <description> Old Hunter Garb decorated with brass trinkets 
 At the time, some hunters believed that certain metals would ward off beast blood. 
@@ -1155,7 +1155,7 @@ On a night of the hunt, it is no wonder that people would resort to superstition
 <location place="Abandoned_Old_Workshop"> Abandoned Workshop</location>
 
 </attire><attire>
-<itemName attireList="Doll_Clothes" attireSet="Doll_Set"> Doll Clothes</itemName>
+<itemName attireList="Doll_Clothes" attireSet="Doll_Set">Doll Clothes</itemName>
 
 <description> "Discarded doll clothing, likely a spare for dress-up." 
 " A deep love for the doll can be surmised by the fine craftsmanship of this article, and the care with which it was kept." 
@@ -1164,7 +1164,7 @@ On a night of the hunt, it is no wonder that people would resort to superstition
 <location place="Abandoned_Old_Workshop"> Abandoned Workshop</location>
 
 </attire><attire>
-<itemName attireList="Executioner_Garb" attireSet="Executioner_Set"> Executioner Garb</itemName>
+<itemName attireList="Executioner_Garb" attireSet="Executioner_Set">Executioner Garb</itemName>
 
 <description>  Attire worn by the band of executioners commanded by the martyr Logarius. 
 Later became the basis for all Church attire, with its heavy draping of Holy Shawl. 
@@ -1182,7 +1182,7 @@ Without memory, who will ever know?</description>
 <location place="Iosefka's_Clinic"> Starting equipment</location>
 
 </attire><attire>
-<itemName attireList="Gascoigne's_Garb" attireSet="Gascoigne's_Set"> Gasgoigne's Garb is part of Gacoigne's Set.</itemName>
+<itemName attireList="Gascoigne's_Garb" attireSet="Gascoigne's_Set">Gasgoigne's Garb is part of Gacoigne's Set.</itemName>
 
 <description> Hunter attire worn by Father Gascoigne. 
 The dingy scarf is a Holy Shawl and symbol of 
@@ -1193,7 +1193,7 @@ and there is no such rank in the Healing Church.</description>
 <location place="Hunter's_Dream">Hunter's Dream</location>
 
 </attire><attire>
-<itemName attireList="Graveguard_Robe" attireSet="Graveguard_Set"> Graveguard Robe is part of the Graveyard Set.</itemName>
+<itemName attireList="Graveguard_Robe" attireSet="Graveguard_Set">Graveguard Robe is part of the Graveyard Set.</itemName>
 
 <description> Robe of Dores, graveguard of the Forbidden Woods. 
 His pale countenance mimics the labyrinth watchers. Willem kept two loyal servants back at Byrgenwerth. When they were sent into the labyrinth. they encountered the eldritch Truth. and went mad. One became the password gatekeeper, while Dores became a graveguard of the forest. 
@@ -1202,7 +1202,7 @@ Both remained loyal, even in madness."</description>
 <location place="Forbidden_Woods"> Forbidden Woods</location>
 
 </attire><attire>
-<itemName attireList="Harrowed_Garb" attireSet="Harrowed_Set"> Harrowed Garb is part of the Harrowed Garb.</itemName>
+<itemName attireList="Harrowed_Garb" attireSet="Harrowed_Set">Harrowed Garb is part of the Harrowed Garb.</itemName>
 
 <description> Certain Church hunters obfuscate their identities and slip into the nooks and crannies of the city. 
 This is the garb that allows these harrowed individuals to go unnoticed. 
@@ -1211,7 +1211,7 @@ Or perhaps, when the time is ripe, they find signs of the scourge where there ar
 
 <location place="Fishing_Hamlet">Fishing Hamlet</location> 
 </attire><attire>
-<itemName attireList="Henryk's_Hunter_Garb" attireSet="Henryk's_Hunter_Set"> Henryk's Hunter Garb is a part of Henryk's Hunter Set.</itemName>
+<itemName attireList="Henryk's_Hunter_Garb" attireSet="Henryk's_Hunter_Set">Henryk's Hunter Garb is a part of Henryk's Hunter Set.</itemName>
 
 <description> Hunter's attire worn by Henryk, the old hunter. 
 The taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life. 
@@ -1219,7 +1219,7 @@ Henryk's unique yellow garb is resistant to bolt and will be of great help to an
 
 <location place="Central_Yharnam">Tomb of Oedon</location>
 </attire><attire>
-<itemName attireList="Hunter_Garb" attireSet="Hunter_Set(A)"> Hunter Garb is part of the Hunter Set.</itemName>
+<itemName attireList="Hunter_Garb" attireSet="Hunter_Set(A)">Hunter Garb is part of the Hunter Set.</itemName>
 
 <description> "One of the standard articles of hunter attire fashioned at the workshop, this one without the cape that wipes away blood. 
 A fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.
@@ -1228,7 +1228,7 @@ Allows one to stalk beasts unannounced, by cover of night." </description>
 <location place="Central_Yharnam">Central Yharnam</location>
 
 </attire><attire>
-<itemName attireList="Knight's_Garb" attireSet="Knight's_Set"> Knight's Garb is part of the Knight's Set.</itemName>
+<itemName attireList="Knight's_Garb" attireSet="Knight's_Set">Knight's Garb is part of the Knight's Set.</itemName>
 
 <description> Adornment prized by the knights of Cainhurst. Resembles a ponytail of silver hair. 
 The Cainhurst way is a mix of nostalgia and bombast. They take great pride even in the blood-stained corpses of beasts that they leave behind. confident that they will stand as examples of decadent art." 
@@ -1243,7 +1243,7 @@ There's actually a small dagger on your character's back when you equip these cl
 Relevant lore theories can be found under The Mysteries of Cainhurst Garb &amp; Architecture.</notes>
 
 </attire><attire>
-<itemName attireList="Madman_Garb" attireSet="Madman_Set"> Madman Garb is part of the Madman Set.</itemName>
+<itemName attireList="Madman_Garb" attireSet="Madman_Set">Madman Garb is part of the Madman Set.</itemName>
 
 <description> Most tomb prospectors, members of the Healing Church chosen to explore the old labyrinth, are unable to withstand the weight of the old knowledge, and go mad. 
 This attire is worn by those lost souls. 
@@ -1252,7 +1252,7 @@ The appendages draped across them are said to be a kind of protective charm, or 
  <location place="Chalice_Dungeons">Chalice Dungeon</location>
 
 </attire><attire>
-<itemName attireList="Maria_Hunter_Garb" attireSet="Maria_Hunter_Set"> Maria Hunter Garb is part of the Maria Hunter Set.</itemName>
+<itemName attireList="Maria_Hunter_Garb" attireSet="Maria_Hunter_Set">Maria Hunter Garb is part of the Maria Hunter Set.</itemName>
 
 <description> Among the first hunters, all students of Gehrman, was the lady hunter Maria. This was her hunter's Garb, crafted in Cainhurst. 
 Maria is distantly related to the undead queen, but had great admiration for Gehrman, unaware of his curious mania"</description>
@@ -1270,7 +1270,7 @@ Worn by the nobles of the old bloodline that traces back to the forsaken Castle 
 Relevant lore theories exist under The Mysteries of Cainhurst Garb and Architecture.</notes>
 
 </attire><attire>
-<itemName attireList="Sweaty_Clothes" attireSet="Shabby_Set"> Sweaty Clothes are part of the Shabby Set.</itemName>
+<itemName attireList="Sweaty_Clothes" attireSet="Shabby_Set">Sweaty Clothes are part of the Shabby Set.</itemName>
 
 <description> Common Yharnam clothing. 
 Well-worn and damp with sweat."</description>
@@ -1287,7 +1287,7 @@ The focus not on knowledge, or thought, but on pure pretension would surely brin
  <location place="Byrgenwerth">Byrgenwerth</location><location place="Lecture_Building">Lecture Building</location>
 
 </attire><attire>
-<itemName attireList="Tomb_Prospector_Garb" attireSet="Tomb_Prospector_Set"> Tomb Prospector Garb is part of the Tomb Prospector Set.</itemName>
+<itemName attireList="Tomb_Prospector_Garb" attireSet="Tomb_Prospector_Set">Tomb Prospector Garb is part of the Tomb Prospector Set.</itemName>
 
 <description> Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church. 
 The Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance. 
@@ -1296,7 +1296,7 @@ They contain much more than mere hunter trinkets, indeed, they hide the very sec
 <location place="Hunter's_Dream">Hunter's Dream.</location>
 
 </attire><attire>
-<itemName attireList="White_Church_Garb" attireSet="White_Church_Set"> White Church Garb</itemName>
+<itemName attireList="White_Church_Garb" attireSet="White_Church_Set">White Church Garb</itemName>
 
 <description> Attire of special Church doctors. 
 These doctors are superiors to the black preventative hunters, and specialists in experimentally-backed blood ministration and the scourge of the beast. 
@@ -1305,7 +1305,7 @@ They believe medicine is not a means of treatment but rather a method for resear
 <location place="Forbidden_Woods">Forbidden Woods</location>
 
 </attire><attire>
-<itemName attireList="Khaki_Haori" attireSet="Yamamura_Set"> Khaki Haori</itemName>
+<itemName attireList="Khaki_Haori" attireSet="Yamamura_Set">Khaki Haori</itemName>
 
 <description> Garb of a distant Eastern land, worn by Yamamura the Wanderer. 
 This Eastern warrior pursued a beast for honourable revenge, then became a hunter of the League. But when he stared straight into impurity, it drove him mad."</description>
@@ -1313,7 +1313,7 @@ This Eastern warrior pursued a beast for honourable revenge, then became a hunte
 <location lamp="Hunter's_Nightmare">Old Hunter Yamamura</location>
 
 </attire><attire>
-<itemName attireList="Yahar'gul_Black_Garb" attireSet="Yahar'gul_Set(Hood)"> Yahar'gul Black Garb</itemName>
+<itemName attireList="Yahar'gul_Black_Garb" attireSet="Yahar'gul_Set(Hood)">Yahar'gul Black Garb</itemName>
 
 <description> Thick black pullover worn by hunters of the Unseen Village. 
 The hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers blend into the night wearing this attire. 
@@ -1322,7 +1322,7 @@ Designed primarily to defend from physical attacks, the binding of thick rope se
  <location place="Yahar'gul_Unseen_Village">Yahar'gul Set</location>
 
 </attire><attire>
-<itemName attireList="Yharnam_Hunter_Garb" attireSet="Yharnam_Hunter_Set"> Yharnam Hunter Garb</itemName>
+<itemName attireList="Yharnam_Hunter_Garb" attireSet="Yharnam_Hunter_Set">Yharnam Hunter Garb</itemName>
 
 <description> Ludwig, the first hunter of the Healing Church, once recruited Yharnamites to serve as hunters. 
 This hunter's attire was made for new recruits, and has excellent straightforward defense. 
