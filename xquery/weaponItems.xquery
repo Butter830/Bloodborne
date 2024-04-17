@@ -10,6 +10,7 @@ declare option saxon:output "method=html";
          <h4>Ultimate Cheat Sheet</h4>
          <h4><a href="index.html">Home</a></h4>
         </div><div class="topnav">
+         <h4><a href="index.html">Home</a></h4>
          <h4><a href="attireItems.html">Attire</a></h4>
          <h4><a href="buffItems.html">Buffs</a></h4>
          <h4><a href="consumableItems.html">Consumables</a></h4>
@@ -21,12 +22,18 @@ declare option saxon:output "method=html";
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="#">Item Checklist</a></h4>
          <h4><a href="#">General Trivia</a></h4>
-         <h4><a href="#">About</a></h4>
          <h4><a href="#">Holy Chalices</a></h4> 
       </div></head>
     
     <body>
-    
+     <p><u>{let $main := collection("../xml/")
+        let $t := " Tool"
+        let $toolItem := $main//toolItem[.//itemName]
+let $toolItems := $main//toolItem/itemName
+let $toolItem-count := $toolItems => count()
+        
+               return (concat ("There are ", $toolItem-count, " total items considered",$t,"s at the disposal of the hunters in Bloodborne."))  
+            }</u></p>
             
             <table>
             <tr><th></th>
