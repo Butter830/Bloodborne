@@ -71,6 +71,6 @@ declare option saxon:output "method=html";
                     </tr>
             }
         </table>
+        <h4><a id="top"></a></h4>
     </body>
-    <h4><a href="#top">Back to top</a></h4>
 </html>
