@@ -19,7 +19,7 @@ declare option saxon:output "method=html";
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
-         <h4><a href="itemCount.html">Graphs</a></h4>
+         <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
    
@@ -39,7 +39,7 @@ declare option saxon:output "method=html";
     <body>
         
         <table>
-            <tr><th></th>
+           <tr><i><b><font size="+2" color="white">Item Checklist</font></b></i><th></th>
                 <th><u>
                         <font
                             size="+2"><i><b>Item Name</b></i></font></u></th></tr>

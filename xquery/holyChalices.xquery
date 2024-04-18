@@ -19,17 +19,28 @@ declare option saxon:output "method=html";
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
-         <h4><a href="itemCount.html">Graphs</a></h4>
+         <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
       <h4><a id="top"></a></h4>
    </head>
     
     <body>
-    
+  
          
             <table>
-            <tr><i><font size="+1">Holy Chalices</font></i><th></th>
+            <tr><i><b><font size="+2" color="white">Holy Chalices</font></b></i><th></th>
+                <p><u>{let $main := collection("../xml/")
+        let $i := " Holy Chalices"
+        let $Item := $main//holyChaliceItem[.//itemName]
+let $Items := $main//holyChaliceItem/itemName
+let $Item-count := $Items => count()
+        
+               return (concat ("There are a total of ", $Item-count, $i," items that will give access to different dungeons."))  
+            }</u></p>
+                     
+ <p>
+</p>
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
@@ -41,26 +52,38 @@ let $holyChalice-description := $item/following-sibling::description
            for $items in $holyChalice-description
 order by $item
 return
-<tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="THE" width="200"/>
+<tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="{$item}" width="200"/>
 </td><td><b>{$item!string()}</b> </td><td>{$items!string()}</td></tr>
  }
         </table>
-    
+   <p></p> 
+   <p></p>
+   <p></p>
  <table>
-
-            <tr> <i><font size="+1">Chalice Materials</font></i><th></th>
+ <tr><i><b><font size="+2" color="white">Chalice Materials</font></b></i><th></th>
+                 <p><u>{let $main := collection("../xml/")
+        let $i := " Chalice Ritual Materials"
+        let $Item := $main//chaliceRitualMaterials[.//itemName]
+let $Items := $main//chaliceRitualMaterials/itemName
+let $Item-count := $Items => count()
+        
+               return (concat ("There are a total of ", $Item-count, $i," items that addmodifiers to dungeons."))  
+            }</u></p>
+                     
+ <p>
+</p>
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
-                     let $holyChaliceItem:= $main//holyChaliceItem[.//itemName]
-            let $holyChaliceItems := $main//holyChaliceItem/itemName
+                     let $holyChaliceItem:= $main//chaliceRitualMaterials[.//itemName]
+            let $holyChaliceItems := $main//chaliceRitualMaterials/itemName
 
              for $item in $holyChaliceItems
 let $holyChalice-description := $item/following-sibling::description
            for $items in $holyChalice-description
 order by $item
 return
-<tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="THE" width="200"/>
+<tr><td><img src="images/{$item!string()!replace(., ' ', '_')}.jpg" alt="{$item}" width="200"/>
 </td><td><b>{$item!string()}</b> </td><td>{$items!string()}</td></tr>
  }
         </table>      

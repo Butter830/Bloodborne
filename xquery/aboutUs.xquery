@@ -16,7 +16,7 @@
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
-         <h4><a href="itemCount.html">Graphs</a></h4>
+         <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
       <h4><a id="top"></a></h4>
