@@ -1,6 +1,6 @@
 declare option saxon:output "method=html";
 declare variable $main := collection("../xml/");
-declare variable $xspacer := 14;
+declare variable $xspacer := 20;
 declare variable $yspacer := 50;
 
 <html>
@@ -52,6 +52,24 @@ let $itemName := $itemType
         }
         </g></svg>
         <p> Analysis of Item numbers</p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="400" height="1200"  viewBox="0 0 800 800" style="border">
+    <g transform="translate(400,-600)"> {
+    let$xspacers := 10
+let $yspacers := 65
+    let $locations := $main//Q{}location/data(@lamp)=>distinct-values()
+    for $location at $pos in $locations
+    let $item-count := $main//Q{}location[data(@lamp)=$location]=>count()
+    order by $item-count descending
+    return
+                <g>
+                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="50px" fill="black">{$location}</text>
+                <line x1="-200" y1="{$pos * $yspacers}" x2="{$item-count * $xspacers}" y2="{$pos * $yspacers}" stroke="orange" stroke-width="20"/>
+                <text x="{$item-count * $xspacers + 10}" y="{$pos * $yspacers + 5}" font-family="sans-serif" font-size="50px" fill="black">{$item-count}</text>
+
+                <line x1="400" y1="0" x2="400" y2="{max($pos +1) * $yspacers}" stroke="black" stroke-width="2"/>
+                </g>
+        }
+        </g></svg>
         <h4><a href="#top">Back to the top</a></h4>    
        </body>
        </html>
