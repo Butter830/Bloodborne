@@ -14,6 +14,7 @@ declare option saxon:output "method=html";
          <h4><a href="consumableItems.html">Consumables</a></h4>
          <h4><a href="holyChalices.html">Holy Chalices</a></h4>
          <h4><a href="keyItems.html">Key Items</a></h4> 
+         <h4><a href="onlineItems.html">Online Items</a></h4>
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
          <h4><a href="toolItems.html">Tools</a></h4>
@@ -23,14 +24,14 @@ declare option saxon:output "method=html";
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
    
-    <marquee direction="right" SCROLLAMOUNT="25"> 
+    <marquee direction="right" SCROLLAMOUNT="15"> 
 <img src="images/walking.gif" width="80" height="80" alt="Walking Guy" />
 
 </marquee>
-    <marquee direction="left" behavior="alternate" speed="100%" BGCOLOR="Red" SCROLLDELAY="0"
+    <!-- <marquee direction="left" behavior="alternate" speed="100%" BGCOLOR="Red" SCROLLDELAY="0"
           SCROLLAMOUNT="10" >
         Let the Blood Flow in the Streets and Collect all the Items in the Game!
-    </marquee>
+    </marquee>-->
         <font
             size="+10"><b><u>Item Checklist</u></b></font>
         <p> Keep track of all the items you have and find the <i>items you need!</i> </p>
@@ -71,6 +72,6 @@ declare option saxon:output "method=html";
                     </tr>
             }
         </table>
-        <h4><a id="top"></a></h4>
+       <h4><a href="#top">Back to the top</a></h4>    
     </body>
 </html>

@@ -14,6 +14,7 @@ declare option saxon:output "method=html";
          <h4><a href="consumableItems.html">Consumables</a></h4>
          <h4><a href="holyChalices.html">Holy Chalices</a></h4>
          <h4><a href="keyItems.html">Key Items</a></h4> 
+         <h4><a href="onlineItems.html">Online Items</a></h4>
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
          <h4><a href="toolItems.html">Tools</a></h4>
@@ -56,7 +57,7 @@ return
 </td><td><b>{$item!string()}</b> </td><td>{$items!string()}</td></tr>
  }
         </table>
-    <h4><a id="top"></a></h4>
+     <h4><a href="#top">Back to the top</a></h4>    
     </body>
  
 </html>

@@ -12,7 +12,7 @@ consumables = element consumables {(itemName| location|description| text)*}
 equipment = element equipment{((caryllRune | location|attire | weapon | firearm | item | onlineItem )?)+}
 onlineItem = element onlineItem {(itemName | location|chaliceRitualMaterials | text |onlineItemList |description)*}
 itemName = element itemName {(chaliceRitualMaterial |location|text| 
-onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList|attireList|attireSet|weaponList)*}
+onlineItemList|spellList|consumableList|toolList|keyItemList|spellList|toolList|runeList|holyChalicesList|buffList|keyList|attireList|attireSet|weaponList|firearmList)*}
 chaliceRitualMaterials = element chaliceRitualMaterials {(chaliceRitualMaterial|location|description|itemName|text)*}
 holyChaliceItem = element holyChaliceItem {(itemName|location|description|text)*}
 
@@ -40,8 +40,8 @@ attireName = element attireName{attireList, attireSet?, text}
 weapon = element weapon{((description | location|  notes | trivia|itemName)?)+}
 weaponName = element weaponName{weaponList, text}
 
-firearm = element firearm{firearmName, ((description | location| notes | trivia)?)+}
-firearmName = element firearmName{firearmList, text}
+firearm = element firearm{itemName, ((description | location| notes | trivia)?)+}
+
 item = element item{text}
 #item specific elements
 area = element area{text}

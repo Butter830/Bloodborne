@@ -35,7 +35,7 @@ declare variable $yspacer := 50;
     <g transform="translate(-120,10)">
    
     {
-    let $items := $main//Q{}lore//*[name()="holyChaliceItem" or name()="weapon"or name()="attire"or name()="caryllRunes"or name()="onlineItem" or name()="keyItem"or name()="chaliceRitualMaterials"or name()="toolItem"or name()="consumableItem"or name()="spellItem"or name()="weaponBuffItem"] 
+    let $items := $main//Q{}lore//*[name()="holyChaliceItem" or name()="weapon" or name()="firearm"or name()="attire"or name()="caryllRunes"or name()="onlineItem" or name()="keyItem"or name()="chaliceRitualMaterials"or name()="toolItem"or name()="consumableItem"or name()="spellItem"or name()="weaponBuffItem"] 
  
 let $itemTypes := $items/name()=>distinct-values()
 for $itemType at $pos in $itemTypes
@@ -52,6 +52,6 @@ let $itemName := $itemType
         }
         </g></svg>
         <p> Analysis of Item numbers</p>
-       <h4><a id="top"></a></h4>
+        <h4><a href="#top">Back to the top</a></h4>    
        </body>
        </html>

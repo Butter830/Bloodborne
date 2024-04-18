@@ -14,6 +14,7 @@ declare option saxon:output "method=html";
          <h4><a href="consumableItems.html">Consumables</a></h4>
          <h4><a href="holyChalices.html">Holy Chalices</a></h4>
          <h4><a href="keyItems.html">Key Items</a></h4> 
+         <h4><a href="onlineItems.html">Online Items</a></h4>
          <h4><a href="rune.html">Runes</a></h4>
          <h4><a href="spellItems.html">Spell Items</a></h4>
          <h4><a href="toolItems.html">Tools</a></h4>
@@ -27,20 +28,20 @@ declare option saxon:output "method=html";
 <h4><a id="top"></a></h4>
     <body>
     
-        <p><u>{let $main := collection("../xml/")
+            
+            <table>
+            <tr><i><b><font size="+2" color="white">Tools</font></b></i><th></th>
+<p><u>{let $main := collection("../xml/")
         let $t := " Tool"
         let $toolItem := $main//toolItem[.//itemName]
 let $toolItems := $main//toolItem/itemName
 let $toolItem-count := $toolItems => count()
         
-               return (concat ("There are ", $toolItem-count, " total items considered",$t,"s at the disposal of the hunters in Bloodborne."))  
+               return (concat ("There are ", $toolItem-count, " total items considered",$t,"s at the disposal of the Hunters in Bloodborne."))  
             }</u></p>
                      
  <p>
 </p>
-            
-            <table>
-            <tr><i><b><font size="+2" color="white">Tools</font></b></i><th></th>
 <th><u>Item Name</u></th><th><u>Description</u></th></tr>
             {
                      let $main := collection("../xml/")
@@ -57,7 +58,7 @@ return
  }
         </table>
 
-       <h4><a id="top"></a></h4> 
+        <h4><a href="#top">Back to the top</a></h4>    
     </body>
     
 </html>

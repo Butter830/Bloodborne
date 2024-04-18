@@ -2340,7 +2340,7 @@ But when he stared straight into impurity, it drove him mad."</description>
     <!-- Weapon end -->
     <!-- Firearm start -->
     <firearm>
-        <firearmName firearmList="Cannon">Cannon</firearmName>
+        <itemName firearmList="Cannon">Cannon</itemName>
         
         <description>
         Large prototype firearms fashioned by the workshop heretics, the Powder Kegs. Use of this weapon is equivalent to toting a mounted cannon, complete with its ridiculous weight, staggering kick, and lavish use of Quicksilver Bullets, into battle. Such a monstrosity was doomed from the start, and indeed its development was cut short. Yet, against impossibly gigantic foes, it might be just the thing. "
@@ -2361,7 +2361,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Church_Cannon">Church Cannon</firearmName>
+        <itemName firearmList="Church_Cannon">Church Cannon</itemName>
         
         <description>
         An oversized weapon used by the Healing Church. A type of cannon that fires with a curved trajectory and creates an explosion upon impact. 
@@ -2379,7 +2379,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Evelyn">Evelyn</firearmName>
+        <itemName firearmList="Evelyn">Evelyn</itemName>
         
         <description>
         Special pistol used by Cainhurst knights. 
@@ -2398,7 +2398,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Fist_Of_Gratia">Fist of Gratia</firearmName>
+        <itemName firearmList="Fist_Of_Gratia">Fist of Gratia</itemName>
         
         <description>
         A chunk of iron fitted with finger holes 
@@ -2416,7 +2416,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Flamesprayer">Flamesprayer</firearmName>
+        <itemName firearmList="Flamesprayer">Flamesprayer</itemName>
         
         <description>
         A special weapon used by certain members of the Healing Church. 
@@ -2441,7 +2441,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Gatling_Gun">Gatling Gun</firearmName>
+        <itemName firearmList="Gatling_Gun">Gatling Gun</itemName>
         
         <description>
         This is a highly-customised, portable version of the stationary gatling gun operated by the old hunter Djura in Old Yharnam. 
@@ -2459,7 +2459,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Hunter_Blunderbuss">Hunter Blunderbuss</firearmName>
+        <itemName firearmList="Hunter_Blunderbuss">Hunter Blunderbuss</itemName>
         
         <description>
         A blunderbuss created at the workshop for the hunters' line of work. Hunter firearms are specially crafted to employ Quicksilver Bullets fused with the wielder's own blood, boosting damage against beasts. The impact of this highly-effective weapon counters beasts' swift movements, and its wide spread is nigh-on guaranteed to hit the mark."
@@ -2483,7 +2483,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Hunter_Pistol">Hunter Pistol</firearmName>
+        <itemName firearmList="Hunter_Pistol">Hunter Pistol</itemName>
         
         <description>
         Pistol made at the workshop, for hunters stalking beasts. Hunter firearms are specially crafted to employ Quicksilver Bullets fused with the wielder's own blood, boosting damage against beasts. The pistol is a quicker draw than the blunderbuss, allowing for speedier responses to attacks."
@@ -2503,7 +2503,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Hunter's_Torch">Hunter's Torch</firearmName>
+        <itemName firearmList="Hunter's_Torch">Hunter's Torch</itemName>
         
         <description>
         A torch formed by the wrapping a pine resin cloth around the end of a long stick, once used in Old Yharnam. Designed to incinerate beasts and victims touched by the scourge. 
@@ -2525,7 +2525,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Loch_Shield">Loch Shield</firearmName>
+        <itemName firearmList="Loch_Shield">Loch Shield</itemName>
         
         <description>
         An artisanal shield crafted with blue glass. 
@@ -2546,7 +2546,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Ludwig's_Rifle">Ludwig's Rifle</firearmName>
+        <itemName firearmList="Ludwig's_Rifle">Ludwig's Rifle</itemName>
         
         <description>
         A rifle typically used by Healing Church hunters. 
@@ -2565,7 +2565,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Piercing_Rifle">Piercing Rifle</firearmName>
+        <itemName firearmList="Piercing_Rifle">Piercing Rifle</itemName>
         
         <description>
         A rifle engineered by the Oto Workshop, the precursor to the workshop of the heretical Powder Kegs. 
@@ -2582,7 +2582,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Repeating_Pistol">Repeating Pistol</firearmName>
+        <itemName firearmList="Repeating_Pistol">Repeating Pistol</itemName>
         
         <description>
         Repeating pistol typically used by Healing Church hunters. Crafted with mostly metal parts and exhibiting a complex design, the repeating pistol fires two shots at once, making it a ravenous consumer of Quicksilver Bullets. Should be used sparingly compared to its workshop counterpart, as the trump card in one's arsenal."
@@ -2600,7 +2600,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Rosmarinus">Rosmarinus</firearmName>
+        <itemName firearmList="Rosmarinus">Rosmarinus</itemName>
         
         <description>
         One of the Church Servants uses this.
@@ -2624,7 +2624,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Torch">Torch</firearmName>
+        <itemName firearmList="Torch">Torch</itemName>
         
         <description>
         A common torch formed by wrapping a pine resin-drenched cloth around the end of a long stick. Hunters choose torches not only because the hunt leads them to the darkest nooks, but also because certain creatures they encounter are possessed of a deathly fear of flame"
@@ -2642,7 +2642,7 @@ But when he stared straight into impurity, it drove him mad."</description>
         
     </firearm>
     <firearm>
-        <firearmName firearmList="Wooden_Shield">Wooden Shield</firearmName>
+        <itemName firearmList="Wooden_Shield">Wooden Shield</itemName >
         
         <description>
         A crude wooden shield used by the masses who have arisen to join the hunt. 
