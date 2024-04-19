@@ -706,7 +706,7 @@
     <!-- Caryll Rune end -->
     <!-- Attire start -->
     <attire>
-<itemName attireList="Beak_Mask" attireSet="Crowfeather_Set">Beak Mask is a Head Armor (Attire) in Bloodborne. It is part of the Crowfeather Set.</itemName>
+<itemName attireList="Beak_Mask" attireSet="Crowfeather_Set">Beak Mask</itemName>
 
 <description>Wood-carved mask of Eileen the Crow, Hunter of Hunters. The beak contains incense to mask scents of blood and beast." 
 Hunters of Hunters dress as crows to suggest sky burial. 
@@ -724,7 +724,7 @@ as it was thought to ward off infection.</notes>
 
 </attire><attire>
 
-<itemName attireList="Black_Church_Hat" attireSet="Black_Church_Set">Black Church Hat is a Head Armor/Attire in Bloodborne. It is part of the Black Church Set</itemName>
+<itemName attireList="Black_Church_Hat" attireSet="Black_Church_Set">Black Church Hat</itemName>
 
 <description>Attire of Healing Church hunters. 
 Most Healing Church hunters are elementary doctors who understand
@@ -736,7 +736,7 @@ Their black attire is synonymous with fear, and that peculiar Yharnam madness."<
 
 
 </attire><attire>
-<itemName attireList="Black_Hood" attireSet="Foreign_Set">Black Hood is a Head Armor (Attire) in Bloodborne. It is part of the Foreign Set</itemName>
+<itemName attireList="Black_Hood" attireSet="Foreign_Set">Black Hood</itemName>
 
 <description>Hood worn upon awakening to the nightmare of blood and beasts. 
 Perhaps its wearer had to stay out of sight, and travel by cover of darkness. 
@@ -747,7 +747,7 @@ Without memory. who will ever know?"</description>
 <notes>Surprisingly dapper.</notes> <!-- Don't hurt me this was on the wiki -->
 
 </attire><attire>
-<itemName attireList="Black_Hooded_Iron_Helm" attireSet="Yahar'gul_Set(Hood)">Black Hooded Iron Helm is a Head Armor (Attire) in Bloodborne. It is part of Yahar'Gul Set.</itemName>
+<itemName attireList="Black_Hooded_Iron_Helm" attireSet="Yahar'gul_Set(Hood)">Black Hooded Iron Helm</itemName>
 
 <description>Iron helmet worn by hunters of the Unseen Village. The hunters of Yahar’gul answer 
 to the village's founders, the School of Mensis. Hunters in name only, these kidnappers 
@@ -757,7 +757,7 @@ for hunter garb and has high defence, but only against physical attacks."</descr
 <location place="Yahar'gul_Unseen_Village">Yahar'gul, Unseen Village</location>
 
 </attire><attire>
-<itemName attireList="Blindfold_Cap" attireSet="Choir_Set">Blindfold Cap is a Head Armor (Attire) in Bloodborne. It is part of the Choir Set.</itemName>
+<itemName attireList="Blindfold_Cap" attireSet="Choir_Set">Blindfold Cap</itemName>
 
 <description>Attire of the Choir, high-ranking members of the Healing Church. 
 Members of the Choir are both the highest-ranking clerics of the Healing Church,
@@ -767,7 +767,7 @@ their debt to the teachings of Master Willem, even though their paths diverged."
 <location place="Upper_Cathedral_Ward">Upper Cathedral Ward</location>
 
 </attire><attire>
-<itemName attireList="Bone_Ash_Mask" attireSet="Bone_Ash_Set">Bone Ash Mask is a Head (Attire) in Bloodborne. It is part of the Bone Ash Set.</itemName>
+<itemName attireList="Bone_Ash_Mask" attireSet="Bone_Ash_Set">Bone Ash Mask</itemName>
 
 <description>A mask made of bone ash, worn by the oldest keepers. 
 The keepers, who mind the slumbering Great Ones, 
@@ -780,8 +780,7 @@ forged in a certain sin."</description>
 <location place="Hunter's_Dream">Hunter's Dream</location>
 
 </attire><attire>
-<itemName attireList="Bradors_Testimony" attireSet="Brador's_Set">Brador's Testimony is a Head Armor (Attire) in Bloodborne. 
-It is part of Brador's Set and was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Bradors_Testimony" attireSet="Brador's_Set">Brador's Testimony</itemName>
 
 <description>The scalp of a horrid Cleric Beast, indicating that hunter Brador, 
 a Healing Church assassin, had killed a compatriot. Afterward, he 
@@ -792,8 +791,7 @@ ensure their secrets would be kept."</description>
 <location lamp="Hunter's_Nightmare">The Hunter's Nightmare</location>
 <location place="Fishing_Hamlet">Fishing Hamlet</location>
 </attire><attire>
-<itemName attireList="Butcher_Mask" attireSet="Butcher_Set">Butcher Mask is a Head Armor (Attire) in Bloodborne. It is part of the 
-Butcher Set. It was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Butcher_Mask" attireSet="Butcher_Set">Butcher Mask</itemName>
 
 <description>Mask of the Madaras twins, denizens of the Forbidden Woods, likely 
 belonging to the older of the two. The twins grew up in silent kinship 
@@ -1042,7 +1040,7 @@ But not nearly enough to allow an ordinary man to stand any real chance against 
 <!-- Chest -->
 
 </attire><attire>
-<itemName attireList="Ashen_Hunter_Garb" attireSet="Ashen_Hunter_Set">Ashen Hunter Garb is a Chest Armor (Attire) in Bloodborne. It is part of Ashen Hunter Set.</itemName>
+<itemName attireList="Ashen_Hunter_Garb" attireSet="Ashen_Hunter_Set">Ashen Hunter Garb</itemName>
 
 <description>Attire of the retired hunter Djura. 
 Painted with ash in a ceremony to ward off blood. 
@@ -1055,7 +1053,7 @@ his hunter's vows."</description>
 <notes>The garb piece has the highest Beasthood, surpassing Bardor's Set.</notes>
 
 </attire><attire>
-<itemName attireList="Beast_Hide_Garb" attireSet="Brador's_Set">Beast Hide Garb is a Chest Armor/Attire in Bloodborne. It is part of Brador's Set and was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Beast_Hide_Garb" attireSet="Brador's_Set">Beast Hide Garb</itemName>
 
 <description>The bloodied hide of a horrible Cleric Beast, pulled over the back. Without the attacked beast hide this foreigner garb 
 wouldn't raise anyone's eyebrows. Brador donned a compatriot's beastly scalp and hide while still moist with blood. 
@@ -1064,7 +1062,7 @@ Most of the blood stains on this hide were from that day"</description>
 <location place="Fishing_Hamlet">Fishing Hamlet</location>
 
 </attire><attire>
-<itemName attireList="Black_Church_Garb" attireSet="Black_Church_Set">Black Church Garb is a Chest Armor (Attire) in Bloodborne. It is part of the Black Church Set</itemName>
+<itemName attireList="Black_Church_Garb" attireSet="Black_Church_Set">Black Church Garb</itemName>
 
 <description>Attire of Healing Church hunters. The Holy Shawl, symbol of the Healing Church, flutters proudly on their backs. 
 Most Healing Church hunters are elementary doctors who understand the importance of early prevention of the scourge, 
@@ -1095,7 +1093,7 @@ a window into an arcane lost art."</description>
 <location place="Pthumeru_Labyrinth">Central Pthumerian Labyrinth</location>
 
 </attire><attire>
-<itemName attireList="Cainhurst_Armor" attireSet="Cainhurst_Set">Cainhurst Armor is a Chest Armor (Attire) in Bloodborne. It is part of the Cainhurst Set.</itemName>
+<itemName attireList="Cainhurst_Armor" attireSet="Cainhurst_Set">Cainhurst Armor</itemName>
 
 <description>Silver armor worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle. 
 This paper-thin silver armor is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for 
@@ -1106,7 +1104,7 @@ their beloved Queen, so that one day, she may bear a Child of Blood."</descripti
 <notes>In the Cainhurst dining room you can find a portrait of a young man wearing Cainhurst Armor.
 </notes>
 </attire><attire>
-<itemName attireList="Charred_Hunter_Garb" attireSet="Charred_Hunter_Set">Charred Hunter Garb is a Chest Armor/Attire in Bloodborne. It is part of the Charred Hunter Set.</itemName>
+<itemName attireList="Charred_Hunter_Garb" attireSet="Charred_Hunter_Set">Charred Hunter Garb</itemName>
 
 <description>One of the staple articles of hunter attire, fashioned at the workshop. A product of the scourge of the beast 
 that once plagued Old Yharnam and culminated in the town's fiery cleansing. The cape's dampness makes it 
@@ -1125,7 +1123,7 @@ Together with the left behind Great One, they look to the skies, in search of as
 <location place="Upper_Cathedral_Ward"> Upper Cathedral Ward</location>
 
 </attire><attire>
-<itemName attireList="Constable's_Garb" attireSet="Constable_Set">Constable's Garb is part of the Constable Set.</itemName>
+<itemName attireList="Constable's_Garb" attireSet="Constable_Set">Constable's Garb</itemName>
 
 <description> Once upon a time a troupe of foreign constables chased a beast all the way to Yahrnam, and this is what they wore. 
 The constables became victims of the beast, except for one survivor, who in turn devoured the creature whole, all by himself. 
@@ -1134,7 +1132,7 @@ The fable is a favorite among Yahrnamites, who are partial to any stories of pom
 <notes>The set, minus the helmet, is reminiscent of a Civil War Union general's outfit.</notes>
 
 </attire><attire>
-<itemName attireList="Crowfeather_Garb" attireSet="Crowfeather_Set">Crowfeather Garb is a part of the Crowfeather Set.</itemName>
+<itemName attireList="Crowfeather_Garb" attireSet="Crowfeather_Set">Crowfeather Garb</itemName>
 
 <description> Wood-carved mask/Attire of Eileen the Crow, Hunter of Hunters. The beak contains incense to mask scents of blood and beast. 
 Hunters of Hunters dress as crows to suggest sky burial. The first Hunter of Hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them. with the hope that former compatriots might be returned to the skies, and find rest in the Hunter's Dream"</description>

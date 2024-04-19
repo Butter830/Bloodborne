@@ -24,6 +24,7 @@
    </head>
     
     <body>
+    <div class="content">
        <img src="images/Bloodborne_Cover_Wallpaper.jpg" alt="Title Page"/>
   <p>Reasoning for Project:</p>
   <p>
@@ -43,6 +44,7 @@ This project was commissioned by our professor Dr. William Campbell in our Data,
          <p> As our project was built off the bones of a previous group's work we would of wished to combined our 2 projects. This would of given us the oppurtinity to focus on lore of each item in the game like the group before us. Drawing comparisons from our findings and theirs to uncover some hidden meaning within the game. 
          We would of liked to add more regions to our map and go further into detail of where exactly items are and the percentages of them being dropped from enemies. Another feature would be is to show all the items in the store and their prices, along with how to unlock them. 
          If given more time we could of included video tutorials that I captured from my own gameplay and highlight items that take quest line progression to obtain. </p>
+         </div>
  
        
   
