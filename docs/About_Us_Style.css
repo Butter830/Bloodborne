@@ -3,7 +3,7 @@ body
     background-color: #000000;
     background-image: url("images/bloodmoon.jpg");
     background-position: right;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -13,8 +13,8 @@ body
     background-color: #adad85;
     margin-top: 100px;
   margin-bottom: 100px;
-  margin-right: 50px;
-  margin-left: 100px;
+  margin-right: 750px;
+  margin-left: 10px;
     padding: 20px;
     text-align: center;
     border-radius: 5px;
