@@ -188,7 +188,7 @@
         </consumableItem>
    
       <consumableItem>
-   <itemName consumableList="Revered_Great_One_Coldblood*">Revered Great One Coldblood*</itemName>
+   <itemName consumableList="Revered_Great_One_Coldblood*">Revered Great One Coldblood</itemName>
      <description>Relic containing the blood echoes of a revered Great One.
     
     <use>Use to gain cosmically nightmarish Blood Echoes.</use>
