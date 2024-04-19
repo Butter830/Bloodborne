@@ -51,5 +51,5 @@ This project was commissioned by our professor Dr. William Campbell in our Data,
         
    <h4><a href="#top">Back to the top</a></h4>         
     </body>
-    
+    <div class="Image"></div>
 </html>

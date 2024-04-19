@@ -801,7 +801,7 @@ brother is said to have murdered the older."</description>
 
 <location lamp="Hunter's_Nightmare">Hunter's Nightmare</location><location lamp="Nightmare_Church">Nightmare Church Lamp</location> 
 </attire><attire>
-<itemName attireList="Crown_Of_Illusions">Crown of Illusions is a Head Armor (Attire) in Bloodborne.</itemName>
+<itemName attireList="Crown_Of_Illusions">Crown of Illusions</itemName>
 
 <description>One of the precious secrets of Cainhurst. The old king's crown is said to 
 reveal illusions, and expose a mirage that hides a secret. And so Logarius
@@ -813,7 +813,7 @@ stumbling upon the vile secret. What visions did he see, sitting serenely upon h
 <notes>Unveils the hidden area behind Logarius' boss room when worn. This leads to a special NPC.</notes>
 
 </attire><attire>
-<itemName attireList="Doll_Hat" attireSet="Doll_Set">Doll Hat is a Head Armor (Attire) in Bloodborne. It is part of the Doll Set.</itemName>
+<itemName attireList="Doll_Hat" attireSet="Doll_Set">Doll Hat</itemName>
 
 <description>A discarded doll hat, likely a spare for dress-up.
 A deep love for the doll can be sumised by the fine craftsmanship of this article, 
@@ -822,7 +822,7 @@ and the care with which it was kept. It borderlines on mania, and exudes a sligh
 <location place="Abandoned_Old_Workshop">Old Abandoned Workshop</location>
 
 </attire><attire>
-<itemName attireList="Enlarged_Head">Enlarged Head is a Head Armor (Attire) in Bloodborne. It was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Enlarged_Head">Enlarged Head</itemName>
 
 <description>An enlarged head of a patient of the Cathedral, with a cavity that just happens 
 to fit a human head, although one would be mad to try it on. But if you do, listen 
@@ -831,7 +831,7 @@ carefully, for the sticky sound. Drip, drop. As water, seeping up from the depth
 <location place="Research_Hall">Research Hall</location>
 </attire>
     <attire>
-<itemName attireList="Gehrman's_Hunter_Cap" attireSet="Gehrman's_Hunter_Set">Gehrman's Hunter Cap is a Head Armor (Attire) in Bloodborne. It is part of Gehrman's Hunter Set.</itemName>
+<itemName attireList="Gehrman's_Hunter_Cap" attireSet="Gehrman's_Hunter_Set">Gehrman's Hunter Cap</itemName>
 
 <description>Hunter attire of Gehrman, the first hunter. 
 Created before the workshop existed by making adjustments to everyday clothing, and later became 
@@ -841,7 +841,7 @@ therefore of selecting lightweight attire, no doubt traces back to Gehrman's own
 <location place="Hunter's_Dream">Gehrman</location>
 
 </attire><attire>
-<itemName attireList="Gold_Ardeo" attireSet="Executioner_Set">Gold Ardeo is a Head Armor (Attire) in Bloodborne. It is part of the Executioner Set.</itemName>
+<itemName attireList="Gold_Ardeo" attireSet="Executioner_Set">Gold Ardeo</itemName>
 
 <description>The odd helmet worn by the band of Executioners commanded by the martyr Logarius.
 The conical gold helmet, symbol of the executioners, represents luminosity, ambition, and an 
@@ -854,7 +854,7 @@ are not always foolish, but regardless, we shall always strive to be good."</des
 <notes>This could be a reference to Pyramid Head from the Silent Hill series, as well as Xanthous Headdress from Dark Souls.</notes>
 
 </attire><attire>
-<itemName attireList="Graveguard_Mask" attireSet="Graveguard_Set">Graveguard Mask is a Head Armor (Attire) in Bloodborne. It is part of Graveguard Set.</itemName>
+<itemName attireList="Graveguard_Mask" attireSet="Graveguard_Set">Graveguard Mask</itemName>
 
 <description>Mask of Dores, graveguard of the Forbidden Woods. 
 His pale countenance mimics the labyrinth watchers. Willem kept two loyal servants back at 
@@ -867,7 +867,7 @@ Both remained loyal, even in madness."</description>
 <notes>The mask has similarities to The Mask of the Father from Dark Souls.</notes>
 
 </attire><attire>
-<itemName attireList="Grey_Wolf_Cap" attireSet="Ashen_Hunter_Set">Grey Wolf Cap is a Head Armor (Attire) in Bloodborne. It is part of the Ashen Hunter Set.</itemName>
+<itemName attireList="Grey_Wolf_Cap" attireSet="Ashen_Hunter_Set">Grey Wolf Cap</itemName>
 
 <description>Attire of the retired hunter Djura. 
 This worn wolf cap was his trademark. 
@@ -881,7 +881,7 @@ of Old Yharnam and renounced his hunter's vows."</description>
 This hat hinted that the reason why Djura turned against other hunters is because he's actually  a pacifist who pities the beasts.</notes>
 
 </attire><attire>
-<itemName attireList="Harrowed_Hood" attireSet="Harrowed_Set">Harrowed Hood is a Head Armor (Attire) in Bloodborne. It is part of Harrowed Set and was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Harrowed_Hood" attireSet="Harrowed_Set">Harrowed Hood</itemName>
 
 <description>Certain Church hunters obfuscate their identities and slip into the nooks and crannies of the city. 
 This is the garb that allows these harrowed individuals to go unnoticed. 
@@ -899,7 +899,7 @@ The suspicious beggar, possible harrowed hunter eventually lost it as he became 
 probably simply began killing people, regardless of whether they were infected or not.</notes>
 
 </attire><attire>
-<itemName attireList="Henryk's_Hunter_Cap" attireSet="Henryk's_Hunter_Set">Henryk's Hunter Cap is a Head Armor/Attire in Bloodborne. It is part of Henryk's Hunter Set. </itemName>
+<itemName attireList="Henryk's_Hunter_Cap" attireSet="Henryk's_Hunter_Set">Henryk's Hunter Cap</itemName>
 
 <description>Hunter's hat worn by Henryk, the old hunter. 
 The taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were 
@@ -909,7 +909,7 @@ has inherited the onus of the hunt." </description>
 
 <location place="Central_Yharnam">Tomb of Oedon</location><location place="Hunter's_Dream">Insight Messengers</location>
 </attire><attire>
-<itemName attireList="Hunter_Hat" attireSet="Hunter_Set(A)">Hunter Hat is a Head Armor/Attire in Bloodborne. It is part of the Hunter Set. </itemName>
+<itemName attireList="Hunter_Hat" attireSet="Hunter_Set(A)">Hunter Hat</itemName>
 
 <description>One of the standard articles of hunter attire fashioned at the workshop. 
 A fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat. 
@@ -917,7 +917,7 @@ Recognizable by its withered feathers, this cap is fashioned after one of the ol
  <location place="Hunter's_Dream">Messengers</location> <location place="Central_Yharnam">Central Yharnam</location>
 
 </attire><attire>
-<itemName attireList="Iron_Yahar'gul_Helm" attireSet="Yahar'gul_Set(Helmet)">Iron Yahar'gul Helm is a Head Armor/Attire in Bloodborne. It is part of Yahar'gul Set.</itemName>
+<itemName attireList="Iron_Yahar'gul_Helm" attireSet="Yahar'gul_Set(Helmet)">Iron Yahar'gul Helm</itemName>
 
 <description>Iron helmet worn by hunters of the Unseen Village. 
 Removing the hood reveals something reminiscent of a warrior of a previous age. 
@@ -927,7 +927,7 @@ physical attacks."</description>
 <location place="Yahar'gul_Unseen_Village">Yahar'Gul, Unseen Village</location>
 
 </attire><attire>
-<itemName attireList="Knight's_Wig" attireSet="Knight's_Set">Knight's Wig is a Head Armor (Attire) in Bloodborne. It is part of the Knight's Set.</itemName>
+<itemName attireList="Knight's_Wig" attireSet="Knight's_Set">Knight's Wig</itemName>
 
 <description>Adornment prized by the knights of Cainhurst. 
 Resembles a ponytail of silver hair. 
@@ -937,7 +937,7 @@ corpses of beasts that they leave behind, confident that they will stand as exam
 
 
 </attire><attire>
-<itemName attireList="Madman_Hood" attireSet="Madman_Set">Madman Hood is a Head Armor (Attire) in Bloodborne. It is part of the Madman Set.</itemName>
+<itemName attireList="Madman_Hood" attireSet="Madman_Set">Madman Hood</itemName>
 
 <description>Most tomb prospectors, members of the Healing Church chosen to explore the old labyrinth, are unable 
 to withstand the weight of the old knowledge, and go mad. This attire is worn by those lost souls. 
@@ -947,7 +947,7 @@ souls who failed to reach any conclusions."</description>
 <location place="Hintertomb_Chalice">Lower Hintertomb Chalice Dungeon</location>
 
 </attire><attire>
-<itemName attireList="Maria_Hunter_Cap" attireSet="Maria_Hunter_Set">Maria Hunter Cap is a Head Armor/Attire in Bloodborne. It is part of Maria Hunter Set, and was added with The Old Hunters DLC.</itemName>
+<itemName attireList="Maria_Hunter_Cap" attireSet="Maria_Hunter_Set">Maria Hunter Cap</itemName>
 
 <description>Among the first hunters, all students of Gehrman, was the lady hunter Maria. This was her hunter's cap,
 crafted in Cainhurst. Maria is distantly related to the undead queen, but had great admiration for 
@@ -956,7 +956,7 @@ Gehrman, unaware of his curious mania"</description>
 <location place="Hunter's_Dream">Insight Messengers for 3 Insight</location> <location lamp="Astral_Clocktower">Lady Maria of the Astral Clocktower</location>
 
 </attire><attire>
-<itemName attireList="Master's_Iron_Helm" attireSet="Constable_Set">Master's Iron Helm is a Head Armor (Attire) in Bloodborne.</itemName>
+<itemName attireList="Master's_Iron_Helm" attireSet="Constable_Set">Master's Iron Helm</itemName>
 
 <description>An iron helm resembling an upside-down bucket. 
 A single hole allows one to peek out with a single eye, which is probably all that its original 
@@ -970,7 +970,7 @@ If you summon Valtr after acquiring this helm, he will not be wearing it.
 If you kill Valtr and take this helm, the description will lack the quote about "The iron helm is passed down..."</notes>
 
 </attire><attire>
-<itemName attireList="Mensis_Cage">Mensis Cage is a Head Armor (Attire) in Bloodborne.</itemName>
+<itemName attireList="Mensis_Cage">Mensis Cage</itemName>
 
 <description>The School of Mensis controls the Unseen Village. This hexagonal iron cage suggests their strange ways. 
 The cage is a device that restrains the will of the self, allowing one to see the profane world for 
@@ -984,8 +984,7 @@ as referring to the moons phases as a measure of time. "Menses", or "months" is 
 (Possibly a wordplay on both?)</notes>
 
 </attire><attire>
-<itemName attireList="Old_Hunter_Cap" attireSet="Old_Hunter_Set">Old Hunter Cap is a Head Armor (Attire) in Bloodborne. It is part of Old Hunter Set and was added with The 
-Old Hunters expansion.</itemName>
+<itemName attireList="Old_Hunter_Cap" attireSet="Old_Hunter_Set">Old Hunter Cap</itemName>
 
 <description>Old Hunter Cap with a wide brim that hides their sharp gaze 
 In the old days, when hunters were ten a penny, this was their standard garb."</description>
@@ -993,7 +992,7 @@ In the old days, when hunters were ten a penny, this was their standard garb."</
 <location lamp="Hunter's_Nightmare">The Hunter's Nightmare</location>
 
 </attire><attire>
-<itemName attireList="Tomb_Prospector_Hood" attireSet="Tomb_Prospector_Set">Tomb Prospector Hood is a Head Armor/Attire in Bloodborne. It is part of Tomb Prospector Set.</itemName>
+<itemName attireList="Tomb_Prospector_Hood" attireSet="Tomb_Prospector_Set">Tomb Prospector Hood</itemName>
 
 <description>Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church. 
 The Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance. 
@@ -1003,7 +1002,7 @@ sought after by those with the insight to imagine greatness."</description>
  <location place="Hunter's_Dream">Messengers</location>
 
 </attire><attire>
-<itemName attireList="Top_Hat">Top Hat is a Head Armor (Attire) in Bloodborne.</itemName>
+<itemName attireList="Top_Hat">Top Hat</itemName>
 
 <description>Hat worn by Hunters who admire formality: Some hunters place an emphasis on form, as seen by the use of the 
 threaded cane. For them, formality, beauty, and justice are the very essence of our humanity, and precisely 
@@ -1012,7 +1011,7 @@ what keeps hunters from becoming something else."</description>
 <location place="Cathedral_Ward">Cathedral Ward</location>
 
 </attire><attire>
-<itemName attireList="White_Church_Hat" attireSet="White_Church_Set">White Church Hat is a Head Armor (Attire) in Bloodborne. It is part of White Church Set.</itemName>
+<itemName attireList="White_Church_Hat" attireSet="White_Church_Set">White Church Hat</itemName>
 
 <description>Attire of special Church doctors. 
 These doctors are superiors to the black preventative hunters, and specialists in experimentally-backed blood 
@@ -1022,15 +1021,14 @@ a method for research. and that some knowledge can only be obtained by exposing 
 <location place="Forbidden_Woods">Forbidden Woods</location>
 
 </attire><attire>
-<itemName attireList="Yamamura_Hunter_Hat" attireSet="Yamamura_Set">Yamamura Hunter Hat is a Head Armor (Attire) in Bloodborne. It is part of the Yamamura Set. It was was added 
-with The Old Hunters DLC.</itemName>
+<itemName attireList="Yamamura_Hunter_Hat" attireSet="Yamamura_Set">Yamamura Hunter Hat</itemName>
 
 <description>A standard hunter's hat, worn by Yamamura the Wanderer. 
 This hat and staff were given to him when he became a hunter and confederate of the League.</description>
 
 <location lamp="Hunter's_Nightmare">Old Hunter Yamamura</location>
 </attire><attire>
-<itemName attireList="Yharnam_Hunter_Cap" attireSet="Yharnam_Hunter_Set">Yharnam Hunter Cap is a Head Armor (Attire) in Bloodborne. It is part of the Yharnam Hunter Set.</itemName>
+<itemName attireList="Yharnam_Hunter_Cap" attireSet="Yharnam_Hunter_Set">Yharnam Hunter Cap</itemName>
 
 <description>Ludwig, the first hunter of the Healing Church, once recruited Yharnamites to serve as hunters. 
 This hunter's attire was made for new recruits, and has excellent straightforward defense. 
@@ -1081,7 +1079,7 @@ forbidden research."</description>
 <location lamp="Hunter's_Nightmare">The Hunter's Nightmare</location>
 
 </attire><attire>
-<itemName attireList="Bone_Ash_Armor" attireSet="Bone_Ash_Set">Bone Ash Armor is a Chest Armor/Attire in Bloodborne. It is part of the Bone Ash Set.</itemName>
+<itemName attireList="Bone_Ash_Armor" attireSet="Bone_Ash_Set">Bone Ash Armor</itemName>
 
 <description>Armor made of bone ash,worn by the oldest keepers. 
 The keepers, who mind the slumbering Great Ones, 
@@ -1171,7 +1169,7 @@ As the great Logarius once said, "Acts of goodness are not always wise, and acts
 <location place="Forsaken_Castle_Cainhurst">Cainhurst Castle</location>
 
 </attire><attire>
-<itemName attireList="Foreign_Garb" attireSet="Foreign_Set">Foreign Garb is part of the Foreign Set.</itemName>
+<itemName attireList="Foreign_Garb" attireSet="Foreign_Set">Foreign Garb</itemName>
 
 <description> Clothing worn upon awakening to the nightmare of blood and beasts. 
 Not typical clothing for Yharnam, perhaps it is of foreign origin. It is said, after all, the traveler came to Yharnam from afar. 
@@ -1180,7 +1178,7 @@ Without memory, who will ever know?</description>
 <location place="Iosefka's_Clinic"> Starting equipment</location>
 
 </attire><attire>
-<itemName attireList="Gascoigne's_Garb" attireSet="Gascoigne's_Set">Gasgoigne's Garb is part of Gacoigne's Set.</itemName>
+<itemName attireList="Gascoigne's_Garb" attireSet="Gascoigne's_Set">Gasgoigne's Garb</itemName>
 
 <description> Hunter attire worn by Father Gascoigne. 
 The dingy scarf is a Holy Shawl and symbol of 
@@ -1191,7 +1189,7 @@ and there is no such rank in the Healing Church.</description>
 <location place="Hunter's_Dream">Hunter's Dream</location>
 
 </attire><attire>
-<itemName attireList="Graveguard_Robe" attireSet="Graveguard_Set">Graveguard Robe is part of the Graveyard Set.</itemName>
+<itemName attireList="Graveguard_Robe" attireSet="Graveguard_Set">Graveguard Robe</itemName>
 
 <description> Robe of Dores, graveguard of the Forbidden Woods. 
 His pale countenance mimics the labyrinth watchers. Willem kept two loyal servants back at Byrgenwerth. When they were sent into the labyrinth. they encountered the eldritch Truth. and went mad. One became the password gatekeeper, while Dores became a graveguard of the forest. 
@@ -1200,7 +1198,7 @@ Both remained loyal, even in madness."</description>
 <location place="Forbidden_Woods"> Forbidden Woods</location>
 
 </attire><attire>
-<itemName attireList="Harrowed_Garb" attireSet="Harrowed_Set">Harrowed Garb is part of the Harrowed Garb.</itemName>
+<itemName attireList="Harrowed_Garb" attireSet="Harrowed_Set">Harrowed Garb</itemName>
 
 <description> Certain Church hunters obfuscate their identities and slip into the nooks and crannies of the city. 
 This is the garb that allows these harrowed individuals to go unnoticed. 
@@ -1209,7 +1207,7 @@ Or perhaps, when the time is ripe, they find signs of the scourge where there ar
 
 <location place="Fishing_Hamlet">Fishing Hamlet</location> 
 </attire><attire>
-<itemName attireList="Henryk's_Hunter_Garb" attireSet="Henryk's_Hunter_Set">Henryk's Hunter Garb is a part of Henryk's Hunter Set.</itemName>
+<itemName attireList="Henryk's_Hunter_Garb" attireSet="Henryk's_Hunter_Set">Henryk's Hunter Garb</itemName>
 
 <description> Hunter's attire worn by Henryk, the old hunter. 
 The taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life. 
@@ -1217,7 +1215,7 @@ Henryk's unique yellow garb is resistant to bolt and will be of great help to an
 
 <location place="Central_Yharnam">Tomb of Oedon</location>
 </attire><attire>
-<itemName attireList="Hunter_Garb" attireSet="Hunter_Set(A)">Hunter Garb is part of the Hunter Set.</itemName>
+<itemName attireList="Hunter_Garb" attireSet="Hunter_Set(A)">Hunter Garb</itemName>
 
 <description> "One of the standard articles of hunter attire fashioned at the workshop, this one without the cape that wipes away blood. 
 A fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.
@@ -1226,7 +1224,7 @@ Allows one to stalk beasts unannounced, by cover of night." </description>
 <location place="Central_Yharnam">Central Yharnam</location>
 
 </attire><attire>
-<itemName attireList="Knight's_Garb" attireSet="Knight's_Set">Knight's Garb is part of the Knight's Set.</itemName>
+<itemName attireList="Knight's_Garb" attireSet="Knight's_Set">Knight's Garb</itemName>
 
 <description> Adornment prized by the knights of Cainhurst. Resembles a ponytail of silver hair. 
 The Cainhurst way is a mix of nostalgia and bombast. They take great pride even in the blood-stained corpses of beasts that they leave behind. confident that they will stand as examples of decadent art." 
@@ -1241,7 +1239,7 @@ There's actually a small dagger on your character's back when you equip these cl
 Relevant lore theories can be found under The Mysteries of Cainhurst Garb &amp; Architecture.</notes>
 
 </attire><attire>
-<itemName attireList="Madman_Garb" attireSet="Madman_Set">Madman Garb is part of the Madman Set.</itemName>
+<itemName attireList="Madman_Garb" attireSet="Madman_Set">Madman Garb</itemName>
 
 <description> Most tomb prospectors, members of the Healing Church chosen to explore the old labyrinth, are unable to withstand the weight of the old knowledge, and go mad. 
 This attire is worn by those lost souls. 
@@ -1250,7 +1248,7 @@ The appendages draped across them are said to be a kind of protective charm, or 
  <location place="Chalice_Dungeons">Chalice Dungeon</location>
 
 </attire><attire>
-<itemName attireList="Maria_Hunter_Garb" attireSet="Maria_Hunter_Set">Maria Hunter Garb is part of the Maria Hunter Set.</itemName>
+<itemName attireList="Maria_Hunter_Garb" attireSet="Maria_Hunter_Set">Maria Hunter Garb</itemName>
 
 <description> Among the first hunters, all students of Gehrman, was the lady hunter Maria. This was her hunter's Garb, crafted in Cainhurst. 
 Maria is distantly related to the undead queen, but had great admiration for Gehrman, unaware of his curious mania"</description>
@@ -1268,7 +1266,7 @@ Worn by the nobles of the old bloodline that traces back to the forsaken Castle 
 Relevant lore theories exist under The Mysteries of Cainhurst Garb and Architecture.</notes>
 
 </attire><attire>
-<itemName attireList="Sweaty_Clothes" attireSet="Shabby_Set">Sweaty Clothes are part of the Shabby Set.</itemName>
+<itemName attireList="Sweaty_Clothes" attireSet="Shabby_Set">Sweaty Clothes</itemName>
 
 <description> Common Yharnam clothing. 
 Well-worn and damp with sweat."</description>
@@ -1276,7 +1274,7 @@ Well-worn and damp with sweat."</description>
 <location place="Old_Yharnam"> Old Yharnam</location>
 
 </attire><attire>
-<itemName attireList="Student_Uniform(A)" attireSet="Student_Set(A)">Student Uniform is part of the Student Set.</itemName>
+<itemName attireList="Student_Uniform(A)" attireSet="Student_Set(A)">Student Uniform</itemName>
 
 <description> Uniform of the students of Byrgenwerth, a bygone institute of learning. Features a thick cape. 
 The Healing Church has its roots in Byrgenwerth, and naturally borrows heavily from its uniform design. 
@@ -1285,7 +1283,7 @@ The focus not on knowledge, or thought, but on pure pretension would surely brin
  <location place="Byrgenwerth">Byrgenwerth</location><location place="Lecture_Building">Lecture Building</location>
 
 </attire><attire>
-<itemName attireList="Tomb_Prospector_Garb" attireSet="Tomb_Prospector_Set">Tomb Prospector Garb is part of the Tomb Prospector Set.</itemName>
+<itemName attireList="Tomb_Prospector_Garb" attireSet="Tomb_Prospector_Set">Tomb Prospector Garb</itemName>
 
 <description> Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church. 
 The Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance. 
@@ -1341,7 +1339,7 @@ Djura felt defeated by the state of Old Yharnam, and renounced his hunter's vows
     
 </attire>
 <attire>
-    <itemName attireList="Surgical_Long_Gloves" attireSet="White_Church_Set">Surgical Long Gloves is part of both the Black and White Church sets</itemName>
+    <itemName attireList="Surgical_Long_Gloves" attireSet="White_Church_Set">Surgical Long Gloves</itemName>
 
 <description>White surgical gloves. The intricate embroidery weaves a spell that protects their wearer. 
 The Church engages in the hunt in a medical capacity. 
@@ -1519,14 +1517,14 @@ Djura is know through his contact with the Powder Kegs, the heretics of the work
 Djura felt defeated by the state of Old Yharnam, and renounced his hunter's vows."</description>
 <location place="Old_Yharnam">Old Yharnam</location>
 </attire><attire>
-<itemName attireList="Black_Church_Trousers/Dress" attireSet="Black_Church_Set">Black Church Trousers/Dress</itemName>
+<itemName attireList="Black_Church_Trousers/Dress" attireSet="Black_Church_Set">Black Church Trousers</itemName>
 
 <description>Attire of Healing Church hunters. 
 Most Healing Church hunters are elementary doctors who understand the importance of early prevention of the scourge, achieved by disposing of victims, and even potential victims, before signs of sickness manifest themselves. 
 Their black attire is synonymous with fear, and that peculiar Yharnam madness." </description>
 <location place="Cathedral_Ward">Cathedral Ward</location>
 </attire><attire>
-    <itemName attireList="Cainhurst_Leggings">The Cainhurst Leggings are a legs attire in Bloodborne.</itemName>
+    <itemName attireList="Cainhurst_Leggings">Cainhurst Leggings</itemName>
 
 <description>Silver leggings worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle. 
 This paper-thin silver armor is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood."</description>
@@ -1600,7 +1598,7 @@ A fine piece of hunter attire that provides stable defence to anyone facing Yhar
 Allows one to stalk beasts unannounced, by cover of night." </description>
 </attire>
 <attire>
-    <itemName attireList="Knight's_Trousers/Dress" attireSet="Knight's_Set">Knight's Trousers/Dress</itemName>
+    <itemName attireList="Knight's_Trousers/Dress" attireSet="Knight's_Set">Knight's Trousers</itemName>
 
 <description> Attire of the knights of Cainhurst. A regal piece graced by intricate goldwork. 
 The Cainhurst way is a mix of nostalgia and bombast. 
@@ -1623,11 +1621,11 @@ The Healing Church traces its roots to Byrgenwerth, and is therefore aware of th
 They contain much more than mere hunter trinkets, indeed, they hide the very secrets of the old Great Ones, sought after by those with the insight to imagine greatness."</description>
 <location place="Hunter's_Dream">Hunter's Dream</location>
     </attire>
-<attire><itemName attireList="White_Church_Trousers/Dress" attireSet="White_Church_Set">White Church Trousers/Dress</itemName>
+<attire><itemName attireList="White_Church_Trousers/Dress" attireSet="White_Church_Set">White Church Trousers</itemName>
 
 <description>Attire of special Church doctors. 
 These doctors are superiors to the black preventative hunters, and specialists in experimentally-backed blood ministration and the scourge of the beast. 
-They believe the Trousers/Dress medicine is not a means of treatment but rather a method for research. and the Trousers/Dress some knowledge can only be obtained by exposing oneself to sickness." </description>
+They believe the Trousers medicine is not a means of treatment but rather a method for research. and the Trousers some knowledge can only be obtained by exposing oneself to sickness." </description>
 </attire>
 <attire><itemName attireList="Yharnam_Hunter_Trousers" attireSet="Yharnam_Hunter_Set">Yharnam Hunter Trousers</itemName>
 

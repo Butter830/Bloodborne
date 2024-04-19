@@ -5,7 +5,7 @@
     
     <holyChaliceItem>
         
-<itemName holyChalicesList="Pthumeru_Chalice">Pthumeru Chalice </itemName>
+<itemName holyChalicesList="Pthumeru_Chalice">Pthumeru Chalice</itemName>
 
 <description> Ritual chalice found in the Church of the Good Chalice.
     
@@ -19,7 +19,7 @@
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Pthumeru_Root_Chalice">Pthumeru Root Chalice </itemName>
+<itemName holyChalicesList="Pthumeru_Root_Chalice">Pthumeru Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -32,7 +32,7 @@
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Central_Pthumeru_Chalice">Central Pthumeru Chalice </itemName>
+<itemName holyChalicesList="Central_Pthumeru_Chalice">Central Pthumeru Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     
@@ -50,7 +50,7 @@
     
     
     <holyChaliceItem>
-<itemName holyChalicesList="Central_Pthumeru_Root_Chalice">Central Pthumeru Root Chalice </itemName>
+<itemName holyChalicesList="Central_Pthumeru_Root_Chalice">Central Pthumeru Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -63,7 +63,7 @@
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Lower_Pthumeru_Chalice">Lower Pthumeru Chalice </itemName>
+<itemName holyChalicesList="Lower_Pthumeru_Chalice">Lower Pthumeru Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     
@@ -76,7 +76,7 @@
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Lower_Pthumeru_Root_Chalice">Lower Pthumeru Root Chalice </itemName>
+<itemName holyChalicesList="Lower_Pthumeru_Root_Chalice">Lower Pthumeru Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -89,7 +89,7 @@
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Sinister_Lower_Pthumeru_Root_Chalice">Sinister Lower Pthumeru Root Chalice </itemName>
+<itemName holyChalicesList="Sinister_Lower_Pthumeru_Root_Chalice">Sinister Lower Pthumeru Root Chalice</itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
     
@@ -110,7 +110,7 @@ The bell-ringing woman does not appear offline.**</description>
     
     
     <holyChaliceItem>
-<itemName holyChalicesList="Defiled_Chalice">Defiled Chalice </itemName>
+<itemName holyChalicesList="Defiled_Chalice">Defiled Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     
@@ -123,7 +123,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Cursed_and_Defiled_Root_Chalice">Cursed and Defiled Root Chalice </itemName>
+<itemName holyChalicesList="Cursed_and_Defiled_Root_Chalice">Cursed and Defiled Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -137,7 +137,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Great_Pthumeru_Ihyll_Chalice">Great Pthumeru Ihyll Chalice </itemName>
+<itemName holyChalicesList="Great_Pthumeru_Ihyll_Chalice">Great Pthumeru Ihyll Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     
@@ -151,7 +151,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
            
     <holyChaliceItem>
-<itemName holyChalicesList="Pthumeru_Ihyll_Root_Chalice">Pthumeru Ihyll Root Chalice </itemName>
+<itemName holyChalicesList="Pthumeru_Ihyll_Root_Chalice">Pthumeru Ihyll Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -168,7 +168,7 @@ The bell-ringing woman does not appear offline.**</description>
     
     
     <holyChaliceItem>
-<itemName holyChalicesList="Sinister_Pthumeru_Ihyll_Root_Chalice">Sinister Pthumeru Ihyll Root Chalice </itemName>
+<itemName holyChalicesList="Sinister_Pthumeru_Ihyll_Root_Chalice">Sinister Pthumeru Ihyll Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     When used in a ritual, this sinister chalice summons
@@ -183,7 +183,7 @@ the bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Hintertomb_Chalice">Hintertomb Chalice </itemName>
+<itemName holyChalicesList="Hintertomb_Chalice">Hintertomb Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     Hintertombs are the peripheral catacombs
@@ -195,7 +195,7 @@ the bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Hintertomb_Root_Chalice">Hintertomb Root Chalice </itemName>
+<itemName holyChalicesList="Hintertomb_Root_Chalice">Hintertomb Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -207,7 +207,7 @@ the bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Lower_Hintertomb_Chalice">Lower Hintertomb Chalice </itemName>
+<itemName holyChalicesList="Lower_Hintertomb_Chalice">Lower Hintertomb Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     Hintertombs are the peripheral catacombs
@@ -219,7 +219,7 @@ the bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Lower_Hintertomb_Root_Chalice">Lower Hintertomb Root Chalice </itemName>
+<itemName holyChalicesList="Lower_Hintertomb_Root_Chalice">Lower Hintertomb Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -230,7 +230,7 @@ the bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Sinister_Hintertomb_Root_Chalice">Sinister Hintertomb Root Chalice </itemName>
+<itemName holyChalicesList="Sinister_Hintertomb_Root_Chalice">Sinister Hintertomb Root Chalice</itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
     When used in a ritual, this sinister chalice summons the
@@ -246,7 +246,7 @@ The bell-ringing woman does not appear offline.**</description>
     
     
     <holyChaliceItem>
-<itemName holyChalicesList="Ailing_Loran_Chalice">Ailing Loran Chalice </itemName>
+<itemName holyChalicesList="Ailing_Loran_Chalice">Ailing Loran Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     Loran is a tragic land that was devoured by the sands.
@@ -259,7 +259,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Ailing_Loran_Root_Chalice">Ailing Loran Root Chalice </itemName>
+<itemName holyChalicesList="Ailing_Loran_Root_Chalice">Ailing Loran Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -273,7 +273,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
             
     <holyChaliceItem>
-<itemName holyChalicesList="Lower_Ailing_Loran_Chalice">Lower Ailing Loran Chalice </itemName>
+<itemName holyChalicesList="Lower_Ailing_Loran_Chalice">Lower Ailing Loran Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     But only a Root Chalice changes the shape of the
@@ -288,7 +288,7 @@ The bell-ringing woman does not appear offline.**</description>
     
     
     <holyChaliceItem>
-<itemName holyChalicesList="Sinister_Lower_Loran_Chalice">Sinister Lower Loran Chalice </itemName>
+<itemName holyChalicesList="Sinister_Lower_Loran_Chalice">Sinister Lower Loran Chalice</itemName>
 
 <description> Root chalice that breaks multiple labyrinth seals.
     
@@ -306,7 +306,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Great_Isz_Chalice">Great Isz Chalice </itemName>
+<itemName holyChalicesList="Great_Isz_Chalice">Great Isz Chalice</itemName>
 
 <description> A chalice that breaks a labyrinth seal.
     
@@ -320,7 +320,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Isz_Root_Chalice">Isz Root Chalice </itemName>
+<itemName holyChalicesList="Isz_Root_Chalice">Isz Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
@@ -333,7 +333,7 @@ The bell-ringing woman does not appear offline.**</description>
         </holyChaliceItem>
     
     <holyChaliceItem>
-<itemName holyChalicesList="Sinister_Isz_Root_Chalice">Sinister Isz Root Chalice </itemName>
+<itemName holyChalicesList="Sinister_Isz_Root_Chalice">Sinister Isz Root Chalice</itemName>
 
 <description> Root Chalice that breaks multiple labyrinth seals.
     
