@@ -1,3 +1,32 @@
+body
+{
+    background-color: #000000;
+    background-image: url("images/bloodmoon.jpg");
+    background-position: right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.content
+{
+    background-color: #adad85;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    color: #000000; 
+    background-position: left;
+    -webkit-text-stroke: 0.5px red;
+   font-size: 20px;
+}
+
 .header {
   background-color: #979797;
   text-align: center;
