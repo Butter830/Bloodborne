@@ -1,6 +1,6 @@
 declare option saxon:output "method=html";
 declare variable $main := collection("../xml/");
-declare variable $xspacer := 20;
+declare variable $xspacer := 10;
 declare variable $yspacer := 50;
 
 <html>
@@ -32,7 +32,7 @@ declare variable $yspacer := 50;
         <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid!</p>
         <p></p>
         <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
-    <g transform="translate(-120,10)">
+    <g transform="translate(-100,0)">
    
     {
     let $items := $main//Q{}lore//*[name()="holyChaliceItem" or name()="weapon" or name()="firearm"or name()="attire"or name()="caryllRunes"or name()="onlineItem" or name()="keyItem"or name()="chaliceRitualMaterials"or name()="toolItem"or name()="consumableItem"or name()="spellItem"or name()="weaponBuffItem"] 
@@ -43,11 +43,11 @@ let $itemCount := count($items[./name() = $itemType])
 let $itemName := $itemType
         return
                 <g>
-                <text x="-320" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="30px" fill="black">{$itemName}</text>
-                <line x1="-25" y1="{$pos * $yspacer}" x2="{$itemCount * $xspacer}" y2="{$pos * $yspacer}" stroke="orange" stroke-width="35"/>
-                <text x="{$itemCount * $xspacer + 10}" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="30px" fill="black">{$itemCount}</text>
+                <text x="-350" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$itemName}</text>
+                <line x1="20" y1="{$pos * $yspacer}" x2="{$itemCount * $xspacer}" y2="{$pos * $yspacer}" stroke="orange" stroke-width="35"/>
+                <text x="{$itemCount * $xspacer + 10}" y="{$pos * $yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$itemCount}</text>
 
-                <line x1="-25" y1="0" x2="-25" y2="{max($pos +1) * $yspacer}" stroke="black" stroke-width="2"/>
+                <line x1="20" y1="0" x2="20" y2="{max($pos +1) * $yspacer}" stroke="black" stroke-width="2"/>
                 </g>
         }
         </g></svg>
@@ -63,11 +63,11 @@ let $yspacers := 65
     order by $item-count descending
     return
                 <g>
-                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="50px" fill="black">{$location}</text>
-                <line x1="400" y1="{$pos * $yspacers}" x2="{$item-count * $xspacers+400}" y2="{$pos * $yspacers}" stroke="orange" stroke-width="40"/>
-                <text x="{$item-count * $xspacers + 420}" y="{$pos * $yspacers + 5}" font-family="sans-serif" font-size="50px" fill="black">{$item-count}</text>
+                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="40px" fill="black">{$location}</text>
+                <line x1="300" y1="{$pos * $yspacers}" x2="{$item-count * $xspacers+400}" y2="{$pos * $yspacers}" stroke="orange" stroke-width="40"/>
+                <text x="{$item-count * $xspacers + 420}" y="{$pos * $yspacers + 5}" font-family="sans-serif" font-size="40px" fill="black">{$item-count}</text>
 
-                <line x1="400" y1="0" x2="400" y2="{max($pos +1) * $yspacers}" stroke="black" stroke-width="2"/>
+                <line x1="300" y1="0" x2="300" y2="{max($pos +1) * $yspacers}" stroke="black" stroke-width="2"/>
                 </g>
         }
         </g></svg>
