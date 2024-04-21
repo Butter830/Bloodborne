@@ -6,7 +6,7 @@ declare variable $yspacer := 50;
 <html>
     <head>
        <title>Graphs</title>
-      <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
+      <link type="text/css" href="Maps_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>
          <h4>Graphs</h4>
         </div><div class="topnav">
@@ -28,6 +28,7 @@ declare variable $yspacer := 50;
    </head>
     
     <body>
+    <div class="content">
         <u><i><b><font size="+2" color="white">Number of Items in Bloodborne</font></b></i></u>
         <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid!</p>
         <p></p>
@@ -75,6 +76,7 @@ let $yspacers := 65
         <p>Analysis of Items Per Location:</p>
         <p>Blah</p>
         <p></p>
+        </div>
         <h4><a href="#top">Back to the top</a></h4>    
        </body>
        </html>

@@ -24,6 +24,7 @@
    </head>
     
     <body>
+    <div class="Image">
     <div class="content">
        <img src="images/Bloodborne_Cover_Wallpaper.jpg" alt="Title Page"/>
   <p>Reasoning for Project:</p>
@@ -46,10 +47,10 @@ This project was commissioned by our professor Dr. William Campbell in our Data,
          If given more time we could of included video tutorials that I captured from my own gameplay and highlight items that take quest line progression to obtain. </p>
          </div>
  
-       
+      </div> 
   
         
    <h4><a href="#top">Back to the top</a></h4>         
     </body>
-    <div class="Image"></div>
+    
 </html>
