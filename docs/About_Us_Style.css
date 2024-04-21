@@ -10,18 +10,19 @@ body
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: contain;
+    
 }
 
 .content
 {
     background-color: #adad85;
-    margin-top: 100px;
-  margin-bottom: 100px;
+    margin-top: 10px;
+  margin-bottom: 10px;
   margin-right: 750px;
   margin-left: 10px;
     padding: 20px;
     text-align: center;
-    border-radius: 5px;
+
     display: inline-block;
     vertical-align: middle;
     box-sizing: border-box;
