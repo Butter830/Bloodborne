@@ -1,6 +1,10 @@
 body
 {
     background-color: #000000;
+    }
+    
+.Image
+{
     background-image: url("images/bloodmoon.jpg");
     background-position: right;
     background-attachment: scroll;
