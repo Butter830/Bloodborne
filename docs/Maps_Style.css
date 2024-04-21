@@ -39,7 +39,7 @@ graph, text, line
 
 .content
 {
-    background-color: #adad85;
+    background-color: #999999;
     padding: 20px;
     text-align: left;
     border-radius: 5px;
@@ -62,6 +62,11 @@ body
   margin-left: 75px;
   margin-right: 75px;
     
+}
+
+text
+{
+    font-size: 30px;
 }
 
 b
