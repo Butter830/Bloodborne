@@ -6,7 +6,7 @@
     
 
 <keyItem>
-<itemName keyItemList="Cainhurts_Badge">Cainhurst Badge</itemName>
+<itemName keyItemList="Cainhurst_Badge">Cainhurst Badge</itemName>
 <description>Badge of the royal guards of Cainhurst, loyal guardians of
         the Vileblood Queen Annalise.
 
@@ -344,7 +344,7 @@ greyish hair.
 
 
     </description>
-    <location lamp="Abandonded_Old_Workshop">Abandoned Old Workshop</location>
+    <location lamp="Abandoned_Old_Workshop">Abandoned Old Workshop</location>
 </keyItem>
 
 <keyItem>
@@ -649,7 +649,7 @@ interest in adornment. Why not let them be happy,
 and revel as babes?
 
     </description>
-    <location lamp="Old Yharnam">Old Yharnam</location>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -661,7 +661,7 @@ The inhabitants of the stump appear to have an interest in
 adornment. Why not let them be happy, and revel as babes?
 
     </description>
-    <location lamp="Old Yharnam">Old Yharnam</location>
+    <location lamp="Old_Yharnam">Old Yharnam</location>
 </keyItem>
 
 <keyItem>
@@ -936,7 +936,7 @@ truly entails.</description>
 Adeline was originally one of the Blood Saints who received
 treatment by the Church to cultivate worthy blood. Adeline's
 was one of the few cases that turned out favorably.</description>
-             <location lamp="Great_Cathedral">Great Cathedral</location>
+             <location lamp="Grand_Cathedral">Great Cathedral</location>
 </consumableItem>
 
                     <consumableItem>
