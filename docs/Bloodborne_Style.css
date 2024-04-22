@@ -94,3 +94,31 @@ h1{
   -webkit-text-stroke: 1px red;
        
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+  text-align: center;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+  text-align: center;
+}
