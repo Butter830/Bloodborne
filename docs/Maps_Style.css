@@ -28,27 +28,47 @@
 
 body
 {
-    
+        margin: 0;
+        padding: 0;
     background-color: #000000;
    background-image: url("images/fog.gif");
     background-size: 100% 100%;
     background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  margin-left: 75px;
-  margin-right: 75px;
+  
     
 }
 
-.content
-{
-    background-color: #999999;
-    padding: 20px;
-    text-align: left;
-    border-radius: 5px;
-    display: inline-block;
-    vertical-align: middle;
-    box-sizing: border-box;
-    color: #000000; 
-    background-position: left;
-   }
+ #map-container {
+        position: relative;
+        width: 1000px; 
+        margin: 0 auto;
+    }
+    #map-image {
+        width: 100%;
+        display: block;
+    }
+    .region {
+        position: absolute;
+        border: 1px red; 
+        opacity: 1; 
+        cursor: pointer;
+        
+    }
+    .popup-text {
+            position: absolute;
+            left: 5000px;
+            
+            background-color: white;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px;
+            
+            display: block;
+            max-width: 100px;
+            overflow-y: auto;
+           
+        } 
+        
+
