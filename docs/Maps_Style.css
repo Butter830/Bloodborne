@@ -25,3 +25,30 @@
   background-color: #ddd;
   color: black;
 }
+
+body
+{
+    
+    background-color: #000000;
+   background-image: url("images/fog.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin-left: 75px;
+  margin-right: 75px;
+    
+}
+
+.content
+{
+    background-color: #999999;
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    color: #000000; 
+    background-position: left;
+   }
