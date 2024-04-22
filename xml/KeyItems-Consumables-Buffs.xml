@@ -886,7 +886,7 @@ truly entails.</description>
 </consumableItem>
 
                     <consumableItem>
-    <itemName consumableList="Arianna’s_Third_Umbilical_Cord">Arianna’s Third Umbilical Cord</itemName>
+    <itemName consumableList="Arianna_Third_Umbilical_Cord">Arianna Third Umbilical Cord</itemName>
     <description>A great relic, also known as the Cord of the Eye. Every
 infant Great One has this precursor to the umbilical cord.
 
@@ -899,7 +899,7 @@ truly entails.</description>
 </consumableItem>
 
                     <consumableItem>
-    <itemName consumableList="Iosefka’s_Third_Umbilical_Cord">“Iosefka’s” Third Umbilical Cord</itemName>
+    <itemName consumableList="Iosefka_Third_Umbilical_Cord">Iosefka Third Umbilical Cord</itemName>
     <description>A great relic, also known as the Cord of the Eye. Every
 infant Great One has this precursor to the umbilical cord.
 
@@ -916,7 +916,7 @@ greatness.</description>
                                                                                         
 
                     <consumableItem>
-    <itemName consumableList="Mergo’s_Third_Umbilical_Cord">Mergo’s Third Umbilical Cord</itemName>
+    <itemName consumableList="Mergo_Third_Umbilical_Cord">Mergo Third Umbilical Cord</itemName>
     <description> A great relic, also known as the Cord of the Eye. Every infant
 Great One has this precursor to the umbilical cord.
 
