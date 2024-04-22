@@ -22,6 +22,7 @@ declare variable $yspacer := 50;
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
+         <h4><a href="Maps.html" target="_blank" rel="noopener noreferrer">Maps</a></h4>
          <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
@@ -65,7 +66,7 @@ let $yspacers := 65
     order by $item-count descending
     return
                 <g>
-                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="40px" fill="black">{$location}</text>
+                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="40px" fill="black">{$location!translate(.,"_"," ")}</text>
                 <line x1="300" y1="{$pos * $yspacers}" x2="{$item-count * $xspacers+400}" y2="{$pos * $yspacers}" stroke="orange" stroke-width="40"/>
                 <text x="{$item-count * $xspacers + 420}" y="{$pos * $yspacers + 5}" font-family="sans-serif" font-size="40px" fill="black">{$item-count}</text>
 
@@ -73,11 +74,10 @@ let $yspacers := 65
                 </g>
         }
         </g></svg>
-        <p></p>
         <p>Analysis of Items Per Location:</p>
-        <p>Blah</p>
+        <p></p>
         <p></p>
         </div>
-        <h4><a href="#top">Back to the top</a></h4>    
+        <h4><a href="#top">Back to the top</a></h4>   
        </body>
        </html>
