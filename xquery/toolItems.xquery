@@ -3,6 +3,7 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
        <title>Tool Items</title>
       <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>

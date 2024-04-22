@@ -5,6 +5,7 @@ declare variable $yspacer := 50;
 
 <html>
     <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
        <title>Graphs</title>
       <link type="text/css" href="Maps_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>

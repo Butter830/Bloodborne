@@ -1,5 +1,6 @@
 <html>
     <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
        <title>About Us</title>
       <link type="text/css" href="About_Us_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>
