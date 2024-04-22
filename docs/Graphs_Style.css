@@ -1,0 +1,88 @@
+.header {
+  background-color: #979797;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: inline;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+graph, text, line
+{
+    
+    border: 1px solid;
+    border-color: #fcba03;
+    -webkit-text-stroke: 0.4px #fcba03;
+    color: #FFFFFF;
+    font-size: 25px;
+   
+}
+
+.content
+{
+    background-color: #999999;
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    color: #000000; 
+    background-position: left;
+   }
+
+body
+{
+    
+    background-color: #000000;
+   background-image: url("images/fog.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin-left: 75px;
+  margin-right: 75px;
+    
+}
+
+text
+{
+    font-size: 30px;
+}
+
+b
+{
+    
+    color: #FFFFFF;
+    border-color: #fcba03;
+    -webkit-text-stroke: 0.4px #fcba03;
+    
+}
+
+p
+{
+    
+    color: #FFFFFF;
+    border-color: #fcba03;
+    -webkit-text-stroke: 0.4px #fcba03;
+    font-size: 25px;
+}
