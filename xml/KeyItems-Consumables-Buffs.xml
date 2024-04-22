@@ -462,7 +462,7 @@ for which they considered themselves blessed.
 </keyItem>
 
 <keyItem>
-<itemName keyItemList="Adeline_Brain_Fluid">Adeline Brain Fluid</itemName>
+<itemName keyItemList="Adeline_Brain_Fluid">Adeline Brain Fluid</itemName>l
 <description>Greyish amoeba-shaped brain fluid. Wobbles and bounces.
 
 Extracted from a patient whose head expanded until that
@@ -528,7 +528,7 @@ Grant eyes to the surgery altar skull.
 </keyItem>
 
 <keyItem>
-<itemName keyItemList="Laurence's_Skull">Laurence’s Skull</itemName>
+<itemName keyItemList="Laurence_Skull">Laurence Skull</itemName>
 <description>Skull of Laurence, first vicar of the Healing Church.
 In reality he became the first cleric beast, and his human
 skull only exists within the Nightmare.
