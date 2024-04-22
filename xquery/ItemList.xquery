@@ -44,7 +44,7 @@ declare option saxon:output "method=html";
            <tr><i><b><font size="+2" color="white">Item Checklist</font></b></i><th></th>
                 <th><u>
                         <font
-                            size="+4"><i><b>Item Name</b></i></font></u></th></tr>
+                            size="+2"><i><b>Item Name</b></i></font></u></th></tr>
             
             {
                 let $main := collection("../xml/")
