@@ -34,7 +34,7 @@ declare variable $yspacer := 50;
         <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid! As you could see attire has more items by more than double of everything else.  </p>
         <p></p>
         <p> <u> Analysis of Item numbers:</u></p>
-        <p>Due to the large amount of items and some items being able to be found in multiple locations we were unable to account for all of them. Based of the information we did use, you could see a majority of items fall under the Cathedral Ward, Hunter's Dream, and Hunter's Nightmare.  </p>
+    <p></p>
         <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
     <g transform="translate(-100,0)">
    
@@ -56,8 +56,8 @@ let $itemName := $itemType
         }
         </g></svg>
        <p></p>
-        <p>Analysis of Items Per Location:</p>
-        <p>Blah</p>
+        <p><u>Analysis of Items Per Location:</u></p>
+            <p>Due to the large amount of items and some items being able to be found in multiple locations we were unable to account for all of them. Based of the information we did use, you could see a majority of items fall under the Cathedral Ward, Hunter's Dream, and Hunter's Nightmare.  </p>
         <svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200"  viewBox="0 0 1300 500" style="border">
     <g transform="translate(400,-600)"> {
     let$xspacers := 10
@@ -77,7 +77,7 @@ let $yspacers := 65
         }
         </g></svg>
         
-        <p>Analysis on Word Count:</p>
+        <p><u>Analysis on Word Count:</u></p>
         <p>Based off of the word cloud and frequency graph, Hunter is the most used word with 376 times of recurrence. Words like blood, church, old, hunters, beast, rune, etc also repeat for over a hundred times.   </p>
         <p><img src="images/Frequency_Word_Graph.jpg" alt="Frequency_Word_Graph"></img></p>
         <img src="images/Frequency_Word_Cloud.jpg" alt="Frequency_Word_Cloud"></img>

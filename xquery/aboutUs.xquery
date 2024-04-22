@@ -38,7 +38,7 @@ This project was commissioned by our professor Dr. William Campbell in our Data,
    <p>Bloodborne is a FromSoft game that was released in March of 2015 and being a Playstation exclusive for the PS4. Its a action role-playing game that allows players to become Hunters of the night and take down horrid Beasts. As players fight through the difficult labyrinths to discover the truth of beasts and free the city of Yharnam</p>
    
    <p>Meet the Team:</p>
-   <p>Our group consisted of Kadien; the Schema Master, Julia; Resident CSS expert, Cameron, the Grunt of Grunt, and Christian Stahl, Overall XML master. </p>
+   <p>Our group consisted of Kaiden; the Schema Lord, Julia; Resident Grand Duchess of CSS , Cameron, Image Sorcerer, and Christian Stahl, Diplomat of XML. </p>
    
    <p>Our Mission:</p>
 <p>We set out with the goal to provide a website where players could come and find all the items in Bloodborne. We wanted a checklist system that would allow players to keep a detailed list of all the items they have and know which ones they still needed. Another feature we wanted was to have an interactive map that wuld show exactly where items were, making it easier for players to find them. We wanted a website that would be helpful and easy to use while playing Bloodborne so players could get the most of the game. Furthermore, we wanted players to be able to find attires, weapons, buffs, etc. that would best enhance their gameplay and experience.</p>
