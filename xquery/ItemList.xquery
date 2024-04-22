@@ -3,6 +3,7 @@ declare option saxon:output "method=html";
 
 <html>
     <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
        <title>Item List</title>
       <link type="text/css" href="Item_Master_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>
@@ -43,7 +44,7 @@ declare option saxon:output "method=html";
            <tr><i><b><font size="+2" color="white">Item Checklist</font></b></i><th></th>
                 <th><u>
                         <font
-                            size="+2"><i><b>Item Name</b></i></font></u></th></tr>
+                            size="+4"><i><b>Item Name</b></i></font></u></th></tr>
             
             {
                 let $main := collection("../xml/")
@@ -66,7 +67,7 @@ declare option saxon:output "method=html";
                                 <span
                                     class="checkmark"></span>
                             </label><font
-                                size="+1"><b>{$item ! string()}
+                                size="+3"><b>{$item ! string()}
                                 </b></font>
                         </td>
                     </tr>
