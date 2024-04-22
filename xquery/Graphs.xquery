@@ -7,7 +7,7 @@ declare variable $yspacer := 50;
     <head>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
        <title>Graphs</title>
-      <link type="text/css" href="Maps_Style.css" rel="stylesheet" />
+      <link type="text/css" href="Graphs_Style.css" rel="stylesheet" />
    <div class="header"><h1>Bloodborne Item Finder</h1>
          <h4>Graphs</h4>
         </div><div class="topnav">
