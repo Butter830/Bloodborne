@@ -22,7 +22,6 @@ declare variable $yspacer := 50;
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
-         <h4><a href="Maps.html" target="_blank" rel="noopener noreferrer">Maps</a></h4>
          <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
@@ -31,8 +30,8 @@ declare variable $yspacer := 50;
     
     <body>
     <div class="content">
-        <u><i><b><font size="+2" color="white">Number of Items in Bloodborne</font></b></i></u>
-        <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid!</p>
+        <u><i><b><font size="+2" color="white">Number of Items in Bloodborne:</font></b></i></u>
+        <p>This shows just the sheer amount of <em>Items</em> within the game as a fun visual aid! As you could see attire has more items by more than double of everything else.  </p>
         <p></p>
         <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
     <g transform="translate(-100,0)">
@@ -55,7 +54,7 @@ let $itemName := $itemType
         }
         </g></svg>
         <p> Analysis of Item numbers:</p>
-        <p>Blah</p>
+        <p>Due to the large amount of items and some items being able to be found in multiple locations we were unable to account for all of them. Based of the information we did use, you could see a majority of items fall under the Cathedral Ward, Hunter's Dream, and Hunter's Nightmare.  </p>
         <svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200"  viewBox="0 0 1500 800" style="border">
     <g transform="translate(400,-600)"> {
     let$xspacers := 10
@@ -66,7 +65,7 @@ let $yspacers := 65
     order by $item-count descending
     return
                 <g>
-                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="40px" fill="black">{$location!translate(.,"_"," ")}</text>
+                <text x="-320" y="{$pos * $yspacers+20 }" font-family="sans-serif" font-size="40px" fill="black">{$location}</text>
                 <line x1="300" y1="{$pos * $yspacers}" x2="{$item-count * $xspacers+400}" y2="{$pos * $yspacers}" stroke="orange" stroke-width="40"/>
                 <text x="{$item-count * $xspacers + 420}" y="{$pos * $yspacers + 5}" font-family="sans-serif" font-size="40px" fill="black">{$item-count}</text>
 
@@ -74,10 +73,14 @@ let $yspacers := 65
                 </g>
         }
         </g></svg>
+        <p></p>
         <p>Analysis of Items Per Location:</p>
-        <p></p>
-        <p></p>
+        <p>Blah</p>
+        <p>Analysis on Word Count:</p>
+        <p>Based off of the word cloud and frequency graph, Hunter is the most used word with 376 times of recurrence. Words like blood, church, old, hunters, beast, rune, etc also repeat for over a hundred times.   </p>
+        <p><img src="images/Frequency_Word_Graph" alt="Frequency_Word_Graph"></img></p>
+        <p><img src="images/Frequency_Word_Cloud" alt="Frequency_Word_Cloud"></img></p>
         </div>
-        <h4><a href="#top">Back to the top</a></h4>   
+        <h4><a href="#top">Back to the top</a></h4>    
        </body>
        </html>
