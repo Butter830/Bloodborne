@@ -40,8 +40,8 @@ table, tr, td
 input[type=checkbox] {
     margin: 4px 0 0;
     line-height: normal;
-    width: 15px;
-    height: 15px;
+    width: 25px;
+    height: 25px;
 }
 
 body
