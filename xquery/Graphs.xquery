@@ -22,6 +22,7 @@ declare variable $yspacer := 50;
          <h4><a href="toolItems.html">Tools</a></h4>
          <h4><a href="weapons.html">Weapons</a></h4>
          <h4><a href="itemList.html">Item Checklist</a></h4>
+         <h4><a href="Maps.html" target="_blank" rel="noopener noreferrer">Maps</a></h4>
          <h4><a href="graphs.html">Graphs</a></h4>
          <h4><a href="aboutUs.html">About Us</a></h4>
       </div>
