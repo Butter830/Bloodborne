@@ -57,18 +57,17 @@ body
         
     }
     .popup-text {
-            position: absolute;
-            left: 5000px;
-            
+            position: fixed;
+            top: 50%;
+            right: 10px;
+            transform: translateY(-50%);
             background-color: white;
             padding: 10px;
             border: 1px solid black;
             border-radius: 5px;
-            
             display: block;
-            max-width: 100px;
+            max-width: 500px;
             overflow-y: auto;
-           
+           font-weight: bold;
         } 
-        
-
+    .popup-text b {font-weight: bold;}
