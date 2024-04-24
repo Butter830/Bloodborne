@@ -1,3 +1,5 @@
+declare option saxon:output "method=html";
+declare option saxon:output "doctype-system=about:legacy-compat";
 <html>
     <head>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>

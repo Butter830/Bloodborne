@@ -1,4 +1,5 @@
 declare option saxon:output "method=html";
+declare option saxon:output "doctype-system=about:legacy-compat";
 declare variable $main := collection("../xml/");
 declare variable $xspacer := 10;
 declare variable $yspacer := 50;
