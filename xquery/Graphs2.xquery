@@ -1,14 +1,10 @@
+xquery version "3.1";
 declare option saxon:output "method=html";
 declare option saxon:output "doctype-system=about:legacy-compat";
 declare variable $main := collection("../xml/");
 declare variable $xspacer := 10;
 declare variable $yspacer := 50;
-declare variable $words-cleaned := replace($words, '[,|"|!|\.|(|)|\?|;|\[|\]]+', ' ') => normalize-space();
-declare variable $words-separate := tokenize($words-cleaned, '\s');
-declare variable $words := $main //lore/string()=>string-join()=>lower-case();  
-declare variable $bloodTotal := (//lore/text() ! replace(., "blood", " blood ", "i") ! (tokenize(.)[. = 'blood']) => count());
-declare variable $churchTotal := (//lore/text() ! replace(., "church", " church ", "i") ! (tokenize(.)[. = 'church']) => count());
-declare variable $hunterTotal := (//lore/text() ! replace(., "hunter", " hunter ", "i") ! (tokenize(.)[. = 'hunter']) => count());
+
 
 <html>
     <head>
@@ -45,16 +41,20 @@ declare variable $hunterTotal := (//lore/text() ! replace(., "hunter", " hunter 
     <g transform="translate(-100,0)">
             
             {
+let $words := $main//lore/string()=>string-join()=>lower-case()
+let $words-cleaned := replace($words, '[,|"|!|\.|(|)|\?|;|\[|\]]+', ' ') => normalize-space()
+let $words-separate := tokenize($words-cleaned, '\s')
+let $bloodTotal := ($words-cleaned ! replace(., "blood", " blood ", "i") ! (tokenize(.)[. = 'blood']) => count())
+let $churchTotal := ($words-cleaned ! replace(., "church", " church ", "i") ! (tokenize(.)[. = 'church']) => count())
+let $hunterTotal := ($words-cleaned ! replace(., "hunter", " hunter ", "i") ! (tokenize(.)[. = 'hunter']) => count())
     
-   
-    
-   ./return 
+   return 
                 <g>
                <text x="-350" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$bloodTotal}</text>
-                <line x1="20" y1="{$yspacer}" x2="{$words-cleaned * $xspacer}" y2="{$yspacer}" stroke="orange" stroke-width="35"/>
-                <text x="{$words-cleaned * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$churchTotal}</text>
+                <line x1="20" y1="{$yspacer}" x2="{$bloodTotal * $xspacer}" y2="{$yspacer}" stroke="orange" stroke-width="35"/>
+                <text x="{$churchTotal * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$churchTotal}</text>
                 <line x1="20" y1="0" x2="20" y2="{max(+1) * $yspacer}" stroke="black" stroke-width="2"/>
-                <text x="{$words-cleaned * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$hunterTotal}</text>
+                <text x="{$hunterTotal * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$hunterTotal}</text>
                 <line x1="20" y1="0" x2="20" y2="{max(+1) * $yspacer}" stroke="black" stroke-width="2"/>
                 </g>
         }
