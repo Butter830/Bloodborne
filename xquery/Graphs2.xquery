@@ -41,7 +41,7 @@ declare variable $yspacer := 50;
     <g transform="translate(-100,0)">
             
             {
-let $words := $main//lore/string()=>string-join()=>lower-case()
+let $words := $main//Q{}lore/string()=>string-join()=>lower-case()
 let $words-cleaned := replace($words, '[,|"|!|\.|(|)|\?|;|\[|\]]+', ' ') => normalize-space()
 let $words-separate := tokenize($words-cleaned, '\s')
 let $bloodTotal := ($words-cleaned ! replace(., "blood", " blood ", "i") ! (tokenize(.)[. = 'blood']) => count())
@@ -50,12 +50,12 @@ let $hunterTotal := ($words-cleaned ! replace(., "hunter", " hunter ", "i") ! (t
     
    return 
                 <g>
-               <text x="-350" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$bloodTotal}</text>
-                <line x1="20" y1="{$yspacer}" x2="{$bloodTotal * $xspacer}" y2="{$yspacer}" stroke="orange" stroke-width="35"/>
-                <text x="{$churchTotal * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$churchTotal}</text>
-                <line x1="20" y1="0" x2="20" y2="{max(+1) * $yspacer}" stroke="black" stroke-width="2"/>
-                <text x="{$hunterTotal * $xspacer + 10}" y="{$yspacer + 5}" font-family="sans-serif" font-size="40px" fill="black">{$hunterTotal}</text>
-                <line x1="20" y1="0" x2="20" y2="{max(+1) * $yspacer}" stroke="black" stroke-width="2"/>
+               <text x="-350" y="20" font-family="sans-serif" font-size="40px" fill="black">{$bloodTotal}</text>
+                <line x1="0" y1="20" x2="{$bloodTotal * $xspacer}" y2="{$yspacer}" stroke="orange" stroke-width="30"/>
+                <text x="{$churchTotal * $xspacer + 10}" y="40" font-family="sans-serif" font-size="40px" fill="black">{$churchTotal}</text>
+                <line x1="0" y1="40" x2="20" y2="{ $yspacer}" stroke="black" stroke-width="30"/>
+                <text x="{$hunterTotal * $xspacer + 10}" y="60" font-family="sans-serif" font-size="40px" fill="black">{$hunterTotal}</text>
+                <line x1="0" y1="60" x2="20" y2="{ $yspacer}" stroke="black" stroke-width="30"/>
                 </g>
         }
         </g></svg>
