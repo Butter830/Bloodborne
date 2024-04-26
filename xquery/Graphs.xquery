@@ -88,9 +88,7 @@ let $yspacers := 65
         <br/>
         
         
-<p>Blood/Church/Hunter Frequency in Bloodborne Item Guide. 
-<br/>
-        This Graph is based on the more common words in the Bloodborne Item List.</p>
+       <p> This Graph is based on Cameron's findings of the more common words in the Bloodborne Item List. While I find it interesting that 'blood' is not the most common word, it makes sense that 'hunter' would be, considering your playable character is a hunter, who interacts with other hunters.</p>
              <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
     <g transform="translate(-100,0)">
             
@@ -109,13 +107,13 @@ let $oldTotal := ($words-cleaned ! replace(., "old", " old ", "i") ! (tokenize(.
                <text x="-350" y="100" font-family="sans-serif" font-size="40px" fill="black">Blood: {$bloodTotal}</text>
                 <line x1="0" y1="100" x2="{$bloodTotal}" y2="100" stroke="orange" stroke-width="30"/>
                 <text x="-350" y="200" font-family="sans-serif" font-size="40px" fill="black">Church: {$churchTotal}</text>
-                <line x1="0" y1="200" x2="{$churchTotal}" y2="200" stroke="black" stroke-width="30"/>
+                <line x1="0" y1="200" x2="{$churchTotal}" y2="200" stroke="orange" stroke-width="30"/>
                 <text x="-350" y="300" font-family="sans-serif" font-size="40px" fill="black">Hunter: {$hunterTotal}</text>
-                <line x1="0" y1="300" x2="{$hunterTotal}" y2="300" stroke="black" stroke-width="30"/>
+                <line x1="0" y1="300" x2="{$hunterTotal}" y2="300" stroke="orange" stroke-width="30"/>
                 <text x="-350" y="400" font-family="sans-serif" font-size="40px" fill="black">Hunters: {$huntersTotal}</text>
-                <line x1="0" y1="400" x2="{$huntersTotal}" y2="400" stroke="black" stroke-width="30"/>
+                <line x1="0" y1="400" x2="{$huntersTotal}" y2="400" stroke="orange" stroke-width="30"/>
                 <text x="-350" y="500" font-family="sans-serif" font-size="40px" fill="black">Old: {$oldTotal}</text>
-                <line x1="0" y1="500" x2="{$oldTotal}" y2="500" stroke="black" stroke-width="30"/>
+                <line x1="0" y1="500" x2="{$oldTotal}" y2="500" stroke="orange" stroke-width="30"/>
                 </g>
         }
         </g></svg>
