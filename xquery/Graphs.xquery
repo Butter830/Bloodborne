@@ -83,7 +83,47 @@ let $yspacers := 65
         <p>Based off of the word cloud and frequency graph, Hunter is the most used word with 376 times of recurrence. Words like blood, church, old, hunters, beast, rune, etc also repeat for over a hundred times. These words aren't a surprise to be the most common as the game is focused around the Hunters, the Healing Church, and their blood transfusions. It is a shock that old is the top word, but due to the references to the old gods and old blood within the game it's understandable.  </p>
         <p><img src="images/Frequency_Word_Graph.jpg" alt="Frequency_Word_Graph"></img></p>
         <img src="images/Frequency_Word_Cloud.jpg" alt="Frequency_Word_Cloud"></img>
-        </div>
+        
+        <br/>
+        <br/>
+        
+        
+<p>Blood/Church/Hunter Frequency in Bloodborne Item Guide. 
+<br/>
+        This Graph is based on the more common words in the Bloodborne Item List.</p>
+             <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1100 800" style="border">
+    <g transform="translate(-100,0)">
+            
+            {
+let $words := $main//Q{}lore/string()=>string-join()=>lower-case()
+let $words-cleaned := replace($words, '[,|"|!|\.|(|)|\?|;|\[|\]]+', ' ') => normalize-space()
+let $words-separate := tokenize($words-cleaned, '\s')
+let $bloodTotal := ($words-cleaned ! replace(., "blood", " blood ", "i") ! (tokenize(.)[. = 'blood']) => count())
+let $churchTotal := ($words-cleaned ! replace(., "church", " church ", "i") ! (tokenize(.)[. = 'church']) => count())
+let $hunterTotal := ($words-cleaned ! replace(., "hunter", " hunter ", "i") ! (tokenize(.)[. = 'hunter']) => count())
+let $huntersTotal := ($words-cleaned ! replace(., "hunters", " hunters ", "i") ! (tokenize(.)[. = 'hunters']) => count())
+let $oldTotal := ($words-cleaned ! replace(., "old", " old ", "i") ! (tokenize(.)[. = 'old']) => count())
+    
+   return 
+                <g>
+               <text x="-350" y="100" font-family="sans-serif" font-size="40px" fill="black">Blood: {$bloodTotal}</text>
+                <line x1="0" y1="100" x2="{$bloodTotal}" y2="100" stroke="orange" stroke-width="30"/>
+                <text x="-350" y="200" font-family="sans-serif" font-size="40px" fill="black">Church: {$churchTotal}</text>
+                <line x1="0" y1="200" x2="{$churchTotal}" y2="200" stroke="black" stroke-width="30"/>
+                <text x="-350" y="300" font-family="sans-serif" font-size="40px" fill="black">Hunter: {$hunterTotal}</text>
+                <line x1="0" y1="300" x2="{$hunterTotal}" y2="300" stroke="black" stroke-width="30"/>
+                <text x="-350" y="400" font-family="sans-serif" font-size="40px" fill="black">Hunters: {$huntersTotal}</text>
+                <line x1="0" y1="400" x2="{$huntersTotal}" y2="400" stroke="black" stroke-width="30"/>
+                <text x="-350" y="500" font-family="sans-serif" font-size="40px" fill="black">Old: {$oldTotal}</text>
+                <line x1="0" y1="500" x2="{$oldTotal}" y2="500" stroke="black" stroke-width="30"/>
+                </g>
+        }
+        </g></svg>
+        
+
+</div>
+        
+        
         <h4><a href="#top">Back to the top</a></h4>    
        </body>
        </html>

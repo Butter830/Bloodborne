@@ -33,7 +33,7 @@ declare variable $yspacer := 50;
          <h4><a href="#">About</a></h4>
       </div>
       
-<div>
+<div class="content">
 <p>Blood/Church/Hunter Frequency in Bloodborne Item Guide. 
 <br/>
         This Graph is based on the more common words in the Bloodborne Item List.</p>
@@ -47,15 +47,21 @@ let $words-separate := tokenize($words-cleaned, '\s')
 let $bloodTotal := ($words-cleaned ! replace(., "blood", " blood ", "i") ! (tokenize(.)[. = 'blood']) => count())
 let $churchTotal := ($words-cleaned ! replace(., "church", " church ", "i") ! (tokenize(.)[. = 'church']) => count())
 let $hunterTotal := ($words-cleaned ! replace(., "hunter", " hunter ", "i") ! (tokenize(.)[. = 'hunter']) => count())
+let $huntersTotal := ($words-cleaned ! replace(., "hunters", " hunters ", "i") ! (tokenize(.)[. = 'hunters']) => count())
+let $oldTotal := ($words-cleaned ! replace(., "old", " old ", "i") ! (tokenize(.)[. = 'old']) => count())
     
    return 
                 <g>
-               <text x="-350" y="20" font-family="sans-serif" font-size="40px" fill="black">{$bloodTotal}</text>
-                <line x1="0" y1="20" x2="{$bloodTotal * $xspacer}" y2="{$yspacer}" stroke="orange" stroke-width="30"/>
-                <text x="{$churchTotal * $xspacer + 10}" y="40" font-family="sans-serif" font-size="40px" fill="black">{$churchTotal}</text>
-                <line x1="0" y1="40" x2="20" y2="{ $yspacer}" stroke="black" stroke-width="30"/>
-                <text x="{$hunterTotal * $xspacer + 10}" y="60" font-family="sans-serif" font-size="40px" fill="black">{$hunterTotal}</text>
-                <line x1="0" y1="60" x2="20" y2="{ $yspacer}" stroke="black" stroke-width="30"/>
+               <text x="-350" y="100" font-family="sans-serif" font-size="40px" fill="black">Blood: {$bloodTotal}</text>
+                <line x1="0" y1="100" x2="{$bloodTotal}" y2="100" stroke="orange" stroke-width="30"/>
+                <text x="-350" y="200" font-family="sans-serif" font-size="40px" fill="black">Church: {$churchTotal}</text>
+                <line x1="0" y1="200" x2="{$churchTotal}" y2="200" stroke="black" stroke-width="30"/>
+                <text x="-350" y="300" font-family="sans-serif" font-size="40px" fill="black">Hunter: {$hunterTotal}</text>
+                <line x1="0" y1="300" x2="{$hunterTotal}" y2="300" stroke="black" stroke-width="30"/>
+                <text x="-350" y="400" font-family="sans-serif" font-size="40px" fill="black">Hunters: {$huntersTotal}</text>
+                <line x1="0" y1="400" x2="{$huntersTotal}" y2="400" stroke="black" stroke-width="30"/>
+                <text x="-350" y="500" font-family="sans-serif" font-size="40px" fill="black">Old: {$oldTotal}</text>
+                <line x1="0" y1="500" x2="{$oldTotal}" y2="500" stroke="black" stroke-width="30"/>
                 </g>
         }
         </g></svg>
