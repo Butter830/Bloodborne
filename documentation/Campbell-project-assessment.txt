@@ -1,0 +1,31 @@
+Project review: Bloodborne Item Finder
+4/29/2024
+Dr. Campbell
+
+Goals and scope:
+
+This project, which relates to the Bloodborne video game, took a cue from the defunct Bloodborne Lore project from 2019. (The original site is no longer hosted but the original github repo is at https://github.com/koshinf/Bloodborne_Lore ). This team inherited some usable XML, which they extended significantly by adding many types of items that had not been covered in the 2019 project.
+
+The initial plan was to use image mapping to create a map-based guide to all the items in the game; thus the game map would be the principal interface. (This too was part of the 2019 project, though the code they used would not have worked on a GitHub Pages site.) This proved impractical for a number of reasons, including the facts that not all items have a location, some have many locations, and that the sheer number of items runs into the hundreds. Similar issues prevented the alternative model of using a network graph with nodes representing locations and items.
+
+While the image map does exist, its links (popups describing each location) are more modest in scope. This seems reasonable under the circumstances.
+
+The bulk of the website consists of lists of the items sorted into categories, each item having a name, an image (three are missing or incorrectly linked), and a description. There is also a checklist by which a user can keep track of items they have.
+
+UX and design: 
+
+The site is visually attractive and uses at least three separate css files to style different pages. After the visually engaging header on the index page, the plain headers on the other pages come across as rather bland; perhaps the index header could have been copied over to those (as the navbar was). The navbar is at the limit of the number of buttons one would want, and "maps" and "graphs" are downplayed by being put at the right-hand side. Having "attire" through "weapons" be placed in a dropdown might have been more satisfactory, but otherwise it must be said that the result works. The swirling cloud background is attractive and fun but may make some readers slightly seasick after a while.
+
+Code: 
+
+Getting the XML right took plenty of work, since the team first needed to follow the example of their inherited XML from Bloodborne Lore, but then also had to adapt their inherited code when not all of it was susceptible to XQuery in the ways they needed. Hundreds of images had to be located, downloaded, and properly named to get them to link to their respective XML item elements; the fact that three are lacking is small potatoes in the overall scale.
+
+Most of the XQuery generates the html sites for the item category pages. These are the same, structurally speaking, with minor tweaks to add headers and a bit of text and to pull the right category of items from the XML. The checklist is also a modification of this, but a useful one.
+
+However, several distinct FLWOR statements perform counts (item types, locations, word frequencies) to create the graphs page. These all work but could have benefitted from more discussion. There are also some oddities: if one looks at the Items Per Locaiton graph, the numbers and proportions don't match. This is because the y axis was not set at x=0 but the end of each bar was set as if it had been.
+
+The source of the inherited XML code, with a link to the Bloodborne Lore repo, should have been acknowledged and was not.
+
+Summary:
+
+This is a solid project that players of the game should find actually useful. The team that created it can justifiably be proud of their hard work.
